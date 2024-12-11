@@ -1,5 +1,5 @@
 [0:00:000] Ta relikwia dała ci umiejętność sprężania i manipulowania przestrzenią.
-[0:05:687] Jako twoja symbiotyczna broń, Grabieżca Dusz jest równie wzmocniony.
+[0:05:687] Jako twoja symbiotyczna broń, Grabieżca Dusz również został wzmocniony.
 [0:10:514]
 [0:11:491] Możesz skupiać i wystrzeliwać sfery energii kinetycznej w celu
 [0:15:380] uderzania w obiekty, które zazwyczaj są poza twoim zasięgiem.
