@@ -76,14 +76,14 @@ glebia bitów
 wybierz rozdzielczosc
 wybierz sterownik
 konfiguracja wideo
-epusty
+pusty
 reset
 kontroler
 kontroler
 kontroler
 kontroler
 klawiatura
-sterowania
+sterowanie
 konfiguracja kontrolera
 konfiguracja kontrolera
 konfiguracja kontrolera
@@ -313,45 +313,45 @@ opcje sterowania 5
 opcje sterowania 6
 material dodatkowy
 odtwarzacz wideo
-galria
+galeria
 odtwarzacz muzyki
 mroczna kronika
 zaginione poziomy
-czytnik opisuy swiata
+czytnik opisu swiata
 wprowadzenie
 lista plac
-podziemie - trzymajaca w napieciu
-podziemie - zagrozenie
-podziemie - porucznik
-underworld - duchowy
-twierdza raziela
-kuznia ognia
-nekropolia
-nekropolia - puzzle
-nekropolia - zagrozenie
-nekropolia - walka
-nekropolia - duchowy
-miasto
-miasto - trzymajaca w napieciu
-miasto - zagrozenie
-miasto - walka
-katedra
-katedra - walka
-kuznia dzwieku
-krypta pod filarami - trzymajaca w napieciu
-krypta pod filarami - zagrozenie
-krypta pod filarami - walka
-kuznia slonca
-kuznia dzwieku
-zatopione opactwo - trzymajaca w napieciu
-zatopione opactwo - walka
-ruiny miasta - trzymajaca w napieciu
-ruiny miasta - zagrozenie
-ruiny miasta - walka
-latarnia
-latarnia - trzymajaca w napieciu
-latarnia - walka
-spotkanie z turelem
+underworld - suspenseful
+underworld - danger
+underworld - lieutenant
+underworld - spectral
+raziel's stronghold
+fire forge
+necropolis
+necropolis - puzzles
+necropolis - danger
+necrolis - combat
+necropolis - spectral
+city
+city - suspenseful
+city - danger
+city - combat
+cathedral
+cathedral - combat
+sound forge
+pillars' tomb - suspenseful
+pillars' tomb - danger
+pillars' tomb - combat
+sunlight forge
+sound glyph
+drowned abbey - suspenseful
+drowned abbey - combat
+ruined city - suspenseful
+ruined city - danger
+ruined city - combat
+lighthouse
+lighthouse - suspenseful
+lighthouse - combat
+turel encounter
 zaginiony poziom 1
 zaginiony poziom 2
 zaginiony poziom 3
