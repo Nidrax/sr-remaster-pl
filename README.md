@@ -1,2 +1,2 @@
 # sr-remaster-pl
-Polish subtitles for Legacy of Kain: Soul Reaver I &amp; II Remasterd
+Unofficial Polish translation for subtitles in Legacy of Kain: Soul Reaver 1&amp;2 Remasterd
