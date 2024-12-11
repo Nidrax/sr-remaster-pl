@@ -1,0 +1,411 @@
+
+sformatuj karte pamieci
+odczytywanie karty pamieci w slocie 1
+powrót
+anuluj
+wybierz plik zapisu legacy of kain: soul reaver do odczytu
+wybierz plik do zapisu swoich postepów
+potwierdz
+kontynuuj
+kontroler
+stwórz nowy plik
+tworzenie pliku zapisu
+demo
+nie wyjmuj karty pamieci ze slotu 1
+gotowe
+wyjdz z gry
+formatowanie karty pamieci
+powrót
+umiesc karte pamieci w slocie 1
+umiesc karte pamieci z przynajmniej 3 wolnymi blokami w slocie 1
+niewlasciwa karta pamieci
+odczyt zakonczony niepowodzeniem
+wczytaj gre
+wczytywanie danych gry
+muzyka:
+nowa gra
+nie
+brak karty pamieci
+karta pamieci przepelniona
+brak wystarczajacej liczby wolnych bloków
+ok
+opcje
+nadpisz
+wstrzymano
+Wcisnij
+czy chcesz sformatowac?
+czy nadpisac uprzednio zapisana gre na karcie pamieci w slocie 1?
+czy chcesz opuscic gre?
+wyjdz z gry
+wznów
+blad zapisu
+zapisz gre
+gra zapisana
+zapisywanie danych gry
+dzwiek:
+rozpocznij gre
+rozpocznij nowa gre
+spróbuj ponownie lub umiesc nowa karte pamieci
+niesformatowana karta pamieci
+wibracje wyl.
+wibracje wyl.
+wibracje wyl.
+wibracje wyl.
+wibracje wl.
+wibracje wl.
+wibracje wl.
+wibracje wl.
+mowa:
+gra legacy of kain: soul reaver wymaga 3 wolnych blokow na karcie pamieci
+upewnij sie, ze w slocie 1 umieszczona karte pamieci z 3 wolnymi blokami aby móc zapisac gre
+tak
+filtrowanie tekstur
+gamma
+fixed
+wybierz ten sterownik
+nastepny sterownik
+wybierz te rozdzielczosc
+nastepna rozdzielczosc
+obecny sterowny
+proponowany sterownik
+obecna rozdzielczosc
+proponowana rozdzielczosc
+szerokosc
+wysokosc
+glebia bitów
+wybierz rozdzielczosc
+wybierz sterownik
+konfiguracja wideo
+epusty
+reset
+kontroler
+kontroler
+kontroler
+kontroler
+klawiatura
+sterowania
+konfiguracja kontrolera
+konfiguracja kontrolera
+konfiguracja kontrolera
+konfiguracja kontrolera
+kongfiguracja klawiatury
+góra
+dól
+lewo
+prawo
+trójkat
+x
+kwadrat
+kólko
+l1
+l2
+r1
+r2
+i
+j
+start
+select
+naprzód
+do tylu
+w lewo
+w prawop
+skok/plywanie
+pozryj dusze
+celowanie/chwyt
+akcja
+kucanie
+skradanie/nacelowanie przeciwnika
+ekran mapy
+rozgladanie
+start
+menu glifów
+przyblizenie
+escape
+backspace
+tab
+enter
+lewy ctrl
+lewy shift
+prawy shift
+numpad *
+lewy alt
+spacja
+caps lock
+f1
+f2
+f3
+f4
+f5
+f6
+f7
+f8
+f9
+f10
+num lock
+scroll lock
+numpad 7
+numpad 8
+numpad 9
+numpad -
+numpad 4
+numpad 5
+numpad 6
+numpad +
+numpad 1
+numpad 2
+numpad 3
+numpad 0
+numpad .
+f11
+f12
+f13
+f14
+f15
+numpad =
+numpad enter
+prawy ctrl
+numpad ,
+numpad /
+sysrq
+prawy alt
+home
+góra
+page up
+lewo
+prawo
+end
+dól
+page down
+insert
+delete
+~
+ 
+@ACT5 aby wejsc w interakcje
+@ACT1 lub @ACT3 aby sie rozgladac
+@ACT5 aby wyjsc
+Przytrzymaj @ACT6 by sie posilic
+@ACT4 aby skoczyc
+Przytrzymaj @ACT9 + @ACT4 aby wykonac wysoki skok
+Skok a nastepnie przytrzymaj @ACT4 aby szybowac
+Przytrzymaj @ACTB aby namierzyc
+@ACT5 aby zaatakowac
+@ACTB + @ACT0 @ACT2 @ACT1 @ACT3 a nastepnie @ACT4 aby zrobic unik
+Zdrowie musi byc pelne
+Wcisnij @ACTC
+@ACT5 aby przejsc
+@ACT5 aby otworzyc
+Przytrzymaj @ACT7 aby chwycic
+Zwolnij @ACT7 aby rzucic
+Wcisnij @ACT5 aby pchnac
+Przytrzymaj @ACT5 aby zlapac
+@ACT5 + @ACT0 @ACT2 @ACT1 @ACT3 aby przeciagac
+@ACT5 aby podniesc
+@ACT9 + @ACT5 aby odlozyc
+Przytrzymaj @ACT7 aby automatycznie namierzyc
+@ACT9 aby anulowac
+Przytrzymaj @ACT7 aby nabic
+Przytrzymaj @ACTB aby sie skradac
+Przytrzymaj @ACT7 aby podpalic
+@ACT9 + @ACT5 aby obrocic
+@ACT5 aby operowac
+Przytrzymaj @ACT5 aby operowac
+@ACT9 + @ACT0 @ACT2 @ACT1 @ACT3 aby sie czolgac
+@ACT7 aby wycelowac recznie
+@ACT0 aby przeniknac
+@ACT4 aby sie wspinac
+@ACT5 aby upuscic
+Wcisnij @ACT7 aby wystrzelic
+@ACT4 aby plynac
+Przytrzymaj @ACT9 + @ACT4 by przyspieszyc
+Obiegnij obiekt, aby uzyc zaciskania
+@ACT1, @ACT3 aby wybrac
+@ACT5 aby uzyc mocy
+Przytrzymaj @ACTB aby spowolnic upadek
+@ACT9 aby kucac
+@ACTD aby obracac kamere
+Przytrzymaj @ACTA aby sie rozejrzec
+Musisz byc w sferze fizycznej
+Musisz byc w sferze duchowej
+Wcisnij @ACT4 aby poszybowac
+@ACT5 aby powrócic
+@ACT9 + @ACT4 aby wykonac wysoki skok
+Idz do przodu, aby przeniknac
+@ACTA aby sie rozgladac
+streaming
+Przenies sie do sfery duchowej, aby odkryc ukryte przejscia
+this is an illegal hint number
+kontroler jest odlaczony. podlacz kontroler ponownie
+kontroler jest odlaczony. podlacz kontroler ponownie
+kontroler jest odlaczony. podlacz kontroler ponownie
+kontroler jest odlaczony. podlacz kontroler ponownie
+NOSGOTH
+Opis świata Nosgoth
+Cel:
+@ACT8 Nieskazitelny / Skalany @ACTB
+Zablokowane
+Podziemie
+Wyjście z podziemia
+Sanktuarium
+Jezioro Umarłych
+Twierdza Raziela
+Glif Ognia
+Nekropolia
+Glif Siły
+Kryjówka Nupraptora
+Glif Kamienia
+Niema Katedra
+Glif Dźwięku
+Grobowiec Sarafanów
+Zatopione Opactwo
+Cytadela ludzi
+Glif Wody
+Glif Słońca
+Północne Pustkowia
+Ruiny Miasta
+Jaskinia Wyroczni
+Chronoplast
+Opuść Podziemie
+Odwiedź Jezioro Umarłych
+Zbadaj terytorium swojego klanu
+Przemierzaj Nekropolię
+Pokonaj Melchiah'ę
+Dostań się do Sanktuarium Klanów
+Przeszukaj Niemą Katedrę
+Pokonaj Zephona
+Znajdź ukrytą kryptę
+Pokonaj strażnika krypty
+Zwiedź Zatopione Opactwo
+Pokonaj Rahaba
+Odkryj Ruiny Miasta
+Pokonaj Dumah'ę
+Wejdź do Jaskini Wyroczni
+Udaj się wgłąb Chronoplastu
+Pokonaj Kaina
+ZNAJDŹKI
+Znalezione ulepszenia zdrowia
+Znalezione ulepszenia upiornej energii
+opcje gry
+opcje dzwieku
+opcje jezyka
+opcje sterowania
+wl.
+wyl.
+kompas:
+wskazówki:
+wskazówki interakcji:
+opcje gry 4
+opcje gry 5
+opcje gry 6
+napisy:
+jezyk:
+angielski
+niemiecki
+francuski
+wloski
+hiszpanski
+japonski
+rosyjski
+czulosc:
+odwrocenie osi Y:
+odwrocenie osi X:
+opcje sterowania 4
+opcje sterowania 5
+opcje sterowania 6
+material dodatkowy
+odtwarzacz wideo
+galria
+odtwarzacz muzyki
+mroczna kronika
+zaginione poziomy
+czytnik opisuy swiata
+wprowadzenie
+lista plac
+podziemie - trzymajaca w napieciu
+podziemie - zagrozenie
+podziemie - porucznik
+underworld - duchowy
+twierdza raziela
+kuznia ognia
+nekropolia
+nekropolia - puzzle
+nekropolia - zagrozenie
+nekropolia - walka
+nekropolia - duchowy
+miasto
+miasto - trzymajaca w napieciu
+miasto - zagrozenie
+miasto - walka
+katedra
+katedra - walka
+kuznia dzwieku
+krypta pod filarami - trzymajaca w napieciu
+krypta pod filarami - zagrozenie
+krypta pod filarami - walka
+kuznia slonca
+kuznia dzwieku
+zatopione opactwo - trzymajaca w napieciu
+zatopione opactwo - walka
+ruiny miasta - trzymajaca w napieciu
+ruiny miasta - zagrozenie
+ruiny miasta - walka
+latarnia
+latarnia - trzymajaca w napieciu
+latarnia - walka
+spotkanie z turelem
+zaginiony poziom 1
+zaginiony poziom 2
+zaginiony poziom 3
+zaginiony poziom 4
+zaginiony poziom 5
+zaginiony poziom 6
+zaginiony poziom 7
+zaginiony poziom 8
+zaginiony poziom 9
+zaginiony poziom 10
+zaginiony poziom 11
+zaginiony poziom 12
+zaginiony poziom 13
+zaginiony poziom 14
+zaginiony poziom 15
+zaginiony poziom 16
+zaginiony poziom 17
+wpis w mrocznej kronice 1: text text text text. There's more text here to fill.
+wpis w mrocznej kronice 2: text text text text. There's more text here to fill.
+wpis w mrocznej kronice 3
+wpis w mrocznej kronice 4
+wpis w mrocznej kronice 5
+wpis w mrocznej kronice 6
+wpis w mrocznej kronice 7
+wpis w mrocznej kronice 8
+wpis w mrocznej kronice 9
+wpis w mrocznej kronice 10
+wpis w mrocznej kronice 11
+wpis w mrocznej kronice 12
+wpis w mrocznej kronice 13
+wpis w mrocznej kronice 14
+wpis w mrocznej kronice 15
+wpis w mrocznej kronice 16
+wpis w mrocznej kronice 17
+wpis w mrocznej kronice 18
+wpis w mrocznej kronice 19
+wpis w mrocznej kronice 20
+wpis w mrocznej kronice 21
+wpis w mrocznej kronice 22
+wpis w mrocznej kronice 23
+wpis w mrocznej kronice 24
+wpis w mrocznej kronice 25
+wpis w mrocznej kronice 26
+wpis w mrocznej kronice 27
+wpis w mrocznej kronice 28
+wpis w mrocznej kronice 29
+wpis w mrocznej kronice 30
+wpis w mrocznej kronice 31
+wpis w mrocznej kronice 32
+Zresetuj Kamerę
+Zresetuj Ustawienia
+Ukryj Interfejs Użytkownika
+Powrót
+Obracanie
+Pole widzenia
+wyjscie do launchera
+Przytrzymaj aby pominąć
