@@ -1,0 +1,796 @@
+-PROLOGUE
+*A millennium has passed since Kain set his capital in the ruins of the Pillars of Nosgoth
+*and began his conquest of the world.
+*Kain, the arrogant "dark god", sits languidly on his throne. He has the Soul Reaver – his
+*hand rests on the pommel, the blade pointed downward.
+*The Pillars have been transformed – an immense and elaborate temple has been erected
+*around their ruined stumps, which occupy the space under the structure's massive central
+*dome.
+*Kain has placed his throne in the middle of the pedestal, at the base of the Pillar of
+*Balance (an ironic symbol of his new order).
+*The space is elaborately decorated, with clan regalia hanging around the perimeter of the
+*central dome. Various representatives of the vampire clans stand at the periphery of the
+*Pillars, watching the unfolding drama.
+#RAZIEL V.O.
+[(begins slowly, with sarcasm)
+Kain is deified. The Clans tell tales of Him. Few know the truth.
+He was mortal once, as were we all.
+However, his contempt for humanity drove him to create me, and my brethren.
+*Then, as Raziel enters the frame, walking toward Kain's throne –
+I am Raziel, first-born of His lieutenants.
+I stood with Kain and my brethren at the dawn of the empire.
+I have served Him a millennium.
+*Kain's eyes narrow as he looks at Raziel. He shifts forward in his seat, leaning in toward
+*Raziel as he studies him.
+#RAZIEL V.O.
+Over time, we became less human and more...
+[(searching for the right word)
+...divine. Kain would enter the state of change and emerge with a new gift.
+*Raziel stands in the center of the Pillars pedestal, in front of Kain's throne, staring
+*defiantly back at Kain.
+#RAZIEL V.O.
+Some years after the master, our evolution would follow.
+*Raziel slowly drops into a bow, revealing his wings as they slowly unfurl. He raises his
+*bowed head to gauge Kain's reaction.
+#RAZIEL V.O.
+[(with irony)
+Until I had the honor of surpassing my lord.
+*Kain's expression shifts as Raziel's wings are revealed. A strange expression, betraying
+*various emotions, but – oddly – not surprise.
+*Kain approaches Raziel, circling him, looking him up and down. Abruptly and violently,
+*Kain grabs Raziel's wings and tears them from his back. Raziel buckles in agony.
+#RAZIEL V.O.
+For my transgression, I earned a new kind of reward... agony.
+*At the cliffs of the Lake of the Dead – with its violently swirling vortex – Kain perches
+*at the end of the sacrificial platform, peering into the surging depths below. Two
+*Lieutenants drag a restrained Raziel forward, his broken wings hanging loosely from his
+*back. The other three Lieutenants follow behind.
+#RAZIEL V.O.
+There was only one possible outcome – my eternal damnation.
+*Kain perches near the edge, looking down into the vortex. Despite the atrocity of his
+*intent, he is heroic-looking, a larger-than-life figure. His expression is deep,
+*inscrutable. He rises, still looking into the abyss, and brushes his hands. He turns to
+*walk back down the platform.
+#RAZIEL V.O.
+I, Raziel, was to suffer the fate of traitors and weaklings – to burn forever in the bowels
+of the Lake of the Dead.
+*He strides past the Lieutenants, and without looking at Raziel, orders them to throw him
+*in.
+#KAIN
+Cast him in.
+#RAZIEL
+[(struggling, then screaming as he is thrown into the vortex)
+*Raziel tumbles through the air, falling toward the vortex, his broken wings fluttering
+*uselessly. He barrels toward impact with the whirlpool.
+*Raziel plunges into the water, falling and being buffeted by the vortex, burning and
+*writhing in pain. Bubbles rise from his body as the water dissolves him like acid – he
+*blazes with white-hot magnesium fire. As his flesh melts away, his lower jaw is torn off,
+*and his wings and cloak become ragged.
+#RAZIEL V.O.
+Tumbling, burning with white-hot fire, I plunged into the depths of the abyss.
+Unspeakable pain... relentless agony... ... time ceased to exist...
+... only this torture... and a deepening hatred of the hypocrisy that damned me to this
+hell.
+*After an eternity of falling, Raziel comes to rest. His body is burned, destroyed, reduced
+*to bone and sinew – by all outward appearances, he's dead. He lays on a mysterious stone
+*floor covered with carved spirals. It is strangely quiet and still in the depth of this
+*ancient place.
+#RAZIEL V.O.
+An eternity passed, and my torment receded, bringing me back from the precipice of madness.
+*The world then visibly transforms, and Raziel morphs slowly into his final form. His dark
+*eye sockets blaze with white-hot supernatural light, his skin morphs to its bluish tones,
+*and black streaks appear around his eyes. His hair and wings drift to rest, as though he
+*is no longer underwater. Raziel lifts himself up on his hands, then to his knees. Rising,
+*he explores this new body – he looks at his hands, and feels the emptiness where his lower
+*jaw should be.
+#RAZIEL V.O.
+The descent had destroyed me... and yet I lived.
+*As he stands to full height, he wraps the remains of his cloak around his shoulders and
+*hides his face, leaving only his eldritch eyes visible. An ancient looking cavern is
+*revealed, the walls and floor covered with thousands of carved, interlocking spirals. The
+*place is surreal, with impossible perspective lines, the architecture canted in extreme
+*expressionistic forms. Raziel is dwarfed in this immense space.
+*An ancient, alien voice bubbles up out of the darkness.
+#ELDER GOD
+[(slowly)
+Raziel...
+*Raziel spins in surprise, looking up in the darkness toward a mysterious, shifting shape –
+*the source of the voice. The god, and the surrounding walls, are covered with innumerable
+*staring eyes.
+*The god's voice is alien-sounding, watery and reedy, conveying that this is a
+*preternaturally ancient creature.
+#ELDER GOD
+[(slowly, drawn-out)
+You are worthy.
+
+-CHAPTER 1 – A DARK COVENANT
+*Raziel has been saved from the brink of oblivion by a mysterious benefactor – a
+*preternaturally ancient god dwelling in the depths of the abyss.
+*The Elder offers Raziel a covenant: become his "reaper," his angel of death, bring down
+*the vampires' apostate souls, and he can return to Nosgoth to wreak his vengeance.
+#ELDER GOD
+I know you, Raziel. You are worthy.
+#RAZIEL
+[(looking around, confused)
+What madness is this? What pitiful form is this that I have come to inhabit? Death would be
+a release, next to this travesty.
+#ELDER GOD
+[(correcting him)
+You did not survive the abyss, Raziel. I have only spared you from total dissolution.
+#RAZIEL
+[(angry)
+I would choose oblivion over this existence!
+#ELDER GOD
+The choice is not yours.
+#RAZIEL
+[(agonized, bereft)
+I am destroyed!
+#ELDER GOD
+[(firmly, slowly)
+You are reborn.
+#ELDER GOD
+The birth of one of Kain's abominations traps the essence of life. It is this soul that
+animates the corpse you 'lived' in.
+And that Raziel, is the demise of Nosgoth. There is no balance. The souls of the dead
+remain trapped. I can not spin them in the wheel of fate. They can not complete their
+destinies.
+Redeem yourself. Or if you prefer, avenge yourself.
+Settle your dispute with Kain.
+Destroy Him and your brethren. Free their souls and let the wheel of fate churn again.
+Use your hatred to reave their souls...
+I can make it possible.
+Become my soul reaver, my angel of death...
+
+-CHAPTER 2 – THE RUINS OF EMPIRE
+*Raziel, now the Elder God's fledgling angel of death, resurfaces to find himself assailed
+*by the degenerate offspring of his former brethren, who have long-since devolved into
+*monstrous forms.
+*Raziel enters a courtyard from a tunnel. He gazes to his left, dumbstruck, as he walks
+*slowly forward.
+#RAZIEL
+[(in horrified awe)
+My God...
+*The surrounding architecture is Raziel's first real clue as to how much time has passed
+*between his execution and resurrection.
+#RAZIEL V.O.
+The Sanctuary of the Clans, reduced to ruin...
+Beyond these walls lay the Pillars of Nosgoth, the seat of Kain's empire.
+How humble it now appeared, collapsing into the dust of its former magnificence.
+And yet I had only just emerged...
+In the instant between my execution and resurrection, centuries had apparently passed...
+*The ground shakes violently; Raziel is nearly knocked off his feet.
+#ELDER GOD
+This world is wracked with cataclysms – the earth strains to shrug off the pestilence of
+Kain's parasitic empire.
+#ELDER GOD
+The fate of this world was preordained in an instant, by a solitary man.
+Unwilling to martyr himself to restore Nosgoth's balance, Kain condemned the world to the
+decay you see.
+In that moment, the unraveling began... now it is nearly played out.
+Nosgoth teeters on the brink of collapse – its fragile balance cannot hold.
+
+-CHAPTER 3 – THE WASTE LAND
+*Returning to the sacrificial cliffs at the Lake of the Dead, Raziel walks onto the main
+*platform, and to its edge, peering into the vortex below.
+#RAZIEL V.O.
+This, at least, had remained constant. The endlessly swirling vortex of the abyss. My tomb,
+and the womb of my rebirth.
+*He rises, surveying his surroundings.
+#RAZIEL V.O.
+Though much of Nosgoth's landscape had changed, these cliffs gave me my bearings. My clan
+territory was to the west – I was anxious to see how my descendants had fared during the
+centuries of my absence.
+
+-CHAPTER 4 – THE FATE OF THE RAZELIM
+*Raziel discovers that his clan has apparently been wiped out – the city they once occupied
+*is desolate, clearly abandoned for centuries.
+#RAZIEL V.O.
+Utter desolation. My once-proud kin, wiped from this world like excrement from a boot.
+I knew the hand that wrought this deed...
+
+-CHAPTER 5 – THE GARDENS OF THE DEAD
+*After encountering decayed, ghoulish monsters, and after having recognized Melchiah's clan
+*symbols scrawled throughout the Necropolis, Raziel realizes that these zombie-like
+*creatures are actually the children of his former brother, Melchiah.
+*Seeing the ransacked graves and crypts, Raziel realizes that the Melchahim have robbed the
+*graves of the Necropolis to recruit new vampires.
+#RAZIEL V.O.
+This charnel house bore the unmistakable marks of Melchiah's clan. To what depths had our
+dynasty plummeted, if these ghouls were the descendants of my high-born brother?
+Were they so debased as to recruit fledglings from the desiccated corpses here interred?
+*Raziel comes upon an engraving of Melchiah in his near-human form. This is a towering,
+*heroic monument – contrasted with the scuttling, devolved Melchahim just beyond the next
+*gate.
+#RAZIEL V.O.
+My brother, Melchiah, was made last, and therefore received the poorest portion of Kain's
+gift. Although immortal, his soul could not sustain the flesh, which retained much of its
+previous human frailty.
+This weakness, it seemed, was passed on to his offspring. Their fragile skins barely
+contained the underlying decay.
+
+-CHAPTER 6 – DISCORD AMONG BRETHREN
+*As Raziel reaches the depths of the Necropolis and approaches the shadowy dais, he sees a
+*hulking figure shifting in the shadows. Strange noises emanate from the darkness – muffled
+*moans, and the groaning of some heavy weight.
+#STRANGE SOUNDS
+[(muffled moans, groans, and sighs)
+#RAZIEL
+[(addressing the shadowy dais)
+Show yourself, creature!
+#MELCHIAH
+[(sarcastic/ironic)
+Do you not recognize me, brother?
+[(he shifts into the light, clearly revealing his monstrous features)
+Am I so changed?
+*By the time Raziel enters the chamber, he has seen the degradation of the Melchahim, but
+*it's still a shock when Raziel finally confronts his brother Melchiah – even after
+*everything he's seen, he's not prepared for Melchiah's monstrous appearance. It's a
+*powerful indication that their vampire evolution took a frightening turn after his
+*execution.
+#RAZIEL
+[(revulsion and recognition)
+Melchiah?
+#MELCHIAH
+Yesss, brother.
+You should have stayed where the master sent you, Raziel. You will find Nosgoth less
+pleasant than you remember.
+#RAZIEL
+What has become of my clan? Answer me, little brother, or I will beat an answer from your
+horrid lips.
+#MELCHIAH
+Everyone is afraid, sibling. You awake to a world of fear. These times of change are so...
+unsettling.
+Do you think I feel no revulsion for this form?
+Do you believe for a moment that our Lord would risk his empire upon an upstart
+inheritance?
+#RAZIEL
+Enough riddles – what are you saying?!
+#MELCHIAH
+You are the last... to die...
+*Raziel traps Melchiah in the center cage, and goes to pull the switch.
+#RAZIEL
+[(threateningly)
+Tell me, Melchiah – where can I find Kain?
+#MELCHIAH
+The master is beyond your reach, Raziel.
+[(pause)
+He makes himself known when He sees fit – not when commanded.
+#MELCHIAH
+[(dying in agony)
+*And finally:
+#MELCHIAH
+[(his last gasp)
+I am released...
+*The impact of devouring Melchiah's soul knocks Raziel to his knees. He's exhausted; sparks
+*of energy flicker over his body.
+#ELDER GOD
+You have done well, Raziel.
+#RAZIEL
+[(exhausted, angry)
+Am I reduced to this? A ghoul? A fratricide?
+#ELDER GOD
+[(correcting him)
+Elevated, Raziel, not reduced.
+[(pause)
+Consuming Melchiah's soul has endowed you with a new gift.
+[(referring to the iron bars that block Raziel's exit)
+Insubstantial barriers such as these are no impediment to you in the spectral realm.
+Will yourself to pass through, and you shall.
+*As Raziel proceeds to exit the Necropolis, the Elder God offers the following guidance:
+#ELDER GOD
+With Melchiah's gift, your way is opened. Return to the seat of Kain's ill-omened empire –
+its sterile silence has secrets yet to unveil.
+
+-CHAPTER 7 – A FATEFUL CONFRONTATION
+*Raziel stumbles upon his first encounter with Kain inside the now dilapidated and
+*abandoned Pillars – he does not know that Kain will be waiting for him there. As Raziel
+*enters the room, Kain leans casually on his former throne, the Soul Reaver strapped to his
+*back. He has clearly been waiting for Raziel.
+#KAIN
+[(a dispassionate greeting; he is unreadable)
+Raziel.
+#RAZIEL
+[(surprised, furious)
+Kain!
+#KAIN
+[(sarcastically, he comments on Raziel's appearance)
+The abyss has been unkind.
+*Kain rises and begins to approach Raziel, casually but menacingly.
+#RAZIEL
+[(icily)
+I am your creation, Kain – now, as before. You criticize your own work.
+What have you done with my clan, degenerate? You have no right –
+#KAIN
+[(loudly, interrupting)
+What I have made, I can also destroy, child.
+#RAZIEL
+[(boiling over with rage)
+Damn you, Kain! You are not God!
+This act of genocide is unconscionable!
+#KAIN
+[(losing patience)
+Conscience...? You dare speak to me of conscience? Only when you have felt the full gravity
+of choice should you dare to question my judgment!
+Your life's span is a flicker compared to the mass of doubt and regret that I have borne
+since Mortanius first turned me from the light...
+To know that the fate of the world hangs dependent on the advisedness of my every deed –
+can you even begin to conceive what action you would take, in my position?
+#RAZIEL
+[(steely)
+I would choose integrity, Kain.
+#KAIN
+[(appearing to soften momentarily, as he gestures around the room)
+Look around you, Raziel – see what has become of our empire.
+Witness the end of an age. The clans, scattered to the corners of Nosgoth...
+[(his tone changing)
+This place has outlasted its usefulness –
+[(then, turning toward Raziel, his voice turning icy)
+as have you.
+*As Kain utters this last line, he draws the Soul Reaver from its scabbard; its energy
+*leaps to life.
+#RAZIEL V.O.
+The Soul Reaver, Kain's ancient blade – older than any of us, and a thousand times more
+deadly.
+The legends claimed that the blade was possessed, and thrived by devouring the souls of its
+victims.
+For all our bravado, we knew what it meant when Kain drew the Soul Reaver in anger – it
+meant you were dead.
+*Raziel and Kain engage in combat.
+*Kain raises the Soul Reaver against Raziel. The ancient blade, believed to be
+*indestructible, shatters when Kain attempts to strike Raziel down.
+*The combat ends when the Soul Reaver is destroyed –
+#KAIN
+The blade is vanquished. So it unfolds... and we are a step closer to our destinies.
+[(fading, echoing, laughter, as Kain vanishes)
+*When Raziel drops back into the spectral plane, he discovers that the Soul Reaver – now a
+*wraith blade – is hovering there. Raziel reaches out (almost tentatively) and grasps the
+*sword. The blade flares to life, its energy melding with Raziel's.
+#RAZIEL V.O.
+I swore I saw a glint of satisfaction in Kain's eye when the Soul Reaver was destroyed. I
+did not understand the game that Kain was playing.
+[(admiring the blade, now his, and feeling its weight)
+But I knew the finishing move.
+*After Raziel has claimed the blade, the Elder God chimes in –
+#ELDER GOD
+From this moment and ever afterward, you and this blade are inextricably bound. Soul Reaver
+and reaver of souls, your destinies are intertwined.
+By destroying the sword, you have liberated it from its corporeal prison, and restored it
+to its true form – a wraith blade, its energy unbound.
+No longer a physical blade, it can only manifest itself in the material realm when your
+strength is fully restored. Once manifest, it will sustain you.
+*After Raziel grasps the sword, a spirit appears, drifting toward him from behind the
+*Pillars. It's Ariel, the spirit of the Pillars, bound here for millennia.
+#ARIEL
+[(benevolent but detached, tangential)
+What are you, little soul? Another of Kain's creatures, come to taunt this bound spectre?
+#RAZIEL
+[(a little taken aback, and wary)
+I did not intend to disturb your rest.
+#ARIEL
+[(with irony and detachment)
+Rest...? A body is needed for sleep... Flesh and bones are required to recline.
+No, child, all I may do is watch, and remember, ceaselessly conscious as this wretched
+world's history unfurls.
+Ghastly past, insufferable future, are they one and the same...?
+Am I always here?
+#RAZIEL
+How have you come to haunt these Pillars?
+#ARIEL
+[(remembering, growing angry)
+Kain refused the sacrifice. The Pillar of Balance, corrupted to its core, stands as a
+monument to his blind ambition.
+Now these pillars serve only to bind me here – my prison and eternal home, thanks to the
+avarice of your master, Kain...
+#RAZIEL
+That bastard can claim no allegiance from me.
+#ARIEL
+Then we share a common foe, Raziel. Return here when you have need.
+Ariel remembers what others have forgotten...
+*As Raziel exits the Sanctuary of the Clans, the Elder God offers the following guidance:
+#ELDER GOD
+Your brother Zephon's keep lies far to the east, beyond the ruins that greeted your first
+exit from the Underworld.
+He and his brood have cocooned themselves in a derelict cathedral, having murdered its
+human guardians.
+
+-CHAPTER 8 – A STIFLED TITAN
+*Raziel enters the Silenced Cathedral for the first time.
+#RAZIEL V.O.
+Once a testament to mankind's defiance of Kain's empire, this towering cathedral now stood
+derelict, the humans who worshipped here, centuries dead.
+Its architects conceived this tower as a holy weapon against the vampire menace, a colossal
+instrument of brass and stone.
+The cathedral's pipes, once tuned to blast a deadly hymn, now stood silent, and these
+vacant spaces whistled their impotence.
+
+-CHAPTER 9 – THE PARASITIC HOST
+*Having worked his way to the top of the Silenced Cathedral, Raziel finally enters the lair
+*of Zephon, another of his former brothers and fellow lieutenants.
+*Zephon is a grotesquerie, with few vestiges of his humanity remaining – his body is
+*inhumanly thin and insectile, his skin chitinous; his arms are distorted into
+*praying-mantislike stabbing claws. His body is tethered to the ceiling and surrounding
+*walls by masses of webbing. Only his face reveals his original humanity.
+*Zephon's voice, whispery and sibilant, is appropriate to his spidery appearance. He
+*extends his body, descending from the ceiling, to "greet" Raziel as he enters.
+#ZEPHON
+The prodigal son...
+There is no returning for you, Raziel.
+#RAZIEL
+Zephon, your visage becomes you. It's an appropriate reflection of your soul...
+#ZEPHON
+...and you are not His handsome Raziel anymore. His precious first-born son, turned
+betrayer.
+You have missed so many changes, little Raziel. Look around you. See how the humans' weapon
+of destruction has become my home... Indeed, my body.
+A cocoon of brick and granite from which to watch a pupating world...
+#RAZIEL
+[(correcting Zephon, with disgust)
+A crevice in which to cower, only scuttling from the shadows to devour a victim already
+ensnared in your cowardly trap.
+But you've made the mistake of leaving me unbound, and it is you who must succumb to my
+will.
+#ZEPHON
+Will... instinct... reflex action... the insect mind finds little difference.
+I warn you, brother – as my stature has grown, so it is matched by my appetite.
+Step forward, morsel...
+*As Raziel defeats Zephon, devouring his soul –
+#ZEPHON
+[(dying in agony)
+Nooooo!
+#ELDER GOD
+Consuming Zephon's apostate soul has bestowed on you a new gift.
+Like his vampire spawn, you are able to scale certain walls which are otherwise impassable
+– but only in the physical realm.
+In the spirit world, these insubstantial edifices will not support you.
+*As Raziel exits Zephon's chamber –
+#ELDER GOD
+In the mountains beyond the Pillars, Nosgoth's cataclysms have exposed an ancient crime.
+Endowed with Zephon's soul, you may now progress where your path was hitherto impeded.
+
+-CHAPTER 10 – A SHALLOW GRAVE
+*After leaving the Pillars, Raziel comes across a narrow, twisting passage. Following the
+*path, he steps out into a clearing. An ancient architectural facade towers above him, a
+*holy place now laying half in ruin.
+#RAZIEL V.O.
+The ancient tomb of the Sarafan, once impenetrably sealed... Now, ravaged by Nosgoth's
+upheavals, its mysteries lay exposed.
+In the time of Vorador, centuries before Kain was made, the Sarafan warrior priests waged a
+merciless war against the vampire tribes of Nosgoth. Emboldened by righteousness, they
+committed unspeakable and indiscriminate acts of violence – massacring fledglings and
+ancients alike, they decimated entire bloodlines in mere decades.
+Now their husks lay here – murderers enshrined.
+*As Raziel steps into the ancient hallway leading to the Sarafan tomb, the Elder God warns:
+#ELDER GOD
+Take heed, Raziel. A forgotten history lies within.
+Know thyself – though it may destroy you...
+
+-CHAPTER 11 – A TERRIBLE EPIPHANY
+*Having discovered a twisting passageway, Raziel makes his way into the depths of the tomb.
+*The passage apparently dead-ends, blocked by a massive stone that seals the tomb. The
+*stone is no impediment to Raziel, and he easily wrenches it free.
+#RAZIEL V.O.
+As I pulled the stone free, a sigh of sepulchral air escaped the inner chamber.
+I was not prepared for what lay beyond this threshold...
+*Raziel enters the tomb, looking around. He walks around the perimeter of the round room,
+*revealing each of the wall-crypts as he passes. The sarcophagi in the crypts have been
+*blasted open, the lids torn back – they are all empty. The names carved in ancient script
+*above each crypt are revealed: Dumah, Melchiah, Zephon, Raziel, Rahab, Malek, Turel.
+*Raziel walks along, passing the names with which he has already become familiar, running
+*his hand along the ruptured caskets. He passes the resting places slowly, in shock at what
+*he's discovering; the impact of his epiphany is slowly settling in. He comes to a stop at
+*his own crypt, reading his name engraved there.
+#RAZIEL V.O.
+These crypts... defiled caskets of Sarafan saints... bearing my brothers' names...
+And my own...
+#RAZIEL V.O.
+The irony of Kain's blasphemous act rushed in on me with the crushing force of
+revelation...
+[(pause)
+Were my hands not as bloody as these? Worse, I had spilled the blood of my brothers – these
+very comrades whose tombs lay ravaged before me.
+#ELDER GOD
+[(confirming his discovery)
+Yes, Raziel – you were Sarafan... born of the same force that all but destroyed your race.
+#ELDER GOD
+[(continues, laced with irony)
+Before the dawn of the Empire, you were chosen.
+Kain – Nosgoth's solitary, self-declared monarch – plundered this tomb and raised you from
+these crypts. Breathing his vampiric gift into your defiled corpses, he resurrected you as
+his favored sons.
+
+-CHAPTER 12 – THE KEEPER OF SECRETS
+*The threshold guardian inside the Tomb of Sarafan guards a relic which bestows the Force
+*projectile ability on Raziel, once the guardian is destroyed.
+*The Tomb Guardian is a huge, ancient vampire of the Turelim clan. His voice is deep and
+*resonant, reflecting his size and power.
+#TOMB GUARDIAN
+[(a growled threat)
+Heretic! You shall not pass...
+#RAZIEL
+[(sarcastic, insulting)
+Such loyalty... to one who has you guarding this outpost like a chained dog.
+Do you prosper on the scraps he casts you?
+#TOMB GUARDIAN
+[(angered)
+Your insults will do nothing to blunt the agonies of your demise.
+#RAZIEL
+Kain killed me once – behold the result.
+I have no more to fear from you.
+*After Raziel defeats the Tomb Guardian, and receives the Force projectile ability:
+#ELDER GOD
+This relic has infused you with the power to compress and manipulate space. As your
+symbiotic weapon, the Soul Reaver is also thus enhanced.
+You may focus and project an orb of kinetic energy to strike objects that are otherwise
+beyond your reach.
+
+-CHAPTER 13 – A DESECRATED ABBEY
+*When Raziel discovers the courtyard of the Drowned Abbey, the Elder God offers the
+following information:
+#ELDER GOD
+Once a sanctuary against the vampire menace, this abbey has been drowned by the deluge
+spilling from this wounded land.
+Your brother Rahab and his brood, devastated even by the feeble rays of Nosgoth's sun,
+overcame their vulnerability to water and retreated from the surface.
+Now they haunt these ruins, and glide in the darkness of its stagnant depths.
+
+-CHAPTER 14 – A HEAVEN OF HELL
+*Raziel finds Rahab at the center of the Drowned Abbey, nestled in the chapter house in the
+*center of the courtyard.
+*Rahab is massive, and so devolved that he appears more like an amphibious monster than the
+*man he used to be. His human features are still vaguely recognizable, and a few remnants
+*of his human anatomy are evident – in his powerful arms, and the shriveled, vestigial legs
+*suspended from his torso.
+#RAHAB
+[(greeting Raziel as he rises to his full height)
+Raziel.
+#RAZIEL
+Rahab. You have adapted well to your environment, for one so maladjusted...
+#RAHAB
+Do not mock me, Raziel. You, of all of us, should respect the power bestowed by a
+limitation overcome.
+[(pause)
+#RAHAB
+Kain said you would come.
+#RAZIEL
+You speak with the murderer?
+#RAHAB
+You would do well to mind your blasphemous tongue.
+#RAZIEL
+What more did he tell you?
+#RAHAB
+That you would destroy me.
+#RAZIEL
+I will, indeed. But tell me, before I tear your soul from its moorings, do you know what we
+were before Kain spawned us?
+#RAHAB
+[(as though saying a filthy word)
+Human.
+#RAZIEL
+Sarafan, Rahab. The antithesis of all we ever believed.
+#RAHAB
+Does it matter? We were lost. He saved us.
+#RAZIEL
+[(incredulous)
+Saved us? From what?
+#RAHAB
+From ourselves.
+[(they go into battle)
+*As Rahab dies:
+#RAHAB
+[(dying in agony)
+I am undone!
+*The Elder God's instruction upon Rahab's defeat:
+#ELDER GOD
+Infused with Rahab's soul, you have overcome your former vulnerability to water's touch.
+Immersion in water will no longer dissolve your physical body, enabling you to swim to
+areas heretofore beyond your reach.
+*As Raziel exits Rahab's chapter house, the Elder God offers the following information:
+#ELDER GOD
+Centuries past, your brother Dumah retreated with his clan into Nosgoth's northern
+wilderness.
+Empowered by the gift of Rahab's soul, seek out his mountain stronghold. But tread
+carefully – these frozen wastes have mysteries yet to disclose.
+
+-CHAPTER 15 – A SILENT CITY
+*Raziel travels to the Ruined City of the Dumahim, in order to confront Dumah, another of
+*his brothers. Upon arriving, however, he is shocked to discover that Dumah's citadel, like
+*his, is a ghost town – there are long-dead vampire corpses scattered everywhere, impaled
+*and burned, and the walls of Dumah's city have been torched. Although he doesn't realize
+*it yet, the Dumahim were victims of a vampire-hunter raid, centuries ago, from the nearby
+*human city.
+#RAZIEL V.O.
+This city once teemed with the life of my kind. Could it be that other clans had suffered
+the same fate as mine?
+In his madness, could Kain spare none of his brood?
+#ELDER GOD
+It was not Kain, but Dumah's own arrogance that brought the downfall of his clan.
+These are human weapons, Raziel – believing themselves invincible, Dumah and his offspring
+failed to see an attack coming from the least likely assailants...
+Complacent in their arrogance, they were taken by surprise, allowing the human vampire
+hunters to decimate their ranks with little resistance. The few that escaped have been
+reduced to scavengers.
+
+-CHAPTER 16 – LOCKED IN ETERNAL LIMBO
+*After working his way through the city, Raziel finally steps into Dumah's throne room. A
+*huge figure is revealed, slumped and unmoving, at the far end of the room, as Raziel
+*slowly approaches. The corpse of Dumah slouches on its throne, impaled by multiple spears.
+#RAZIEL V.O.
+My brother, Dumah – a powerful warrior, in life. He would have burned with shame, to have
+me find him here like a stuck pig.
+*Ironically, there is no way for Raziel to defeat Dumah without first reanimating his
+*corpse. Raziel pulls the multiple spears out of Dumah's body to revive him. When the last
+*spear is removed –
+#DUMAH
+[(menacingly)
+Unbound at last... I thank you, brother.
+#RAZIEL
+Your thanks are premature, Dumah.
+I have not forgotten whose hands bore me into the abyss.
+#DUMAH
+The centuries in limbo have honed my strength. Not even Kain is my equal.
+#RAZIEL
+Even the strongest vampire is vulnerable.
+#DUMAH
+We shall test your thesis, Raziel.
+#RAZIEL
+My blood-thirst has been superceded by an even darker hunger. I will consume your soul
+before this day is done.
+*When Raziel has successfully immolated Dumah in the furnace room:
+#DUMAH
+[(dying in agony as he's burned up in the furnace)
+*Upon Dumah's defeat, and as Raziel receives his soul:
+#ELDER GOD
+Consuming Dumah's soul empowers you to wind a constricting band of spectral energy around
+your enemies.
+This energy manifests itself in both the spectral and material realms – and in the physical
+world, it can be employed to manipulate otherwise immovable objects.
+
+-CHAPTER 17 – AN ANCIENT ENIGMA
+*North of the Dumahim City, Raziel discovers a trail leading into the mountains. It winds
+*around, opening onto the entrance of the Oracle's Cave.
+*Raziel discovers the long-hidden entrance to the Oracle's chamber.
+#RAZIEL V.O.
+The Oracle's Cave, where Kain's first fateful meeting with Moebius occurred.
+Moebius played the role of a doddering soothsayer, stirring his pot of visions while
+dispensing enigmatic predictions to gullible visitors.
+Underneath the facade was Moebius the Time Streamer, sorcerer of the Circle of Nine – a
+ruthless manipulator with the power to bend time.
+Since his murder at Kain's hands centuries ago, these caves have stood vacant... though,
+like Moebius himself, they are rumored to be only a facade for a much larger, more
+elaborate complex...
+#RAZIEL V.O.
+[(continuing from above)
+I sensed that Kain was here... and at that moment, I would have plumbed the depths of hell
+to find him.
+*Once inside, Raziel comes upon a statue of Moebius, the Time Streamer – as he regards it,
+*he reflects:
+#RAZIEL V.O.
+[(slightly disdainful)
+This, I deduced, must be the man himself – the Time Streamer, Moebius.
+He seemed not at all the impressive figure I had imagined from Kain's boasted exploits.
+And yet, even this cold image radiated a certain undeniable power...
+
+-CHAPTER 18 – BY DESTINY ENSNARED
+*In the depths of Moebius' time-streaming apparatus, Raziel discovers a series of portals
+*displaying scenes of past – and apparently future – events. As he descends, passing these
+*various scenes, he reflects on the images confronting him.
+*The images in the portals imply that the events he's experienced – and those still to come
+*– have all been predestined.
+*The first portal shows Raziel reviving in the Underworld, after being executed by Kain –
+#RAZIEL
+[(amazed, horrified)
+My arrival in this miserable age...
+What trickery is this?
+#ELDER GOD
+It is no illusion, Raziel, but a glimpse into the currents of Time itself.
+*A second portal displays Raziel's discovery of the Tomb of Sarafan, and his origins –
+#RAZIEL
+Impossible – this must be one of Kain's deceptions...
+*A third portal shows the Soul Reaver being shattered during the confrontation between Kain
+*and Raziel (as Kain prepares to destroy Raziel with the blade) –
+#RAZIEL
+These apparitions torment me... has this all been foretold?
+*The next portal shows Raziel confronting Kain at some future time, in an unfamiliar
+*setting –
+#RAZIEL
+My mind reels with conflict... does Kain await me moments from now, or in some century yet
+to come?
+*Another portal shows Raziel striking Ariel down with the Soul Reaver (an event which has
+*not yet occurred) –
+#RAZIEL
+[(horrified)
+This cannot be! What madness does this scene portend?
+Kain must think me credulous, to suffer these lies...
+*A final portal shows Raziel armed with an enhanced Soul Reaver, its blade writhing with
+*intertwined black and red energies –
+#RAZIEL
+Is this phantasm a conjuration of my mind, or an echo of future events?
+
+-CHAPTER 19 – THE TYRANNY OF THE STARS
+*Having worked his way down into the depths of Moebius' complex, Raziel comes across the
+*"heart" of Moebius' time-streaming device – the Chronoplast room. Kain reveals himself,
+*stepping out from the shadows of the room.
+#KAIN
+[(revealing himself to Raziel)
+At last. I must say, I'm disappointed in your progress. I imagined you would be here
+sooner. Tell me – did it trouble you to murder your brothers?
+#RAZIEL
+Did it trouble you when you ordered me into the abyss?
+#KAIN
+No – I had faith in you. In your ability to hate. In your self-righteous indignation.
+#RAZIEL
+Lies. You cannot have foreseen all of this.
+#KAIN
+Eternity is relentless, Raziel.
+[(pause)
+When I first stole into this chamber, centuries ago, I did not fathom the true power of
+knowledge.
+To know the future, Raziel... to see its paths and streams tracing out into the infinite...
+As a man, I could never have contained such forbidden truths... But each of us is so much
+more than we once were...
+Gazing out across the planes of possibility, do you not feel with all your soul how we have
+become like gods?
+And as such, are we not indivisible? As long as a single one of us stands, we are legion...
+That is why, when I must sacrifice my children to the void, I can do so with a clear
+heart...
+#RAZIEL
+Very poetic, Kain – but in the end, you offer no more than a convenient rationalization for
+your crimes.
+#KAIN
+These chambers offer insight for those patient enough to look – in your haste to find me,
+perhaps you have not gazed deeply enough.
+Our futures are predestined – Moebius foretold mine a millennium ago.
+We each play out the parts fate has written for us. We are compelled ineluctably down
+pre-ordained paths.
+Free will is an illusion.
+*Raziel responds by changing the subject –
+#RAZIEL
+I have been to the Tomb of Sarafan, Kain. Your dirty secret is exposed. How could you
+transform a Sarafan priest into a vampire?
+#KAIN
+How could I not? One must keep his friends close, Raziel – and his enemies even closer.
+Can you grasp the absurd beauty of the paradox? We are the same – Sarafan and vampire. With
+our holy wars... our obsession with Nosgoth's domination...
+Who better to serve me than those whose passion transcends all notions of good and evil?
+#RAZIEL
+I will not applaud your clever blasphemy. The Sarafan were saviors, defending Nosgoth from
+the corruption that we represent.
+My eyes are opened, Kain – I find no nobility in the unlife you rudely forced on my
+unwilling corpse.
+#KAIN
+You may have uncovered your past, but you know nothing of it. You think the Sarafan were
+noble, altruistic? Don't be simple. Their agenda was the same as ours.
+#RAZIEL
+You are lost in a maze of moral relativism, Kain.
+[(then, gesturing toward the chamber of visions)
+These apparitions and portents... what game are you playing now?
+#KAIN
+Destiny is a game, is it not? And now you await my latest move...
+*Kain dematerializes, and they battle.
+
+-CHAPTER 20 – TIME-SPANNED SOUL
+*After throwing the final switch, Kain materializes in front of the star portal on the
+*upper floor of the Chronoplast. Visibly exhausted, he addresses Raziel –
+#KAIN
+You nearly had me, Raziel...
+But this is not where – or how – it ends.
+Fate promises more twists before this drama unfolds completely.
+*As he finishes speaking, he turns and runs through the star portal.
+*As Raziel prepares to follow Kain through the portal and into the void of the unknown, the
+*Elder God's disembodied voice admonishes him:
+#ELDER GOD
+[(warning, vaguely threatening)
+Be warned, Raziel – once you cross this threshold, you are beyond my influence...
+*Raziel steps through the portal, and emerges in a mysterious room with an infinity sigil
+*on the floor – he steps into the pool of light in the middle of the room. A moment later,
+*Moebius steps out of the darkness, addressing Raziel by name.
+#MOEBIUS
+Raziel...
+Redeemer and destroyer... pawn and messiah.
+Welcome, time-spanned soul...
+Welcome... to your destiny...
+#MOEBIUS V.O.
+Where Time is but a loop,
+A loose stitch in the universal cloth,
+A Streamer might seize upon a chance, a fatal slip –
+And plunge the fate of planets into chaos...
