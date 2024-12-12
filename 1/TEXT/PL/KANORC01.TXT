@@ -1,6 +1,6 @@
 [0:00:000] Wieczność jest nieubłagana, Razielu.
 [0:03:000]
-[0:04:511] Gdy pierwszy raz zakradłem się do tej komnaty wieki temu,
+[0:04:511] Gdy pierwszy raz zakradłem się do tej komnaty, wieki temu,
 [0:08:487] nie pojmowałem prawdziwej potęgi wiedzy.
 [0:12:464] Znać przyszłość, Razielu...
 [0:15:372] widzeć jej ścieżki i strumienie, ciągnące się w nieskończoność...
@@ -12,7 +12,7 @@
 [0:39:528]
 [0:40:478] I jako tacy,
 [0:42:199] czyż nie jesteśmy niepodzielni?
-[0:44:811] Tak długo, jak przynajmniej jeden z nas się ostaje, jesteśmy legionem...
+[0:44:811] Tak długo, jak przynajmniej jeden z nas zostaje przy życiu, jesteśmy legionem...
 [0:49:499]
 [0:50:746] To dlatego, 
 [0:52:408] gdy muszę poświęcić swe dziecko nicości,
