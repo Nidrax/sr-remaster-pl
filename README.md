@@ -20,8 +20,9 @@ Tłumaczenie na tę chwilę nie wspiera "ogonków" w menu wewnątrz gier.
 
 A znaki diakrytyczne są nieco przesunięte w lewo względem liter. Aspekty wizualne są dosyć nisko na mojej liście priorytetów – na tę chwilę najważniejszy jest dla mnie tekst dialogów.
 
-Wideo: <br />
+Kliknij miniaturę, aby odtworzyć wideo: <br />
 [![Soul Reaver Remastered Intro - napisy PL](https://img.youtube.com/vi/FA1oPVqMK9s/0.jpg)](https://www.youtube.com/watch?v=FA1oPVqMK9s)
+[![Przebudzenie Raziela w Podziemiu](https://img.youtube.com/vi/hn487P0Vz_I/0.jpg)](https://www.youtube.com/watch?v=hn487P0Vz_I)
 
 
 ## Instalacja
@@ -73,8 +74,9 @@ The translation does not currently support Polish "ogonki" diacritics in the in-
 
 And the diacritics overall are slightly shifted to the left relative to the letters due to how the game renders its font. Visual aspects are pretty low on my priority list – the most important thing for me at the moment is the dialogues' text.
 
-video: <br />
+Click the thumbnail to play the video: <br />
 [![Soul Reaver Remastered Intro - napisy PL](https://img.youtube.com/vi/FA1oPVqMK9s/0.jpg)](https://www.youtube.com/watch?v=FA1oPVqMK9s)
+[![Przebudzenie Raziela w Podziemiu](https://img.youtube.com/vi/hn487P0Vz_I/0.jpg)](https://www.youtube.com/watch?v=hn487P0Vz_I)
 
 ## Installation
 
