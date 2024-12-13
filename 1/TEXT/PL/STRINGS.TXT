@@ -225,14 +225,14 @@ Przytrzymaj @ACTB aby spowolnic upadek
 @ACTD aby obracac kamere
 Przytrzymaj @ACTA aby sie rozejrzec
 Musisz byc w sferze fizycznej
-Musisz byc w sferze duchowej
+Musisz byc w sferze widmowej
 Wcisnij @ACT4 aby poszybowac
 @ACT5 aby powrócic
 @ACT9 + @ACT4 aby wykonac wysoki skok
 Idz do przodu, aby przeniknac
 @ACTA aby sie rozgladac
 streaming
-Przenies sie do sfery duchowej, aby odkryc ukryte przejscia
+Przenies sie do sfery widmowej, aby odkryc ukryte przejscia
 this is an illegal hint number
 kontroler jest odlaczony. podlacz kontroler ponownie
 kontroler jest odlaczony. podlacz kontroler ponownie
