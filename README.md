@@ -49,7 +49,7 @@ Dla przykładu zainstalujmy spolszczenie dla `Soul Reaver` zamiast języka rosyj
 3. Zmień nazwę katalogu z językiem, który chcesz podmienić lub całkiem go usuń (w tym przykładzie podmieniamy `RU` na np. `RU_bak`).
 4. Wklej odpowiedni katalog z dialogami z pobranej polskiej paczki (struktura jest taka sama jak w katalogu z grą).
 5. Zmień jego nazwę na katalog z językiem docelowym w grze (w ym przykładzie `PL` -> `RU`).
-6. Uruchom Launcher, wyubierz grę i w jej opcjach zmień język wyświetlania na wybrany przez siebie.
+6. Uruchom Launcher, wybierz grę i w jej opcjach zmień język wyświetlania na wybrany przez siebie.
 
 <br />
 
