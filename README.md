@@ -2,7 +2,7 @@
 
 # Soul Reaver Remastered PL
 
-Nieoficjalne spolszczenie napisów w grze `Legacy of Kain: Soul Reaver 1&2 Remastered`
+Nieoficjalne spolszczenie napisów w grze `Legacy of Kain: Soul Reaver 1&2 Remastered` autorstwa Grupy polonizacyjnej Nosgothica.
 
 ![44%](https://progress-bar.xyz/44?width=220&title=Ukończono:) <br />
 ![98%](https://progress-bar.xyz/98?width=256&title=SR1:) <img src="https://cdn-icons-png.flaticon.com/512/8625/8625364.png" width="20"> <br />
@@ -12,7 +12,7 @@ Nieoficjalne spolszczenie napisów w grze `Legacy of Kain: Soul Reaver 1&2 Remas
 
 Jest to tłumaczenie autorskie, niepowiązane z popularnym polskim tłumaczeniem dialogów i mrocznej kroniki autorstwa lokarchives.
 
-Tworząc to tłumaczenie 11 lat temu na potrzeby serii Let's Play na YouTube, skupiłem się przede wszystkim, aby brzmiało ono naturalnie dla polskiego odbiorcy, było możliwie dokładne, ale także zachowywało brzmienie godne dzieła z gatunku Dark Fantasy, unikając anachronizmów, nowoczesnych kolorwializmów oraz kalek z języka angielskiego, które po polsku brzmią niezbyt naturalnie.
+Zaczynają–c to tłumaczenie 11 lat temu na potrzeby serii Let's Play na YouTube, skupiłem się przede wszystkim, aby brzmiało ono naturalnie dla polskiego odbiorcy, było możliwie dokładne, ale także zachowywało brzmienie godne dzieła z gatunku Dark Fantasy, unikając anachronizmów, nowoczesnych kolorwializmów oraz kalek z języka angielskiego, które po polsku brzmią niezbyt naturalnie.
 
 Tłumaczenie na tę chwilę nie wspiera "ogonków" w menu wewnątrz gier.
 
@@ -51,12 +51,17 @@ Dla przykładu zainstalujmy spolszczenie dla `Soul Reaver` zamiast języka rosyj
 5. Zmień jego nazwę na katalog z językiem docelowym w grze (w ym przykładzie `PL` -> `RU`).
 6. Uruchom Launcher, wybierz grę i w jej opcjach zmień język wyświetlania na wybrany przez siebie.
 
+
+## Wspieraj nasze projekty
+
+Aby dyskutować nad postępami prac i wprowadzanymi decyzjami, oraz śledzić nasze przyszłe projekty, dołącz do nas na naszym [serwerze Discord](https://discord.gg/bJKCtJcaDg).
+
 <br />
 
 ---
 
 # EN: Soul Reaver Remastered PL
-Unofficial Polish translation for subtitles in `Legacy of Kain: Soul Reaver 1&2 Remastered`
+Unofficial Polish translation for subtitles in `Legacy of Kain: Soul Reaver 1&2 Remastered` by Nosgothica Polonization Group
 
 ![44%](https://progress-bar.xyz/44?width=220&title=Completed:) <br />
 ![98%](https://progress-bar.xyz/98?width=256&title=SR1:) <img src="https://cdn-icons-png.flaticon.com/512/8625/8625364.png" width="20"> <br />
@@ -66,7 +71,7 @@ Unofficial Polish translation for subtitles in `Legacy of Kain: Soul Reaver 1&2 
 
 This is an original translation, unrelated to the popular Polish translation of dialogues and the Dark Chronicles made by lokarchives.
 
-When creating this translation 11 years ago for the Let's Play series on YouTube, I focused primarily on making it sound natural to the Polish audience, being as accurate as possible, but also maintaining the wording proper to a Dark Fantasy work, avoiding anachronisms, modern slang and English calques that do not sound very natural in Polish.
+When I started creating this translation 11 years ago for the Let's Play series on YouTube, I focused primarily on making it sound natural to the Polish audience, being as accurate as possible, but also maintaining the wording proper to a Dark Fantasy work, avoiding anachronisms, modern slang and English calques that do not sound very natural in Polish.
 
 The translation does not currently support Polish "ogonki" diacritics in the in-game menus
 
