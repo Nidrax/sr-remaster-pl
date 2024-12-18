@@ -4,21 +4,21 @@
 
 Nieoficjalne spolszczenie napisów w grze `Legacy of Kain: Soul Reaver 1&2 Remastered` autorstwa Grupy polonizacyjnej Nosgothica.
 
-![46%](https://progress-bar.xyz/46?width=220&title=Ukończono:) <br />
+![47%](https://progress-bar.xyz/47?width=220&title=Ukończono:) <br />
 ![98%](https://progress-bar.xyz/98?width=256&title=SR1:) <img src="https://cdn-icons-png.flaticon.com/512/8625/8625364.png" width="20"> <br />
-![42%](https://progress-bar.xyz/42?width=256&title=SR2:) <br />
+![44%](https://progress-bar.xyz/44?width=256&title=SR2:) <br />
 ![0%](https://progress-bar.xyz/0?width=172&title=Mroczna%20kronika%201:) <br />
 ![0%](https://progress-bar.xyz/0?width=172&title=Mroczna%20kronika%202:)
 
 Jest to tłumaczenie autorskie, niepowiązane z popularnym polskim tłumaczeniem dialogów i mrocznej kroniki autorstwa lokarchives.
 
-Zaczynają–c to tłumaczenie 11 lat temu na potrzeby serii Let's Play na YouTube, skupiłem się przede wszystkim, aby brzmiało ono naturalnie dla polskiego odbiorcy, było możliwie dokładne, ale także zachowywało brzmienie godne dzieła z gatunku Dark Fantasy, unikając anachronizmów, nowoczesnych kolorwializmów oraz kalek z języka angielskiego, które po polsku brzmią niezbyt naturalnie.
+Zaczynając to tłumaczenie 11 lat temu na potrzeby serii Let's Play na YouTube, skupiłem się przede wszystkim, aby brzmiało ono naturalnie dla polskiego odbiorcy, było możliwie dokładne, ale także zachowywało brzmienie godne dzieła z gatunku Dark Fantasy, unikając anachronizmów, nowoczesnych kolorwializmów oraz kalek z języka angielskiego, które po polsku brzmią niezbyt naturalnie.
 
 Tłumaczenie na tę chwilę nie wspiera "ogonków" w menu wewnątrz gier.
 
 <img src="https://github.com/Nidrax/sr-remaster-pl/blob/trunk/screenshot.jpg?raw=true" alt="menu showcase">
 
-A znaki diakrytyczne są nieco przesunięte w lewo względem liter. Aspekty wizualne są dosyć nisko na mojej liście priorytetów – na tę chwilę najważniejszy jest dla mnie tekst dialogów.
+A znaki diakrytyczne są nieco przesunięte w lewo względem liter. Aspekty wizualne są dosyć nisko na mojej liście priorytetów - na tę chwilę najważniejszy jest dla mnie tekst dialogów.
 
 Kliknij miniaturę, aby odtworzyć wideo: <br />
 [![Soul Reaver Remastered Intro - napisy PL](https://img.youtube.com/vi/FA1oPVqMK9s/0.jpg)](https://www.youtube.com/watch?v=FA1oPVqMK9s)
@@ -48,7 +48,7 @@ Dla przykładu zainstalujmy spolszczenie dla `Soul Reaver` zamiast języka rosyj
 2. Przejdź do folderu z plikami językowymi gry. W tym wypadku: `1/TEXT`.
 3. Zmień nazwę katalogu z językiem, który chcesz podmienić lub całkiem go usuń (w tym przykładzie podmieniamy `RU` na np. `RU_bak`).
 4. Wklej odpowiedni katalog z dialogami z pobranej polskiej paczki (struktura jest taka sama jak w katalogu z grą).
-5. Zmień jego nazwę na katalog z językiem docelowym w grze (w ym przykładzie `PL` -> `RU`).
+5. Zmień jego nazwę na katalog z językiem docelowym w grze (w tym przykładzie `PL` -> `RU`).
 6. Uruchom Launcher, wybierz grę i w jej opcjach zmień język wyświetlania na wybrany przez siebie.
 
 
@@ -63,9 +63,9 @@ Aby dyskutować nad postępami prac i wprowadzanymi decyzjami, oraz śledzić na
 # EN: Soul Reaver Remastered PL
 Unofficial Polish translation for subtitles in `Legacy of Kain: Soul Reaver 1&2 Remastered` by Nosgothica Polonization Group
 
-![46%](https://progress-bar.xyz/46?width=220&title=Completed:) <br />
+![47%](https://progress-bar.xyz/47?width=220&title=Completed:) <br />
 ![98%](https://progress-bar.xyz/98?width=256&title=SR1:) <img src="https://cdn-icons-png.flaticon.com/512/8625/8625364.png" width="20"> <br />
-![42%](https://progress-bar.xyz/42?width=256&title=SR2:) <br />
+![44%](https://progress-bar.xyz/44?width=256&title=SR2:) <br />
 ![0%](https://progress-bar.xyz/0?width=172&title=Dark%20Chronicles%201:) <br />
 ![0%](https://progress-bar.xyz/0?width=172&title=Dark%20Chronicles%202:)
 
@@ -77,7 +77,7 @@ The translation does not currently support Polish "ogonki" diacritics in the in-
 
 <img src="https://github.com/Nidrax/sr-remaster-pl/blob/trunk/screenshot.jpg?raw=true" alt="menu showcase">
 
-And the diacritics overall are slightly shifted to the left relative to the letters due to how the game renders its font. Visual aspects are pretty low on my priority list – the most important thing for me at the moment is the dialogues' text.
+And the diacritics overall are slightly shifted to the left relative to the letters due to how the game renders its font. Visual aspects are pretty low on my priority list - the most important thing for me at the moment is the dialogues' text.
 
 Click the thumbnail to play the video: <br />
 [![Soul Reaver Remastered Intro - napisy PL](https://img.youtube.com/vi/FA1oPVqMK9s/0.jpg)](https://www.youtube.com/watch?v=FA1oPVqMK9s)
@@ -87,7 +87,7 @@ Click the thumbnail to play the video: <br />
 
 This Polonization currently does not have an installer prepared. You can download the translation fils using the `git` software or by selecting the `Download ZIP` option after clicking the green `<> Code` button at the top of the page.
 
-To use the Polish version, you must sacrifice one of the languages ​​currently available in the game and replace it with Polish:
+To use the Polish version, you must sacrifice one of the languages currently available in the game and replace it with Polish:
 
 * Chinese `CN`
 * German `DE`
