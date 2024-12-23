@@ -1,5 +1,5 @@
 
-sformatuj karte pamieci
+formatuj karte pamieci
 odczytywanie karty pamieci w slocie 1
 powrót
 anuluj
@@ -32,7 +32,7 @@ ok
 opcje
 nadpisz
 wstrzymano
-Wcisnij
+wcisnij
 czy chcesz sformatowac?
 czy nadpisac uprzednio zapisana gre na karcie pamieci w slocie 1?
 czy chcesz opuscic gre?
@@ -57,7 +57,7 @@ wibracje wl.
 wibracje wl.
 mowa:
 gra legacy of kain: soul reaver wymaga 3 wolnych blokow na karcie pamieci
-upewnij sie, ze w slocie 1 umieszczona karte pamieci z 3 wolnymi blokami aby móc zapisac gre
+upewnij sie, ze w slocie 1 umieszczono karte pamieci z 3 wolnymi blokami, aby móc zapisac gre
 tak
 filtrowanie tekstur
 gamma
@@ -108,7 +108,7 @@ select
 naprzód
 do tylu
 w lewo
-w prawop
+w prawo
 skok/plywanie
 pozryj dusze
 celowanie/chwyt
@@ -216,7 +216,7 @@ Przytrzymaj @ACT5 aby operowac
 @ACT5 aby upuscic
 Wcisnij @ACT7 aby wystrzelic
 @ACT4 aby plynac
-Przytrzymaj @ACT9 + @ACT4 by przyspieszyc
+Przytrzymaj @ACT9 + @ACT4 aby przyspieszyc
 Obiegnij obiekt, aby uzyc zaciskania
 @ACT1, @ACT3 aby wybrac
 @ACT5 aby uzyc mocy

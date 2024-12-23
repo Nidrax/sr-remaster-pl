@@ -1,0 +1,571 @@
+
+formatuj karte pamieci (ps2)
+odczyt karty pamieci (ps2) w slocie 1
+powrót
+anuluj
+wybierz plik szapisu oul reaver 2 do odczytu
+wybierz plik do zapisu swoich postepów
+potwierdz
+kontynuuj
+kontroler
+stwórz nowy plik
+tworzenie pliku zapisu
+demo
+nie wyjmuj karty pamieci (ps2) ze slotu 1
+gotowe
+wyjdz z gry
+formatowanie karty pamieci (ps2)
+powrót
+%s aby wyjsc
+umiesc karte pamieci w slocie 1
+umiesc xxx z przyjnajmniej xxx wolnymi blokami w górnym xxx slocie
+niewlasciwa xxx
+odczyt zakonczony niepowodzeniem
+wczytaj gre
+wczytywanie danych gry
+muzyka:
+nowa gra
+nie
+brak karty pamieci w slocie 1
+brak wystarczajacej liczby wolnych bloków. 50 wolnych bloków wymagane, by zapisac.
+niewystarczajaco wolnej pamieci
+ok
+opcje
+nadpisz
+wstrzymano
+wcisnij przycisk start
+formatowanie karty (ps2). kotynuowac?
+czy nadpisac uprzednio zapisana gre na karcie pamieci w slocie 1?
+czy chcesz opuscic gre?
+wyjdz z gry
+wznów
+blad zapisu
+zapisz gre
+gra zapisana
+zapisywanie danych gry
+zapisz
+dzwiek:
+rozpocznij gre
+rozpocznij nowa gre
+spróbuj ponownie lub umiesc nowa karte pamieci (ps2)
+niesformatowana karta pamieci (ps2).
+wibracje wyl.
+wibracje wyl.
+wibracje wyl.
+wibracje wyl.
+wibracje wl.
+wibracje wl.
+wibracje wl.
+wibracje wl.
+kompas: wl.
+kompas: wyl.
+podpowiedzi: wl.
+podpowiedzi: wyl.
+podpowiedzi interakcji: wl.
+podpowiedzi interakcji: wyl.
+dzwiek wl.
+dzwiek wyl.
+muzyka wl.
+muzyka wyl.
+mroczna kronika
+mapa
+pozycja ekranu
+uzyj lewej galki by dopasowac|pozycje ekranu
+mowa:
+zapisywanie danych gry
+gra soul reaver 2 wymaga xx wolnych blokow na karcie pamieci
+upewnij sie, ze w slocie 1 umieszczono karte pamieci z xx wolnymi blokami, aby móc zapisac gre
+tak
+filtrowanie tekstur
+gamma
+ostrosc
+glosnosc
+fixed
+wybierz ten sterownik
+nastepny sterownik
+wybierz te rozdzielczosc
+nastepna rozdzielczosc
+rozdzielczosc
+obecny sterowny
+proponowany sterownik
+obecna rozdzielczosc
+proponowana rozdzielczosc
+szerokosc
+wysokosc
+glebia bitów
+wybierz rozdzielczosc
+wybierz sterownik
+konfiguracja wideo
+pusty
+reset
+kontroler
+kontroler
+kontroler
+kontroler
+mysz
+klawiatura
+sterowanie
+konfiguracja kontrolera
+konfiguracja kontrolera
+konfiguracja kontrolera
+konfiguracja kontrolera
+kongfiguracja klawiatury
+góra
+dól
+lewo
+prawo
+trójkat
+x
+kwadrat
+kólko
+l1
+l2
+r1
+r2
+i
+j
+start
+select
+naprzód
+do tylu
+w lewo
+w prawo
+skok/plywanie
+pozryj dusze
+celowanie/chwyt
+akcja
+kucanie
+skradanie/nacelowanie przeciwnika
+krok w lewo
+krok w prawo
+start
+menu glifów
+przyblizenie
+obrót kamery w lewo
+obrót kamery w prawo
+escape
+backspace
+tab
+enter
+lewy ctrl
+lewy shift
+prawy shift
+numpad *
+lewy alt
+spacja
+caps lock
+f1
+f2
+f3
+f4
+f5
+f6
+f7
+f8
+f9
+f10
+num lock
+scroll lock
+numpad 7
+numpad 8
+numpad 9
+numpad -
+numpad 4
+numpad 5
+numpad 6
+numpad +
+numpad 1
+numpad 2
+numpad 3
+numpad 0
+numpad .
+f11
+f12
+f13
+f14
+f15
+numpad =
+numpad enter
+prawy ctrl
+numpad ,
+numpad /
+sysrq
+prawy alt
+home
+góra
+page up
+lewo
+prawo
+end
+dól
+page down
+insert
+delete
+~
+opcje graficzne
+opcje dzwieku
+opcje gry
+opcje sterowania
+filtrowanie anizotropowe
+filtrowanie dwuliniowe
+filtrowanie trójliniowe
+brak filtrowania
+anti-aliasing wlaczony
+anti-aliasing wylaczony
+eax wlaczony
+eax wylaczony
+skonfiguruj
+skonfiguruj mysz
+skonfiguruj klawiature
+skonfiguruj kontroler
+skonfiguruj kontroler
+skonfiguruj kontroler
+skonfiguruj kontroler
+nacisnij enter by zmienic przypisanie
+przycisk
+lekki atak
+mocny atak
+wyssanie duszy
+skok
+rozgladanie sie
+kucanie
+blokowanie
+namierzanie
+menu glifów
+menu
+naprzód
+celowanie
+konwertuj
+nie konwertuj
+yen
+wycisz
+kalkulator
+odtwarzanie/pauza
+zatrzymaj media
+zmniejsz glosn.
+zwieksz glosn.
+siec/home
+sysreq
+pause
+lewy windows
+prawy windows
+web wyszukiwanie
+web ulubione
+web odswiez
+web stop
+web naprzód
+web wstecz
+mój komputer
+e-mail
+wybierz media
+Ta gra wymaga DirectX8
+Ta gra wymaga karty graficznej zgodnej z DirectX8. Twoja karta lub sterownik nie wspierają akceleracji 3D DirectX8.
+Soul Reaver 2
+Soul Reaver 2 Error
+Soul Reaver 2 Setup Dialog
+Soul Reaver 2 Demo Setup Dialog
+Wybierz urządzenie renderujące
+Wybierz rozdzielczość i głębię bitów
+Potrójne buforowanie
+Synchronizacja odświeżania
+Antialiasing (FSAA)
+Używaj technologii EAX
+Tekstury niskiej jakości
+odwroc mysz wl.
+odwroc mysz wyl.
+czulosc myszy
+sterowanie kamery wl.
+sterowanie kamery wyl.
+dummy hint
+@ACT5 aby wejsc w interakcje
+@ACT1 lub @ACT3 aby sie rozgladac
+@ACT5 aby wyjsc
+Przytrzymaj @ACT6 by sie posilic
+@ACT4 aby skoczyc
+Przytrzymaj @ACT9 + @ACT4 aby wykonac wysoki skok
+Skok a nastepnie przytrzymaj @ACT4 aby szybowac
+Przytrzymaj @ACTB aby namierzyc
+@ACT5 lub @ACT7 aby zaatakowac
+@ACTB + @ACT0 @ACT2 @ACT1 @ACT3 a nastepnie @ACT4 aby zrobic unik
+Zdrowie musi byc pelne
+Wcisnij @ACTC
+@ACT5 aby przejsc
+@ACT5 aby otworzyc
+Przytrzymaj @ACT7 aby chwycic
+Zwolnij @ACT7 aby rzucic
+Wcisnij @ACT5 aby pchnac
+Przytrzymaj @ACT5 aby zlapac
+@ACT5 + @ACT0 @ACT2 @ACT1 @ACT3 aby przeciagac
+@ACT5 aby podniesc
+@ACT9 + @ACT5 aby odlozyc
+Przytrzymaj @ACT7 aby automatycznie namierzyc
+@ACTC aby anulowac
+Przytrzymaj @ACT7 aby nabic
+Przytrzymaj @ACTB aby sie skradac
+Przytrzymaj @ACT7 aby podpalic
+@ACT9 + @ACT5 aby obrocic
+@ACT5 aby operowac
+Przytrzymaj @ACT5 aby operowac
+@ACT9 + @ACT0 @ACT2 @ACT1 @ACT3 aby sie czolgac
+@ACT7 aby wycelowac recznie
+@ACT0 aby przeniknac
+@ACT4 aby wskoczyc na sciane
+@ACT5 aby upuscic
+Wcisnij @ACT7 aby wystrzelic
+@ACT4 aby plynac i @ACT0@ACT1@ACT2@ACT3 aby obrócic
+Przytrzymaj @ACT9 + @ACT5 aby przyspieszyc
+@ACT4 aby sie wspinac
+@ACT1, @ACT3 aby wybrac
+@ACT5 aby uzyc mocy
+Przytrzymaj @ACTB aby spowolnic upadek
+@ACT9 aby kucac
+@ACTD aby obracac kamere
+Przytrzymaj @ACTA aby sie rozejrzec
+Musisz byc w sferze fizycznej
+Musisz byc w sferze widmowej
+Wcisnij @ACT4 aby poszybowac
+@ACT5 aby powrócic
+@ACT9 + @ACT4 aby wykonac wysoki skok
+Idz do przodu, aby przeniknac
+@ACTA aby sie rozgladac
+streaming
+Nacisnij @ACT6 dwa razy, aby aktywowac Grabiezce
+@ACT5 aby przesuwac
+@ACT5 aby obracac
+Przytrzymaj @ACT5 + @ACT1 lub @ACT3 aby obracac
+@ACT5 aby umiescic obiekt
+Zwolnij @ACT7 aby wystrzelic
+Aktywuj Grabiezce|z menu wyboru
+Z wyciagnietym Grabiezca|nacisnij @ACT5 aby napelnic mrokiem
+Z wyciagnietym Grabiezca|nacisnij @ACT5 aby otworzyc
+Stan w obracajacym sie portalu
+Oslep oko straznicze|pociskiem z Grabiezcy Mroku
+Z wyciagnietym Grabiezca|nacisnij @ACT5 aby napelnic swiatlem
+Posiadasz Grabiezce Mroku
+Posiadasz Grabiezce Swiatla
+Z Grabiezca Mroku|wcisnij @ACT5 aby aktywowac
+Przenies sie do sfery widmowej
+Przytrzymaj @ACT9 i wcisnij @ACT4 | aby wspiac sie na filar
+Z Grabiezca Swiatla|wcisnij @ACT5 aby otworzyc drzwi
+Uzywaj Grabiezcy Swiatlaaby oswietlac ciemnosci|i aktywowac magiczne obiekty
+Przytrzymaj @ACT8 aby blokowac
+Nacisnij @ACT6 dwa razy, aby aktywowac lub deaktywowac Grabiezce
+Przytrzymaj @ACT9 i wcisnij @ACT4 aby|wyskoczyc z wody
+@ACT5 aby zapisac gre
+@ACT5 aby podniesc klucz
+@ACT5 aby otworzyc drzwi kluczem
+Hold @ACTA and @ACT7 and aim with|left a-pad to fire projectiles
+Shoot projectiles at puzzle targets
+Use @ACT1 and @ACT3 to select Shift
+Hold @ACTB to glide straight up
+@ACT5 aby obejrzec mape
+this is an illegal hint number
+kontroler jest odlaczony. podlacz kontroler ponownie
+kontroler jest odlaczony. podlacz kontroler ponownie
+kontroler jest odlaczony. podlacz kontroler ponownie
+kontroler jest odlaczony. podlacz kontroler ponownie
+%d%%%% zakonczone
+dzwiek mono
+dzwiek stereo
+odlaczono kontroler
+lub wykryto xxx.
+demo
+urzadzenie do podrozy w czasie
+urzadzenie do podrozy w czasie
+twierdza sarafanów
+kryjówka janosa audrona
+kuznia swiatla
+kuznia mroku
+kuznia powietrza
+kuznia ognia
+poludniowe jezioro
+droga do filarów
+filary
+podziemne ruiny
+bagno
+uschtenheim
+punkt zapisu 1
+punkt zapisu 2
+punkt zapisu 3
+punkt zapisu 4
+punkt zapisu 5
+english
+franAais
+italiano
+deutsch
+espaXol
+soul reaver 2 a
+soul reaver 2 b
+soul reaver 2 c
+soul reaver 2 d
+soul reaver 2 e
+prologue
+1 - arrival
+2 - the reaver convergence
+3 - the heart of darkness
+4 - the corruption of the pillars
+5 - the elder god
+6 - the vampire vorador
+7 - the elder's warning
+8 - history and destiny collide
+9 - time streaming
+10 - moebius's martyred spirit
+11 - ariel's lament
+12 - raziel defies the elder
+13 - the ruined aerie
+14 - the tenth guardian
+15 - the death of janos audron
+16 - the final transgression
+17 - cornered in the stronghold
+18 - vengeance
+19 - renunciation
+20 - full circle
+material dodatkowy
+the making of soul reaver 2
+blood omen 2 preview
+other eidos previews
+production
+voice sessions
+opening movie
+press
+thunderstrike
+project eden
+wave rally
+story
+character art
+environment art
+cinematic stills
+music:
+the team
+trailer
+magazine cover art
+interviews
+sr1 opening movie
+actor biographies
+session videos
+outtakes
+candid pictures
+concepts
+work in progress
+stills
+final movie
+raziel
+kain
+moebius
+janos audron
+vorador
+the elder god
+ariel
+enemies
+the chronoplast
+sarafan stronghold
+the lake
+the pillars of nosgoth
+the swamp
+the dark forge
+the light forge
+the mountains
+janos audron's retreat
+the air forge
+the fire forge
+blood omen music
+soul reaver 1 music
+soul reaver 2 music
+scene 1
+scene 2
+scene 3
+scene 4
+scene 5
+scene 6
+scene 7
+scene 8
+scene 9
+scene 10
+crystal dynamics
+soul reaver 2 team
+model
+textures
+final in-game
+sr1 raziel vs sr2 raziel
+bonus materials unlocked
+bonus materials code @ACT1@ACT7@ACT3@ACT7@ACT2@ACT6@ACT4
+locked
+underworld
+drowned abbey
+sunlight glyph
+ruined city
+the city
+pillars
+cathedral
+spectral underworld
+necropolis
+theme: ariel's lament
+pillars
+light forge
+sarafan stronghold
+dark forge
+overland
+the elder god
+janos' retreat
+history of nosgoth
+historical timeline
+voice talent
+promotional materials
+the cast
+photo gallery
+advertising
+credits
+special thanks
+production process
+storyboards
+rendered art
+outtakes 1
+outtakes 2
+outtakes 3
+prologue
+time streaming
+raziel defies the elder
+the vampire vorador
+the ruined aerie
+the tenth guardian
+kain montage
+moebius montage
+elder god montage
+3d render
+concepts and stills
+cel
+raziel
+lewo, prawo by orzegladac regiony
+???
+opcje jezyka
+wl.
+wyl.
+kompas:
+wskazówki:
+opcje gry 3
+opcje gry 4
+opcje gry 5
+opcje gry 6
+napisy:
+jezyk:
+angielski
+niemiecki
+francuski
+wloski
+hiszpanski
+japonski
+rosyjski
+czulosc:
+odwrocenie osi Y:
+odwrocenie osi X:
+opcje sterowania 4
+opcje sterowania 5
+opcje sterowania 6
+Zresetuj Kamerę
+Zresetuj Ustawienia
+Ukryj Interfejs Użytkownika
+Powrót
+Obracanie
+Pole widzenia
+wyjscie do launchera
+Przytrzymaj aby pominąć
