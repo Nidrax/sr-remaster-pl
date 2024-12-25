@@ -14,9 +14,9 @@ Jest to tłumaczenie autorskie, niepowiązane z popularnym polskim tłumaczeniem
 
 Zaczynając to tłumaczenie 11 lat temu na potrzeby serii Let's Play na YouTube, skupiłem się przede wszystkim, aby brzmiało ono naturalnie dla polskiego odbiorcy, było możliwie dokładne, ale także zachowywało brzmienie godne dzieła z gatunku Dark Fantasy, unikając anachronizmów, nowoczesnych kolorwializmów oraz kalek z języka angielskiego, które po polsku brzmią niezbyt naturalnie.
 
-Tłumaczenie na tę chwilę nie wspiera "ogonków" w menu wewnątrz gier.
+Tłumaczenie na tę chwilę nie wspiera polskich znaków diakrytycznych w menu wewnątrz gier.
 
-<img src="https://github.com/Nidrax/sr-remaster-pl/blob/trunk/screenshot.jpg?raw=true" alt="menu showcase">
+<img src="https://github.com/Nidrax/sr-remaster-pl/blob/trunk/gfx/screenshot.jpg?raw=true" alt="menu showcase">
 
 A znaki diakrytyczne są nieco przesunięte w lewo względem liter. Aspekty wizualne są dosyć nisko na mojej liście priorytetów - na tę chwilę najważniejszy jest dla mnie tekst dialogów.
 
@@ -75,7 +75,7 @@ When I started creating this translation 11 years ago for the Let's Play series 
 
 The translation does not currently support Polish "ogonki" diacritics in the in-game menus
 
-<img src="https://github.com/Nidrax/sr-remaster-pl/blob/trunk/screenshot.jpg?raw=true" alt="menu showcase">
+<img src="https://github.com/Nidrax/sr-remaster-pl/blob/trunk/gfx/screenshot.jpg?raw=true" alt="menu showcase">
 
 And the diacritics overall are slightly shifted to the left relative to the letters due to how the game renders its font. Visual aspects are pretty low on my priority list - the most important thing for me at the moment is the dialogues' text.
 
