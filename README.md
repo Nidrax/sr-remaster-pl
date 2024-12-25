@@ -4,9 +4,9 @@
 
 Nieoficjalne spolszczenie napisów w grze `Legacy of Kain: Soul Reaver 1&2 Remastered` autorstwa Grupy polonizacyjnej Nosgothica.
 
-![58%](https://progress-bar.xyz/58?width=220&title=Ukończono:) <br />
+![60%](https://progress-bar.xyz/60?width=220&title=Ukończono:) <br />
 ![98%](https://progress-bar.xyz/98?width=256&title=SR1:) <img src="https://cdn-icons-png.flaticon.com/512/8625/8625364.png" width="20"> <br />
-![74%](https://progress-bar.xyz/74?width=256&title=SR2:) <br />
+![82%](https://progress-bar.xyz/82?width=256&title=SR2:) <br />
 ![0%](https://progress-bar.xyz/0?width=172&title=Mroczna%20kronika%201:) <br />
 ![0%](https://progress-bar.xyz/0?width=172&title=Mroczna%20kronika%202:)
 
@@ -63,9 +63,9 @@ Aby dyskutować nad postępami prac i wprowadzanymi decyzjami, oraz śledzić na
 # EN: Soul Reaver Remastered PL
 Unofficial Polish translation for subtitles in `Legacy of Kain: Soul Reaver 1&2 Remastered` by Nosgothica Polonization Group
 
-![58%](https://progress-bar.xyz/58?width=220&title=Completed:) <br />
+![60%](https://progress-bar.xyz/60s?width=220&title=Completed:) <br />
 ![98%](https://progress-bar.xyz/98?width=256&title=SR1:) <img src="https://cdn-icons-png.flaticon.com/512/8625/8625364.png" width="20"> <br />
-![74%](https://progress-bar.xyz/74?width=256&title=SR2:) <br />
+![82%](https://progress-bar.xyz/82?width=256&title=SR2:) <br />
 ![0%](https://progress-bar.xyz/0?width=172&title=Dark%20Chronicles%201:) <br />
 ![0%](https://progress-bar.xyz/0?width=172&title=Dark%20Chronicles%202:)
 
