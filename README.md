@@ -27,7 +27,7 @@ Kliknij miniaturę, aby odtworzyć wideo: <br />
 
 ## Instalacja
 
-Spolszczenie na tę chwilę nie posiada gotowego instalatora. Można je pobrać używają oprogramowania `git` lub wybierając opcję `Download ZIP` po kliknięciu zielony przycisk `<> Code` na górze strony.
+Spolszczenie na tę chwilę nie posiada gotowego instalatora. Można je pobrać ze strony [Releases](https://github.com/Nidrax/sr-remaster-pl/releases).
 
 Aby skorzystać ze spolszczenia należy poświęcić jeden z obecnie dostępnych w grze języków i podmienić go na polski:
 
@@ -85,7 +85,7 @@ Click the thumbnail to play the video: <br />
 
 ## Installation
 
-This Polonization currently does not have an installer prepared. You can download the translation fils using the `git` software or by selecting the `Download ZIP` option after clicking the green `<> Code` button at the top of the page.
+This Polonization currently does not have an installer prepared. It can be downloaded from the [Releases](https://github.com/Nidrax/sr-remaster-pl/releases) page.
 
 To use the Polish version, you must sacrifice one of the languages currently available in the game and replace it with Polish:
 
