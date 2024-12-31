@@ -1,8 +1,5 @@
-[0:00:000] Gdy Grabieżca opróżnił kuźnię z energii życiowej,
-[0:03:600] nawałnica ustała...
-[0:05:900] Otrząsnąłem się
-[0:07:600] i poświęciłem chwilę na podziwianie mojej nowo wykutej broni,
-[0:11:000] teraz nasyconej mocą żywiołu Powietrza.
-[0:14:600] Miałem nadzieję,
-[0:16:100] że tak uzbrojony będę w stanie w końcu opuścić tę spustoszoną krainę.
+[0:00:000] Gdy Grabieżca opróżnił kuźnię z jej energii, nawałnica ustała...
+[0:05:900] Otrząsnąłem się i poświęciłem chwilę na podziwianie mojej nowo wykutej broni,
+[0:11:000] teraz nasyconej mocą żywiołu powietrza.
+[0:14:600] Miałem nadzieję, że tak uzbrojony będę wreszcie w stanie opuścić tę spustoszoną krainę.
 [0:22:000]

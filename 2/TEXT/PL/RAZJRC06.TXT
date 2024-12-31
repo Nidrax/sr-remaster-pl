@@ -4,5 +4,5 @@
 [0:10:500] Cokolwiek knujesz,
 [0:12:600] śmiertelnie się ciebie lękają.
 [0:14:700] Jeśli chodzi o mnie,
-[0:16:315] podejrzewam, że popełnili poważny błąd, pozwalając na moje osobliwe zmartwychwstanie.
-[0:21:394] Nie sądzę, by wiedzieli, jak mnie zniszczyć.
+[0:16:315] podejrzewam, że popełnili błąd, pozwalając na moje zmartwychwstanie.
+[0:21:394] Chyba nie mają pojęcia, jak mnie zniszczyć.

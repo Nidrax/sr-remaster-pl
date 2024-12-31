@@ -46,7 +46,7 @@ zapisywanie danych gry
 zapisz
 dzwiek:
 rozpocznij gre
-rozpocznij nowa gre
+nowa gra
 spróbuj ponownie lub umiesc nowa karte pamieci (ps2)
 niesformatowana karta pamieci (ps2).
 wibracje wyl.

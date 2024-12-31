@@ -1,10 +1,9 @@
 [0:00:000] Sumienie...? 
 [0:01:865] Masz czelność mówić mi o sumieniu?
-[0:05:560] Dopiero wtedy, gdy poczujesz prawdziwą powagę swych wyborów, będziesz miał prawo kwestionować mój osąd!
-[0:12:548]
+[0:05:560] Dopiero, gdy odczujesz konsekwencje swych wyborów, będziesz miał prawo kwestionować mój osąd!
 [0:12:550] Długość twojego życia to jedynie mrugnięcie okiem w porównaniu do ogromu wątpliwości
 [0:17:970] i ubolewania, które dźwigam, odkąd Mortanius zawrócił mnie z drogi na tamten świat.
-[0:22:489]
-[0:23:529] Ta przytłaczająca świadomość, iż losy świata zależą od każdego mojego czynu -
-[0:30:237] czy jesteś w stanie sobie chociaż wyobrazić, co ty byś zrobił na moim miejscu?
+[0:23:000]
+[0:23:529] Przytłaczająca świadomość, iż losy świata zależą od każdego mojego czynu –
+[0:30:237] czy jesteś chociaż w stanie sobie wyobrazić, co zrobiłbyś na moim miejscu?
 [0:36:000]
