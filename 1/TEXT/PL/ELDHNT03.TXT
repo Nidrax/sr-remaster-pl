@@ -1,6 +1,4 @@
-[0:00:000] Odszukaj kryjówkę Zephona, Razielu...
-[0:03:574] za ruinami, które powitały cię przy wyjściu z Podziemia.
+[0:00:000] Poszukaj kryjówki Zephona za ruinami, które minąłeś, wychodząc z Podziemia, Razielu.
 [0:07:564]
-[0:08:413] Uzbrojony w Grabieżcę Dusz,
-[0:10:736] możesz dostać się tam, gdzie twoja droga była wcześniej zablokowana.
+[0:08:413] Uzbrojony w Grabieżcę Dusz możesz dostać się tam, gdzie nie było to wcześniej możliwe.
 [0:16:000]

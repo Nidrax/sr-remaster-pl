@@ -1,6 +1,5 @@
-[0:00:000] Stulecie bycia tu uwięzionym doprowadziło cię do obłędu, duchu.
-[0:03:635] Obarczasz winą Kaina, wierząc, że to on jest uwięzią, która cię tu trzyma.
+[0:00:000] Stulecie bycia uwięzionym doprowadziło cię do obłędu, duchu.
+[0:03:635] Obarczasz winą Kaina, wierząc, że jest uwięzią, która cię tu trzyma.
 [0:08:800] Ale oboje wiemy, że to nie on jest sprawcą twojej agonii.
-[0:12:570] Filary zostały przejęte przez mroczne siły, sprowadzone przez samych Strażników.
-[0:18:380] Im więcej dowiaduję się o twoim Kręgu, tym bardziej dostrzegam plątaninę wzajemnych manipulacji –
-[0:20:000]
+[0:12:570] Filary zostały przejęte przez mroczne siły sprowadzone przez samych Strażników.
+[0:18:380] Im więcej dowiaduję się o Kręgu, tym bardziej dostrzegam plątaninę wzajemnych manipulacji.

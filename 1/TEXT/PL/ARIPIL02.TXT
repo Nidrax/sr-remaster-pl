@@ -1,8 +1,8 @@
-[0:00:000] Odpoczynek...? 
-[0:01:546] Do snu potrzeba ciała...
+[0:00:000] Odpoczynek? 
+[0:01:546] By zasnąć potrzeba ciała.
 [0:03:879] Skóry oraz kości, by móc się położyć.
 [0:07:460] Nie, dziecko, jedyne co mogę robić, to obserwować
-[0:11:500] i pamiętać, nieustannie świadoma jak rozwija się nieszczęsna historia tego świata.
-[0:18:283] Upiorna przeszłość, nieznośna przyszłość, czy są one jednym i tym samym...?
+[0:11:500] i rozpamiętywać, ciągle świadoma, gdy przemija ten nieszczęsny świat.
+[0:18:283] Upiorna przeszłość, nieznośna przyszłość, czy są jednym i tym samym?
 [0:23:789]
 [0:24:685] Czy zawsze tutaj byłam?

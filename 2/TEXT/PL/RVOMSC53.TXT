@@ -1,5 +1,3 @@
-[0:00:000] Odkąd chwyciłem ostrze,
-[0:02:200] Grabieżca i ja byliśmy nieodwracalnie złączeni.
-[0:05:800] Im bardziej starałem się wypuścić broń,
-[0:08:400] tym mocniej moja dłoń zaciskała się na rękojeści,
+[0:00:000] Odkąd chwyciłem ostrze,n Grabieżca i ja byliśmy nieodwracalnie złączeni.
+[0:05:800] Im bardziej starałem się wypuścić broń, tym mocniej moja dłoń zaciskała się na rękojeści,
 [0:11:375] jakby posiadała własną wolę.

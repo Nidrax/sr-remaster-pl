@@ -1,6 +1,4 @@
-[0:00:000] Za wirem otchłani,
-[0:02:600] znajduje się podziemny tunel prowadzący na północ,
-[0:05:250] w kierynku terytorium klanu twojego brata Dumah'y.
-[0:09:240] Obdarzony duszą Rahaba,
-[0:11:385] możesz popłynąć i dostać się tam, gdzie wcześniej miałeś utrudniony dostęp.
+[0:00:000] Za wirem otchłani najduje się podziemny tunel prowadzący na północ –
+[0:05:250] w kierunku terytorium klanu twojego brata Dumy.
+[0:09:240] Obdarzony duszą Rahaba możesz popłynąć i dostać się tam, gdzie nie było to wcześniej możliwe.
 [0:18:000]

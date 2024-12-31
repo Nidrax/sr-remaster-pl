@@ -1,5 +1,5 @@
-[0:00:000] Pochłaniając odstępczą duszę Zephona, zostałeś obdarzony nowym darem.
-[0:04:905] Tak jak jego wampirzy rój,
-[0:06:900] jesteś teraz w stanie wspinać się na pewne ściany, wcześniej nie do zdobycia – 
+[0:00:000] Pochłaniając odstępczą duszę Zephona, zyskałeś nowy dar.
+[0:04:905] Tak jak jego wampirzy rój
+[0:06:900] możesz teraz wspinać się na wcześniej niedostępne ściany –
 [0:11:000] lecz tylko w sferze materialnej.
-[0:13:423] W świecie duchów te obiekty, pozbawione swoich cech fizycznych, cię nie utrzymają.
+[0:13:423] W świecie duchów te pozbawione cech fizycznych obiekty cię nie utrzymają.

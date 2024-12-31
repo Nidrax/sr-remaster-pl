@@ -1,6 +1,3 @@
-[0:00:000] Wtedy to usunięta zostanie drzazga.
-[0:02:747]
-[0:04:212] Miej na uwadze, że być może właśnie do takiego rezultatu
-[0:08:810] chcą doprowadzić nasi wrogowie.
-[0:10:350]
+[0:00:000] Wtedy usunięta zostanie drzazga.
+[0:04:212] Miej na uwadze, że być może taki właśnie rezultat chcą osiągnąć nasi wrogowie.
 [0:11:770] Musimy postępować bardzo ostrożnie.

@@ -1,3 +1,3 @@
-[0:00:000] Uwolniona od ciała dusza istoty szybko zanika w sferze widmowej.
-[0:06:060] Przejmij ją szybko, Razielu, albo będziesz zmuszony za nią podążyć.
+[0:00:000] Dusza uwolniona od ciała szybko ucieka do sfery widmowej.
+[0:06:060] Złap ją prędko, albo będziesz zmuszony za nią podążyć.
 [0:13:000]

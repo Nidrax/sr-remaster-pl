@@ -44,7 +44,7 @@ gra zapisana
 zapisywanie danych gry
 dzwiek:
 rozpocznij gre
-rozpocznij nowa gre
+nowa gra
 spróbuj ponownie lub umiesc nowa karte pamieci
 niesformatowana karta pamieci
 wibracje wyl.
