@@ -1,37 +1,37 @@
 ﻿[0:04:500] Kain jest ubóstwiany.
-[0:07:200] Klany opowiadają o nim legendy, lecz niewielu zna prawdę.
-[0:11:800] Był kiedyś śmiertelnikiem, jak my wszyscy.
-[0:16:200] Jednakże jego pogarda wobec ludzi popchnęła go do stworzenia mnie i moich braci.
-[0:22:800] Jestem Raziel, pierworodny spośród jego poruczników.
+[0:07:200] Klany opowiadają o nim legendy... niewielu zna prawdę.
+[0:11:800] Był kiedyś śmiertelnikiem – jak my wszyscy.
+[0:16:200] Jego pogarda wobec ludzi popchnęła go do stworzenia mnie i moich braci.
+[0:22:800] Jestem Raziel – pierworodny spośród jego poruczników.
 [0:27:800] Stałem przy boku Kaina i moich braci u świtu imperium.
-[0:33:900] Służyłem mu przez tysiąclecie.
-[0:37:900] Stawaliśmy się coraz mniej ludzcy, a coraz bardziej...
+[0:33:900] Służyłem mu całe tysiąclecie.
+[0:37:900] Stawaliśmy się coraz mniej ludzcy, a bardziej...
 [0:42:500] ...boscy.
 [0:44:500]
-[0:45:500] Kain wkraczał w stan przemiany i wyłaniał się z niego z nowym darem.
+[0:45:500] Kain wkraczał w stan przemiany i tak otrzymywał nowy dar.
 [0:50:900]
-[0:54:300] Kilka lat później następowała także nasza ewolucja.
-[0:59:900] Aż do momentu, gdy dostąpiłem zaszczytu przewyższenia mego pana.
+[0:54:300] Kilka lat po nim następowała także nasza ewolucja.
+[0:59:900] Aż pewnego dnia dostąpiłem zaszczytu przewyższenia mego pana.
 [1:05:200]
-[1:29:300] Za to wykroczenie zostałem wynagrodzony w zupełnie nowy sposób...
-[1:35:500]
+[1:29:300] Za to wykroczenie zostałem nagrodzony w zupełnie nowy sposób...
+[1:37:500]
 [1:39:150] agonią.
 [1:42:000]
-[1:55:000] Istniało tylko jedno możliwe wyjście – moje wieczne potępienie.
+[1:55:000] Mógł mnie spotkać tylko jeden los – wieczne potępienie.
 [2:02:000]
-[2:04:400] Ja, Raziel, miałem podzielić los zdrajców i słabeuszy,
+[2:04:400] Ja – Raziel – miałem podzielić los zdrajców i słabeuszy,
 [2:10:200] płonąc całą wieczność w odmętach Jeziora Śmierci.
 [2:15:500]
-[2:17:100] Wrzucić go.
+[2:17:100] Wrzucić go!
 [2:19:500]
-[2:29:600] Spadawszy, płonąc białym ogniem,
+[2:29:600] Spadając i płonąc białym ogniem,
 [2:33:100] pogrążałem się w czeluściach otchłani.
 [2:36:400] Niewymowny ból...
 [2:38:200] nieustępliwa agonia...
 [2:39:800] czas przestał istnieć...
 [2:42:400] pozostało jedynie cierpienie...
 [2:44:200] i pogłębiająca się nienawiść dla hipokryzji, która skazała mnie na to piekło.
-[2:50:300]
+[2:52:300]
 [2:54:400] Wieczność minęła,
 [2:56:450] a ma udręka ustąpiła,
 [2:59:000] sprowadzając mnie z powrotem znad skraju szaleństwa.

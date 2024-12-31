@@ -1,12 +1,11 @@
-[0:00:000] Wyszedłem na zewnątrz...
-[0:01:400] i po raz pierwszy ujrzałem Nosgoth w jego dawnej chwale.
+[0:00:000] Wyszedłem na zewnątrz i po raz pierwszy ujrzałem Nosgoth w jego dawnej chwale.
 [0:06:250] Ziemia przepełniona była życiem i rozkwitem.
 [0:11:400] Wtedy wiedziałem już z całą pewnością,
 [0:13:570] że pustkowia, które niedawno opuściłem, były jedynie trupem Nosgothu,
 [0:18:750] wyssanym do ostatniej kropli krwi przez pasożytnicze imperium Kaina.
-[0:24:200] A tutaj – delikatny świat, który Kain poświęcił, by ratować własne istnienie i ambicje,
+[0:24:200] A tu był delikatny świat, który Kain poświęcił, by ratować własne istnienie i ambicje,
 [0:29:744] nie zważając na poniesione koszty.
 [0:32:440] Ten widok tylko przypieczętował moją decyzję...
-[0:35:200] Określiłem, że Filary znajdowały się na północny-zachód stąd –
-[0:38:460] jeśli Kain faktycznie czekał, by mnie tam spotkać, to nie mogłem go zawieść...
+[0:35:200] Wyczułem Filary znajdujące się na północny-zachód stąd –
+[0:38:460] jeśli Kain rzeczywiście czekał tam na mnie, to nie mogłem go zawieść...
 [0:45:460]

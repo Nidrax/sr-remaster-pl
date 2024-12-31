@@ -1,8 +1,8 @@
-[0:00:000] Starożytny grobowiec Sarafanów, niegdyś niemożliwy do spenetrowania...
-[0:04:374] Teraz, spustoszony kataklizmami Nosgothu, odkrył swe tajemnice.
+[0:00:000] Starożytny grobowiec Sarafanów – niegdyś niemożliwy do spenetrowania...
+[0:04:374] Teraz, spustoszony kataklizmami, odkrył swe tajemnice.
 [0:10:999] W czasach Voradora, wieki przed stworzeniem Kaina,
-[0:15:081] wojowniczy kapłani zakonu Sarafanów prowadzili bezlitosną wojnę przeciw wampirzym plemionom Nosgoth.
-[0:21:705] Pod przykrywką sprawiedliwości dopuszczali się niewypowiedzianych i pozbawionych granic aktów przemocy –
+[0:15:081] wojowniczy kapłani zakonu Sarafanów prowadzili bezlitosną wojnę przeciw wampirzym plemionom Nosgothu.
+[0:21:705] Pod przykrywką sprawiedliwości dopuszczali się pozbawionych granic aktów przemocy –
 [0:28:245] masakrując zarówno młodzików, jak i starożytne wampiry, zdziesiątkowali całe rody w ledwie kilka dziesięcioleci.
 [0:36:161] Teraz znajdują się tutaj ich szczątki – ciała uświęconych morderców.
 [0:43:000]

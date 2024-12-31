@@ -1,7 +1,7 @@
 [0:00:000] Raziel, nieudolny zabójca.
-[0:04:000] Miałeś Kaina na swojej łasce, ale zabrakło Ci odwagi by dopełnić czynu.
-[0:09:700] A teraz widzisz pustkowie stworzone ręką tyrana.
-[0:13:800] Przez jego samolubną decyzję by ocalić swój własny żywot,
-[0:17:500] nawet jeśli oznaczało to poświęcenie całego świata.
+[0:04:000] Miałeś Kaina na swojej łasce, ale zabrakło Ci odwagi, by dopełnić czynu.
+[0:09:700] A teraz podziwiaj pustkowie stworzone ręką tyrana.
+[0:13:800] Jego samolubną decyzją, by ocalić swój własny żywot,
+[0:17:500] nawet gdy oznaczało to poświęcenie całego świata.
 [0:21:400] Taki jest los Nosgothu, dopóki Kain pozostaje przy życiu.
 [0:27:000]

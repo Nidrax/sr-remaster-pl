@@ -1,9 +1,9 @@
 ﻿[0:00:000] Nie staniesz się ponownie człowiekiem, Razielu...
-[0:04:200] Jednak możesz odzyskać esencję swego człowieczeństwa i szlachetność twojego dziedzictwa jako Sarafana.
+[0:04:200] Ale możesz odzyskać esencję człowieczeństwa i szlachetność swego dziedzictwa jako Sarafana.
 [0:11:000] Udaj się do niego, Razielu. I zakończ to.
-[0:16:600] Lecz wpierw musisz się wydostać z Twierdzy, a obawiam się, że w tym nie mogę ci pomóc.
+[0:16:600] Lecz wpierw musisz się wydostać z Twierdzy, a w tym niestety nie mogę ci pomóc.
 [0:25:900] Moi żołnierze nie zrozumieją twojej obecności. Będą próbowali cię zabić.
 [0:30:900] Nie musisz się ich obawiać, rzecz jasna. Nie są dla ciebie żadnym wyzwaniem.
-[0:35:700] Postaraj się ograniczyć ofiary do minimum, lecz
-[0:41:000] czyń to, co konieczne.
+[0:35:700] Postaraj się ograniczyć ofiary do minimum...
+[0:39:500] lecz czyń to, co konieczne.
 [0:43:900] Wielkie posunięcia wymagają kilku męczenników...

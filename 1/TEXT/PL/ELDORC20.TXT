@@ -1,8 +1,7 @@
-[0:00:000] Jaskinia Wyroczni, miejsce gdzie doszło do pierwszego znamiennego spotkania Kaina z Moebiusem.
+[0:00:000] Jaskinia Wyroczni – miejsce pierwszego znamiennego spotkania Kaina z Moebiusem.
 [0:05:250] Moebius udawał wtedy słabowitego wieszcza
-[0:08:420] mieszającego w swym kotle z wizjami, oferując enigmatyczne przepowiednie łatwowiernym wędrowcom.
-[0:14:809] Pod tą fasadą krył się jednak Szwacz Czasu, czarownik z Kręgu Dziewięciu -
-[0:20:921] bezwzględny manipulator potrafiący naginać czas.
-[0:25:857] Te jaskinie pozostawały opuszczone od czasu gdy Kain zamordował go wieki temu...
-[0:30:950] Chociaż mawiano, że tak jak sam Moebius,
-[0:33:261] są jedynie przykrywką dla czegoś znacznie większego i bardziej złożonego...
+[0:08:420] mieszającego w kotle z wizjami, oferując enigmatyczne przepowiednie łatwowiernym wędrowcom.
+[0:14:809] Pod tą maską krył się jednak Szwacz Czasu – czarownik Kręgu Dziewięciu –
+[0:20:921] bezwzględny intrygant potrafiący manipulować czasem.
+[0:25:857] Te jaskinie pozostawały opuszczone od czasu, gdy Kain zamordował go wieki temu.
+[0:30:950] Choć mawiano, że podobnie jak sam Moebius skrywają coś znacznie większego... i bardziej złożonego.

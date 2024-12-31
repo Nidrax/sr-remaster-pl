@@ -1,6 +1,4 @@
-[0:00:000] Zamarznięta tafla jeziora zablokowała bramy twierdzy.
-[0:04:600] Sarafani z pewnością mieli jakieś inne wejście,
-[0:08:400] lecz to tutaj było jedynym, które znałem.
-[0:11:500] By przedostać się do fortecy,
-[0:13:600] musiałem znaleźć sposób, by uwolnić bramy z lodowego uścisku.
-[0:15:000]
+[0:00:000] Zamarznięta tafla jeziora blokowała bramy twierdzy.
+[0:04:600] Sarafani z pewnością mieli jakieś inne wejście, lecz to tutaj było jedynym, które znałem.
+[0:11:500] Aby dostać się do fortecy musiałem wpierw znaleźć sposób, by uwolnić bramy z lodowego uścisku.
+[0:17:000]
