@@ -3,7 +3,7 @@
 
 powrót
 anuluj
-wybierz plik zapisu legacy of kain: soul reaver do odczytu
+wybierz plik zapisu sr1 do odczytu
 wybierz plik do zapisu swoich postиpów
 potwierdц
 kontynuuj
@@ -19,7 +19,7 @@ powrót
 
 
 
-odczyt zakoлczony niepowodzeniem
+bйдd odczytu
 wczytaj grи
 wczytywanie danych gry
 muzyka:
@@ -32,7 +32,7 @@ ok
 opcje
 nadpisz
 wstrzymano
-wciśnij
+naciśnij
 
 
 czy chcesz opuпciж grи?
@@ -180,57 +180,57 @@ insert
 delete
 ~
  
-@ACT5 aby wejść w interakcję
-@ACT1 lub @ACT3 aby się rozglądać
-@ACT5 aby wyjść
-Przytrzymaj @ACT6 aby się posilić
-@ACT4 aby skoczyć
-Przytrzymaj @ACT9 + @ACT4 aby wykonać wysoki skok
-Skok a następnie przytrzymaj @ACT4 aby szybować
-Przytrzymaj @ACTB aby namierzyć
-@ACT5 aby zaatakować
-@ACTB + @ACT0 @ACT2 @ACT1 @ACT3 a nastćpnie @ACT4 aby zrobić unik
+@ACT5, aby wejść w interakcję
+@ACT1 lub @ACT3, aby się rozglądać
+@ACT5, aby wyjść
+Przytrzymaj @ACT6, aby się posilić
+@ACT4, aby skoczyć
+Przytrzymaj @ACT9 + @ACT4, aby wykonać wysoki skok
+Skok a następnie przytrzymaj @ACT4, aby szybować
+Przytrzymaj @ACTB, aby namierzyć
+@ACT5, aby zaatakować
+@ACTB + @ACT0 @ACT2 @ACT1 @ACT3 a następnie @ACT4, aby zrobić unik
 Zdrowie musi być pełne
-Wcićnij @ACTC
-@ACT5 aby przejść
-@ACT5 aby otworzyć
-Przytrzymaj @ACT7 aby chwycić
-Zwolnij @ACT7 aby rzucić
-Wciśnij @ACT5 aby pchnąć
-Przytrzymaj @ACT5 aby złapać
-@ACT5 + @ACT0 @ACT2 @ACT1 @ACT3 aby przeciągać
-@ACT5 aby podnieść
-@ACT9 + @ACT5 aby odłożyć
-Przytrzymaj @ACT7 aby automatycznie namierzyć
-@ACT9 aby anulować
-Przytrzymaj @ACT7 aby nabić
-Przytrzymaj @ACTB aby się skradać
-Przytrzymaj @ACT7 aby podpalić
-@ACT9 + @ACT5 aby obrócić
-@ACT5 aby operować
-Przytrzymaj @ACT5 aby operować
-@ACT9 + @ACT0 @ACT2 @ACT1 @ACT3 aby się czołgać
-@ACT7 aby wycelować ręcznie
-@ACT0 aby przeniknąć
-@ACT4 aby się wspinać
-@ACT5 aby upuścić
-Wciśnij @ACT7 aby wystrzelić
-@ACT4 aby płynąć
-Przytrzymaj @ACT9 + @ACT4 aby przyśpieszyć
+Naciśnij @ACTC
+@ACT5, aby przejść
+@ACT5, aby otworzyć
+Przytrzymaj @ACT7, aby chwycić
+Zwolnij @ACT7, aby rzucić
+Naciśnij @ACT5, aby pchnąć
+Przytrzymaj @ACT5, aby złapać
+@ACT5 + @ACT0 @ACT2 @ACT1 @ACT3, aby przeciągać
+@ACT5, aby podnieść
+@ACT9 + @ACT5, aby odłożyć
+Przytrzymaj @ACT7, aby automatycznie namierzyć
+@ACT9, aby anulować
+Przytrzymaj @ACT7, aby nabić
+Przytrzymaj @ACTB, aby się skradać
+Przytrzymaj @ACT7, aby podpalić
+@ACT9 + @ACT5, aby obrócić
+@ACT5, aby operować
+Przytrzymaj @ACT5, aby operować
+@ACT9 + @ACT0 @ACT2 @ACT1 @ACT3, aby się czołgać
+@ACT7, aby wycelować ręcznie
+@ACT0, aby przeniknąć
+@ACT4, aby się wspinać
+@ACT5, aby upuścić
+Naciśnij @ACT7, aby wystrzelić
+@ACT4, aby płynąć
+Przytrzymaj @ACT9 + @ACT4, aby przyśpieszyć
 Obiegnij obiekt, aby użyć zaciskania
-@ACT1, @ACT3 aby wybrać
-@ACT5 aby uzyć mocy
-Przytrzymaj @ACTB aby spowolnić upadek
-@ACT9 aby kucać
-@ACTD aby obracać kamerę
-Przytrzymaj @ACTA aby się rozejrzeć
+@ACT1, @ACT3, aby wybrać
+@ACT5, aby uzyć mocy
+Przytrzymaj @ACTB, aby spowolnić upadek
+@ACT9, aby kucać
+@ACTD, aby obracać kamerę
+Przytrzymaj @ACTA, aby się rozglądać
 Musisz być w sferze fizycznej
 Musisz być w sferze widmowej
-Wciśnij @ACT4 aby poszybować
-@ACT5 aby powrócić
-@ACT9 + @ACT4 aby wykonać wysoki skok
+Naciśnij @ACT4, aby poszybować
+@ACT5, aby powrócić
+@ACT9 + @ACT4, aby wykonać wysoki skok
 Idź do przodu, aby przeniknąć
-@ACTA aby się rozglądać
+@ACTA, aby się rozglądać
 
 Przenieś się do sfery widmowej, aby odkryć ukryte przejścia
 
@@ -301,9 +301,9 @@ jиzyk:
 angielski
 niemiecki
 francuski
-wйoski
-hiszpaлski
-japoлski
+wloski
+hiszpanski
+japonski
 polski
 czuйoпж:
 odwrócenie osi y:
@@ -408,4 +408,4 @@ Powrót
 Obracanie
 Pole widzenia
 wyjпcie do launchera
-Przytrzymaj aby pominąć
+Przytrzymaj, aby pominąć
