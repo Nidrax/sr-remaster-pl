@@ -1,99 +1,99 @@
 
-formatuj karte pamieci (ps2)
-odczyt karty pamieci (ps2) w slocie 1
+
+
 powrót
 anuluj
-wybierz plik szapisu oul reaver 2 do odczytu
-wybierz plik do zapisu swoich postepów
-potwierdz
+wybierz plik zapisu sr2 do odczytu
+wybierz plik do zapisu swoich postлpów
+potwierdп
 kontynuuj
-kontroler
+
 stwórz nowy plik
 tworzenie pliku zapisu
 demo
-nie wyjmuj karty pamieci (ps2) ze slotu 1
+
 gotowe
-wyjdz z gry
-formatowanie karty pamieci (ps2)
+wyjdп z gry
+
 powrót
-%s aby wyjsc
-umiesc karte pamieci w slocie 1
-umiesc xxx z przyjnajmniej xxx wolnymi blokami w górnym xxx slocie
-niewlasciwa xxx
-odczyt zakonczony niepowodzeniem
-wczytaj gre
+%s, aby wyjгб
+
+
+
+bчйd odczytu
+wczytaj grл
 wczytywanie danych gry
 muzyka:
 nowa gra
 nie
-brak karty pamieci w slocie 1
-brak wystarczajacej liczby wolnych bloków. 50 wolnych bloków wymagane, by zapisac.
-niewystarczajaco wolnej pamieci
+
+
+niewystarczajйco miejsca
 ok
 opcje
 nadpisz
 wstrzymano
-wcisnij przycisk start
-formatowanie karty (ps2). kotynuowac?
-czy nadpisac uprzednio zapisana gre na karcie pamieci w slocie 1?
-czy chcesz opuscic gre?
-wyjdz z gry
+
+
+
+czy chcesz opuгciб grл?
+wyjdп z gry
 wznów
-blad zapisu
-zapisz gre
+bчйd zapisu
+zapisz grл
 gra zapisana
 zapisywanie danych gry
 zapisz
-dzwiek:
-rozpocznij gre
+dпwiлk:
+rozpocznij grл
 nowa gra
-spróbuj ponownie lub umiesc nowa karte pamieci (ps2)
-niesformatowana karta pamieci (ps2).
-wibracje wyl.
-wibracje wyl.
-wibracje wyl.
-wibracje wyl.
-wibracje wl.
-wibracje wl.
-wibracje wl.
-wibracje wl.
-kompas: wl.
-kompas: wyl.
-podpowiedzi: wl.
-podpowiedzi: wyl.
-podpowiedzi interakcji: wl.
-podpowiedzi interakcji: wyl.
-dzwiek wl.
-dzwiek wyl.
-muzyka wl.
-muzyka wyl.
+
+
+wibracje wyч.
+wibracje wyч.
+wibracje wyч.
+wibracje wyч.
+wibracje wч.
+wibracje wч.
+wibracje wч.
+wibracje wч.
+kompas: wч.
+kompas: wyч.
+podpowiedzi: wч.
+podpowiedzi: wyч.
+podpowiedzi interakcji: wч.
+podpowiedzi interakcji: wyч.
+dпwiлk wч.
+dпwiлk wyч.
+muzyka wч.
+muzyka wyч.
 mroczna kronika
 mapa
 pozycja ekranu
-uzyj lewej galki by dopasowac|pozycje ekranu
+
 mowa:
 zapisywanie danych gry
-gra soul reaver 2 wymaga xx wolnych blokow na karcie pamieci
-upewnij sie, ze w slocie 1 umieszczono karte pamieci z xx wolnymi blokami, aby móc zapisac gre
+
+
 tak
-filtrowanie tekstur
+
 gamma
-ostrosc
-glosnosc
-fixed
+ostroгб
+gчoгnoгб
+
 wybierz ten sterownik
-nastepny sterownik
-wybierz te rozdzielczosc
-nastepna rozdzielczosc
-rozdzielczosc
-obecny sterowny
+nastлpny sterownik
+wybierz tл rozdzielczoгб
+nastлpna rozdzielczoгб
+rozdzielczoгб
+obecny sterownik
 proponowany sterownik
-obecna rozdzielczosc
-proponowana rozdzielczosc
-szerokosc
-wysokosc
-glebia bitów
-wybierz rozdzielczosc
+obecna rozdzielczoгб
+proponowana rozdzielczoгб
+szerokoгб
+wysokoгб
+gчлbia bitów
+wybierz rozdzielczoгб
 wybierz sterownik
 konfiguracja wideo
 pusty
@@ -109,38 +109,38 @@ konfiguracja kontrolera
 konfiguracja kontrolera
 konfiguracja kontrolera
 konfiguracja kontrolera
-kongfiguracja klawiatury
-góra
-dól
-lewo
-prawo
-trójkat
+konfiguracja klawiatury
+
+
+
+
+trójkйt
 x
 kwadrat
-kólko
-l1
-l2
-r1
-r2
+kóчko
+
+
+
+
 i
 j
-start
+
 select
 naprzód
-do tylu
+do tyчu
 w lewo
 w prawo
-skok/plywanie
-pozryj dusze
-celowanie/chwyt
+skok / pчywanie
+poуarcie duszy
+celowanie / chwyt
 akcja
 kucanie
-skradanie/nacelowanie przeciwnika
+skradanie / celowanie przeciwnika
 krok w lewo
 krok w prawo
-start
+
 menu glifów
-przyblizenie
+przybliуenie
 obrót kamery w lewo
 obrót kamery w prawo
 escape
@@ -192,42 +192,42 @@ numpad /
 sysrq
 prawy alt
 home
-góra
+
 page up
-lewo
-prawo
+
+
 end
-dól
+
 page down
 insert
 delete
 ~
 opcje graficzne
-opcje dzwieku
+opcje dпwiлku
 opcje gry
 opcje sterowania
-filtrowanie anizotropowe
+
 filtrowanie dwuliniowe
 filtrowanie trójliniowe
 brak filtrowania
-anti-aliasing wlaczony
-anti-aliasing wylaczony
-eax wlaczony
-eax wylaczony
+anti-aliasing wчйczony
+anti-aliasing wyчйczony
+eax wчйczony
+eax wyчйczony
 skonfiguruj
 skonfiguruj mysz
-skonfiguruj klawiature
+skonfiguruj klawiaturл
 skonfiguruj kontroler
 skonfiguruj kontroler
 skonfiguruj kontroler
 skonfiguruj kontroler
-nacisnij enter by zmienic przypisanie
-przycisk
+naciгnij enter by zmieniб przypisanie
+
 lekki atak
 mocny atak
 wyssanie duszy
 skok
-rozgladanie sie
+rozglйdanie siл
 kucanie
 blokowanie
 namierzanie
@@ -235,150 +235,150 @@ menu glifów
 menu
 naprzód
 celowanie
-konwertuj
-nie konwertuj
-yen
-wycisz
+
+
+
+
 kalkulator
-odtwarzanie/pauza
-zatrzymaj media
-zmniejsz glosn.
-zwieksz glosn.
-siec/home
+odtwarzanie / pauza
+
+zmniejsz gчoгnoгб
+zwiлksz gчosnoгб
+sieб / home
 sysreq
 pause
-lewy windows
-prawy windows
-web wyszukiwanie
-web ulubione
-web odswiez
-web stop
-web naprzód
-web wstecz
-mój komputer
+
+
+
+
+
+
+
+
+
 e-mail
 wybierz media
 Ta gra wymaga DirectX8
 Ta gra wymaga karty graficznej zgodnej z DirectX8. Twoja karta lub sterownik nie wspierają akceleracji 3D DirectX8.
 Soul Reaver 2
-Soul Reaver 2 Error
-Soul Reaver 2 Setup Dialog
-Soul Reaver 2 Demo Setup Dialog
+Błąd Soul Reaver 2
+
+
 Wybierz urządzenie renderujące
 Wybierz rozdzielczość i głębię bitów
 Potrójne buforowanie
-Synchronizacja odświeżania
+
 Antialiasing (FSAA)
-Używaj technologii EAX
+
 Tekstury niskiej jakości
-odwroc mysz wl.
-odwroc mysz wyl.
-czulosc myszy
-sterowanie kamery wl.
-sterowanie kamery wyl.
-dummy hint
-@ACT5 aby wejsc w interakcje
-@ACT1 lub @ACT3 aby sie rozgladac
-@ACT5 aby wyjsc
-Przytrzymaj @ACT6 by sie posilic
-@ACT4 aby skoczyc
-Przytrzymaj @ACT9 + @ACT4 aby wykonac wysoki skok
-Skok a nastepnie przytrzymaj @ACT4 aby szybowac
-Przytrzymaj @ACTB aby namierzyc
-@ACT5 lub @ACT7 aby zaatakowac
-@ACTB + @ACT0 @ACT2 @ACT1 @ACT3 a nastepnie @ACT4 aby zrobic unik
-Zdrowie musi byc pelne
-Wcisnij @ACTC
-@ACT5 aby przejsc
-@ACT5 aby otworzyc
-Przytrzymaj @ACT7 aby chwycic
-Zwolnij @ACT7 aby rzucic
-Wcisnij @ACT5 aby pchnac
-Przytrzymaj @ACT5 aby zlapac
-@ACT5 + @ACT0 @ACT2 @ACT1 @ACT3 aby przeciagac
-@ACT5 aby podniesc
-@ACT9 + @ACT5 aby odlozyc
-Przytrzymaj @ACT7 aby automatycznie namierzyc
-@ACTC aby anulowac
-Przytrzymaj @ACT7 aby nabic
-Przytrzymaj @ACTB aby sie skradac
-Przytrzymaj @ACT7 aby podpalic
-@ACT9 + @ACT5 aby obrocic
-@ACT5 aby operowac
-Przytrzymaj @ACT5 aby operowac
-@ACT9 + @ACT0 @ACT2 @ACT1 @ACT3 aby sie czolgac
-@ACT7 aby wycelowac recznie
-@ACT0 aby przeniknac
-@ACT4 aby wskoczyc na sciane
-@ACT5 aby upuscic
-Wcisnij @ACT7 aby wystrzelic
-@ACT4 aby plynac i @ACT0@ACT1@ACT2@ACT3 aby obrócic
-Przytrzymaj @ACT9 + @ACT5 aby przyspieszyc
-@ACT4 aby sie wspinac
-@ACT1, @ACT3 aby wybrac
-@ACT5 aby uzyc mocy
-Przytrzymaj @ACTB aby spowolnic upadek
-@ACT9 aby kucac
-@ACTD aby obracac kamere
-Przytrzymaj @ACTA aby sie rozejrzec
-Musisz byc w sferze fizycznej
-Musisz byc w sferze widmowej
-Wcisnij @ACT4 aby poszybowac
-@ACT5 aby powrócic
-@ACT9 + @ACT4 aby wykonac wysoki skok
-Idz do przodu, aby przeniknac
-@ACTA aby sie rozgladac
-streaming
-Nacisnij @ACT6 dwa razy, aby aktywowac Grabiezce
-@ACT5 aby przesuwac
-@ACT5 aby obracac
-Przytrzymaj @ACT5 + @ACT1 lub @ACT3 aby obracac
-@ACT5 aby umiescic obiekt
-Zwolnij @ACT7 aby wystrzelic
-Aktywuj Grabiezce|z menu wyboru
-Z wyciagnietym Grabiezca|nacisnij @ACT5 aby napelnic mrokiem
-Z wyciagnietym Grabiezca|nacisnij @ACT5 aby otworzyc
-Stan w obracajacym sie portalu
-Oslep oko straznicze|pociskiem z Grabiezcy Mroku
-Z wyciagnietym Grabiezca|nacisnij @ACT5 aby napelnic swiatlem
-Posiadasz Grabiezce Mroku
-Posiadasz Grabiezce Swiatla
-Z Grabiezca Mroku|wcisnij @ACT5 aby aktywowac
-Przenies sie do sfery widmowej
-Przytrzymaj @ACT9 i wcisnij @ACT4 | aby wspiac sie na filar
-Z Grabiezca Swiatla|wcisnij @ACT5 aby otworzyc drzwi
-Uzywaj Grabiezcy Swiatlaaby oswietlac ciemnosci|i aktywowac magiczne obiekty
-Przytrzymaj @ACT8 aby blokowac
-Nacisnij @ACT6 dwa razy, aby aktywowac lub deaktywowac Grabiezce
-Przytrzymaj @ACT9 i wcisnij @ACT4 aby|wyskoczyc z wody
-@ACT5 aby zapisac gre
-@ACT5 aby podniesc klucz
-@ACT5 aby otworzyc drzwi kluczem
-Hold @ACTA and @ACT7 and aim with|left a-pad to fire projectiles
+odwróб mysz wч.
+odwróб mysz wyч.
+czuчoгб myszy
+sterowanie kamery wч.
+sterowanie kamery wyч.
+
+@ACT5, aby wejść w interakcję
+@ACT1 lub @ACT3, aby się rozglądać
+@ACT5, aby wyjść
+Przytrzymaj @ACT6, aby się posilić
+@ACT4, aby skoczyć
+Przytrzymaj @ACT9 + @ACT4, aby wykonać wysoki skok
+Skok a następnie przytrzymaj @ACT4, aby szybować
+Przytrzymaj @ACTB, aby namierzyć
+@ACT5 lub @ACT7, aby zaatakować
+@ACTB + @ACT0 @ACT2 @ACT1 @ACT3 a następnie @ACT4, aby zrobić unik
+Zdrowie musi być pełne
+Naciśnij @ACTC
+@ACT5, aby przejść
+@ACT5, aby otworzyć
+Przytrzymaj @ACT7, aby chwycić
+Zwolnij @ACT7, aby rzucić
+Naciśnij @ACT5, aby pchnąć
+Przytrzymaj @ACT5, aby złapać
+@ACT5 + @ACT0 @ACT2 @ACT1 @ACT3, aby przeciągać
+@ACT5, aby podnieść
+@ACT9 + @ACT5, aby odłożyć
+Przytrzymaj @ACT7, aby automatycznie namierzyć
+@ACT9, aby anulować
+Przytrzymaj @ACT7, aby nabić
+Przytrzymaj @ACTB, aby się skradać
+Przytrzymaj @ACT7, aby podpalić
+@ACT9 + @ACT5, aby obrócić
+@ACT5, aby operować
+Przytrzymaj @ACT5, aby operować
+@ACT9 + @ACT0 @ACT2 @ACT1 @ACT3, aby się czołgać
+@ACT7, aby wycelować ręcznie
+@ACT0, aby przeniknąć
+@ACT4, aby wskoczyć na ścianę
+@ACT5, aby upuścić
+Naciśnij @ACT7, aby wystrzelić
+@ACT4, aby płynąć i @ACT0@ACT1@ACT2@ACT3, aby obrócić
+Przytrzymaj @ACT9 + @ACT5, aby przyśpieszyć
+@ACT4, aby się wspinać
+@ACT1, @ACT3, aby wybrać
+@ACT5, aby uzyć mocy
+Przytrzymaj @ACTB, aby spowolnić upadek
+@ACT9, aby kucać
+@ACTD, aby obracać kamerę
+Przytrzymaj @ACTA, aby się rozglądać
+Musisz być w sferze fizycznej
+Musisz być w sferze widmowej
+Naciśnij @ACT4, aby poszybować
+@ACT5, aby powrócić
+@ACT9 + @ACT4, aby wykonać wysoki skok
+Idź do przodu, aby przeniknąć
+@ACTA, aby się rozglądać
+
+Naciśnij @ACT6 dwa razy, aby aktywować Grabieżcę
+@ACT5, aby przesuwać
+@ACT5, aby obracać
+Przytrzymaj @ACT5 + @ACT1 lub @ACT3, aby obracać
+@ACT5, aby umieścić obiekt
+Zwolnij @ACT7, aby wystrzelić
+Aktywuj Grabieżcę|z menu wyboru
+Z wyciągniętym Grabieżcą|naciśnij @ACT5, aby napełnić mrokiem
+Z wyciągniętym Grabieżcą|naciśnij @ACT5, aby otworzyć
+Stań w obracającym się portalu
+Oślep oko strażnicze|pociskiem z Grabieżcy Mroku
+Z wyciągniętym Grabieżcą|naciśnij @ACT5, aby napełnić swiatłem
+Posiadasz Grabieżcę Mroku
+Posiadasz Grabieżcę Swiatla
+Z Grabieżcą Mroku|naciśnij @ACT5, aby aktywować
+Przenieś się do sfery widmowej
+Przytrzymaj @ACT9 i naciśnij @ACT4,|aby wspiąć się na filar
+Z Grabieżcą Światła|naciśnij @ACT5, aby otworzyć drzwi
+Używaj Grabieżcy Światła, aby oświetlać ciemności|i aktywować magiczne obiekty
+Przytrzymaj @ACT8, aby blokować
+Naciśnij @ACT6 dwa razy, aby aktywować lub deaktywować Grabieżcę
+Przytrzymaj @ACT9 i naciśnij @ACT4, aby|wyskoczyć z wody
+@ACT5, aby zapisać grę
+@ACT5, aby podnieść klucz
+@ACT5, aby otworzyć drzwi kluczem
+
 Shoot projectiles at puzzle targets
 Use @ACT1 and @ACT3 to select Shift
 Hold @ACTB to glide straight up
-@ACT5 aby obejrzec mape
-this is an illegal hint number
-kontroler jest odlaczony. podlacz kontroler ponownie
-kontroler jest odlaczony. podlacz kontroler ponownie
-kontroler jest odlaczony. podlacz kontroler ponownie
-kontroler jest odlaczony. podlacz kontroler ponownie
-%d%%%% zakonczone
-dzwiek mono
-dzwiek stereo
-odlaczono kontroler
-lub wykryto xxx.
+@ACT5, aby obejrzec mape
+
+kontroler jest odчйczony. podчйcz kontroler ponownie
+kontroler jest odчйczony. podчйcz kontroler ponownie
+kontroler jest odчйczony. podчйcz kontroler ponownie
+kontroler jest odчйczony. podчйcz kontroler ponownie
+
+dпwiлk mono
+dпwiлk stereo
+
+
 demo
-urzadzenie do podrozy w czasie
-urzadzenie do podrozy w czasie
+urzйdzenie do podróуy w czasie
+urzйdzenie do podróуy w czasie
 twierdza sarafanów
 kryjówka janosa audrona
-kuznia swiatla
-kuznia mroku
-kuznia powietrza
-kuznia ognia
-poludniowe jezioro
+kuпnia гwiatчa
+kuпnia mroku
+kuпnia powietrza
+kuпnia ognia
+poчudniowe jezioro
 droga do filarów
 filary
 podziemne ruiny
@@ -420,17 +420,17 @@ prologue
 18 - vengeance
 19 - renunciation
 20 - full circle
-material dodatkowy
+materiaч dodatkowy
 the making of soul reaver 2
 blood omen 2 preview
 other eidos previews
 production
 voice sessions
 opening movie
-press
-thunderstrike
-project eden
-wave rally
+
+
+
+
 story
 character art
 environment art
@@ -487,8 +487,8 @@ model
 textures
 final in-game
 sr1 raziel vs sr2 raziel
-bonus materials unlocked
-bonus materials code @ACT1@ACT7@ACT3@ACT7@ACT2@ACT6@ACT4
+zawartoгб dodatkowa odblokowana
+kod zawartoгci dodatkowej @ACT1@ACT7@ACT3@ACT7@ACT2@ACT6@ACT4
 locked
 underworld
 drowned abbey
@@ -535,11 +535,11 @@ elder god montage
 concepts and stills
 cel
 raziel
-lewo, prawo by orzegladac regiony
+lewo, prawo by przeglйdaб regiony
 ???
-opcje jezyka
-wl.
-wyl.
+opcje jлzyka
+wч.
+wyч.
 kompas:
 wskazówki:
 opcje gry 3
@@ -547,17 +547,17 @@ opcje gry 4
 opcje gry 5
 opcje gry 6
 napisy:
-jezyk:
+jлzyk:
 angielski
 niemiecki
 francuski
-wloski
-hiszpanski
-japonski
-rosyjski
-czulosc:
-odwrocenie osi Y:
-odwrocenie osi X:
+wчoski
+hiszpaиski
+japoиski
+polski
+czuчoгб:
+odwrócenie osi y:
+odwrócenie osi x:
 opcje sterowania 4
 opcje sterowania 5
 opcje sterowania 6
@@ -567,5 +567,5 @@ Ukryj Interfejs Użytkownika
 Powrót
 Obracanie
 Pole widzenia
-wyjscie do launchera
-Przytrzymaj aby pominąć
+wyjгcie do launchera
+Przytrzymaj, aby pominąć
