@@ -293,7 +293,7 @@ wyй.
 kompas:
 wskazówki:
 wskaz. interakcji:
-opcje gry 4
+cykl dnia i nocy:
 opcje gry 5
 opcje gry 6
 napisy:
