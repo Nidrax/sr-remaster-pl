@@ -32,8 +32,7 @@ Aby skorzystać ze spolszczenia należy poświęcić jeden z obecnie dostępnych
 * Włoski `IT`
 * Japoński `JA`
 * Rosyjski `RU`
-
-(W folderze gry Soul Reaver 1 znajduje się również katalog językowy `PT`, jednak nie jest on używany)
+* Portugalski `PT`
 
 Ze względu na to, że polskie diakrytyki w fontach od menu gier zastępują kilka liter w cyrylicy, zaleca się zastąpienie języka rosyjskiego (co zrobimy w przykładzie poniżej):
 
@@ -89,8 +88,7 @@ To use the Polish version, you must sacrifice one of the languages currently ava
 * Italian `IT`
 * Japanese `JA`
 * Russian `RU`
-
-(There is also a `PT` language directory in the Soul Reaver 1 game folder, but it is not being used)
+* Portuguese `PT`
 
 Since Polish diacritics in game menu fonts replace certain Cyrillic letters, it is recommended to substitute the Russian language (as shown in the example below):
 
