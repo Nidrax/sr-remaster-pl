@@ -16,7 +16,7 @@ gotowe
 wyjdп z gry
 
 powrót
-%s, aby wyjгб
+%s, aby wyjść
 
 
 
