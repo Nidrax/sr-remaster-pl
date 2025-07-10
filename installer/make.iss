@@ -17,7 +17,7 @@ LicenseFile=../LICENSE
 ; Uncomment the following line to run in non administrative install mode (install for current user only).
 ;PrivilegesRequired=lowest
 OutputDir=output
-OutputBaseFilename=sr-remaster-pl
+OutputBaseFilename=sr-remaster-pl-1.3.2
 SetupIconFile=srp.ico
 SolidCompression=yes
 WizardStyle=modern
@@ -60,6 +60,7 @@ end;
 
 [Languages]
 Name: "polish"; MessagesFile: "compiler:Languages\Polish.isl"
+Name: "english"; MessagesFile: "compiler:Languages\Polish.isl"
 
 [Files]
 Source: "..\1\TEXT\PL\*"; DestDir: "{app}\1\TEXT\RU"; Flags: ignoreversion
