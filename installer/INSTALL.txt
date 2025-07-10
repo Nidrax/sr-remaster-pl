@@ -1,0 +1,14 @@
+# Soul Reaver Remastered PL
+
+Nieoficjalne spolszczenie napisów w grze `Legacy of Kain: Soul Reaver 1&2 Remastered` autorstwa Grupy polonizacyjnej Nosgothica.
+
+## Instalacja
+
+1. Przejdź do głównego katalogu gry (opcja dostępna z poziomu używanego przez ciebie klienta Steam lub GoG).
+2. Wrzuć katalogi 1 i 2 z paczki spolszczającej do katalogu głównego gry, podmieniając pliki
+3. Uruchom Launcher, wybierz grę i w jej opcjach zmień język wyświetlania na rosyjski.
+
+
+## Wspieraj nasze projekty
+
+Aby dyskutować nad postępami prac i wprowadzanymi decyzjami, oraz śledzić nasze przyszłe projekty, dołącz do nas na naszym serwerze Discord: https://discord.gg/bJKCtJcaDg
