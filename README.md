@@ -5,7 +5,7 @@ Instrukcje dotyczące instalacji: [kliknij tutaj](#instalacja)
 
 Nieoficjalne spolszczenie napisów w grze `Legacy of Kain: Soul Reaver 1&2 Remastered` autorstwa Grupy polonizacyjnej Nosgothica. Jest to nasze **autorskie** tłumaczenie, niepowiązane z popularnym polskim tłumaczeniem dialogów SR1 i SR2 oraz mrocznej kroniki autorstwa _LoK:Archives_.
 
-Zaczynając to tłumaczenie 11 lat temu na potrzeby serii Let's Play na YouTube, skupiłem się przede wszystkim, aby brzmiało ono naturalnie dla polskiego odbiorcy, było możliwie dokładne, ale także zachowywało brzmienie godne dzieła z gatunku Dark Fantasy, unikając anachronizmów, nowoczesnych kolorwializmów oraz kalek z języka angielskiego, które po polsku brzmią niezbyt naturalnie. Wraz z pojawieniem się remasterów, nadarzyła się okazja, aby móc się nim podzielić z innymi graczami.
+Zaczynając to tłumaczenie 11 lat temu na potrzeby serii Let's Play na YouTube, skupiłem się przede wszystkim, aby brzmiało ono naturalnie dla polskiego odbiorcy, było możliwie dokładne, ale także zachowywało brzmienie godne dzieła z gatunku Dark Fantasy, unikając anachronizmów, nowoczesnych kolokwializmów oraz kalek z języka angielskiego, które po polsku brzmią niezbyt naturalnie. Wraz z pojawieniem się remasterów, nadarzyła się okazja, aby móc się nim podzielić z innymi graczami.
 
 ![100%](https://progress-bar.xyz/100?width=256&title=SR1:) <img src="https://cdn-icons-png.flaticon.com/512/8625/8625364.png" width="20"> <br />
 ![100%](https://progress-bar.xyz/100?width=256&title=SR2:) <img src="https://cdn-icons-png.flaticon.com/512/8625/8625364.png" width="20"> <br />
