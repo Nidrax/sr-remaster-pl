@@ -21,6 +21,14 @@ Kliknij miniaturę, aby odtworzyć wideo: <br />
 
 Spolszczenie może być pobrane ze strony [Releases](https://github.com/Nidrax/sr-remaster-pl/releases) w postaci pliku `.exe` ze zautomatyzowanym instalatorem lub w postaci paczki `.zip`, którą wystarczy wypakować w głównym katalogu instalacyjnym gry (tam, gdzie znajduje się plik `SRX.exe`).
 
+> `!` Mój antywirus / przeglądarka zgłasza instalator jako niezweryfikowany lub niebezpieczny
+
+Niestety, jest to częsty problem instalatorów od małych, nieznanych wydawców. Instalator został stworzony przy użyciu Inno Setup, co jest popularnym narzędziem do tworzenia instalatorów. Niestety, niektóre programy antywirusowe mogą błędnie rozpoznać tego typu pliki jako zagrożenie (tzw. false positive), szczególnie jeśli instalator nie jest podpisany cyfrowo. Brak podpisu cyfrowego oznacza, że plik nie został zweryfikowany przez Microsoft jako pochodzący od zaufanego wydawcy, to z kolei może wywołać ostrzeżenia w systemie Windows oraz przeglądarkach internetowych. Proces certyfikacji w celu pozyskania podpisu cyfrowego wiąże się z cyklicznymi opłatami, co w przypadku projektu hobbystycznego na którym nie zarabiamy, mijałoby się z celem.
+
+Jedyne pliki, jakie rozpowszechniamy w tym instalatorze, to pliki `.TXT` i tekstury w formacie `.DDS`. Jeśli masz obawy co do instalatora, możesz zawsze skorzystać z paczki `.zip` i ręcznie wypakować jej zawartość do folderu instalacyjnego gry.
+
+Wyniki skanów na VirusTotal są dostępne w opisie wersji na stronie `Releases` (należy zwrócić uwagę, czy sumy kontrolne SHA256 plików do pobrania i te na VirusTotal się zgadzają).
+
 
 ## Wspieraj nasze projekty
 
@@ -48,4 +56,14 @@ Click the thumbnail to play the video: <br />
 
 ## Installation
 
-The Polish localization pack can be downloaded from the [Releases](https://github.com/Nidrax/sr-remaster-pl/releases) page either as an `.exe` automated installer or as a `.zip` package which just needs to be unpacked in the game's main installation directory (where the `SRX.exe` file is located).
+The Polish translation can be downloaded from the [Releases](https://github.com/Nidrax/sr-remaster-pl/releases) page, either as a `.exe` file with an automated installer, or as a `.zip` archive that can be extracted directly into the game's main installation folder (where the `SRX.exe` file is located).
+
+> `!` My antivirus / browser says the installer is unverified or potentially dangerous
+
+Unfortunately, this is a common issue with installers from small or independent developers. The installer was created using Inno Setup, a popular tool for building installation packages. Some antivirus programs may mistakenly flag such files as threats (*false positives*), especially when the installer is not digitally signed.
+
+A missing digital signature means the file hasn’t been verified by Microsoft as coming from a trusted publisher. As a result, Windows or web browsers might display warnings when trying to download or run the file. A certification process for digital signatures involves recurring fees, which would be pointless in a hobby project like this that we do not make money from.
+
+The only files we distribute are the `.TXT` files and `.DDS` textures – nothing harmful, but if you feel unsure about using the installer itself, you can always use the `.zip` package and manually extract its contents into your game’s installation folder.
+
+VirusTotal scan results are available in the release description on the `Releases` page (please make sure the SHA256 checksum of the file you downloaded matches the one listed on VirusTotal).
