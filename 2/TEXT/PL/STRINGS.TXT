@@ -355,7 +355,7 @@ Przytrzymaj @ACT9 i naciśnij @ACT4, aby|wyskoczyć z wody
 @ACT5, aby podnieść klucz
 @ACT5, aby otworzyć drzwi kluczem
 
-Shoot projectiles at puzzle targets
+Strzelaj w cele aby rozwiązać układankę  
 Use @ACT1 and @ACT3 to select Shift
 Hold @ACTB to glide straight up
 @ACT5, aby obejrzec mape
