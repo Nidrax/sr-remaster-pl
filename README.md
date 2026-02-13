@@ -3,6 +3,8 @@
 # Soul Reaver Remastered PL
 Instrukcje dotyczące instalacji: [kliknij tutaj](#instalacja)
 
+[![Ko-fi](ko-fi_btn.png)](https://ko-fi.com/veritaware)
+
 Nieoficjalne spolszczenie napisów w grze `Legacy of Kain: Soul Reaver 1&2 Remastered` autorstwa Grupy polonizacyjnej Nosgothica. Jest to nasze **autorskie** tłumaczenie, niepowiązane z popularnym polskim tłumaczeniem dialogów SR1 i SR2 oraz mrocznej kroniki autorstwa _LoK:Archives_.
 
 Zaczynając to tłumaczenie 11 lat temu na potrzeby serii Let's Play na YouTube, skupiłem się przede wszystkim, aby brzmiało ono naturalnie dla polskiego odbiorcy, było możliwie dokładne, ale także zachowywało brzmienie godne dzieła z gatunku Dark Fantasy, unikając anachronizmów, nowoczesnych kolokwializmów oraz kalek z języka angielskiego, które po polsku brzmią niezbyt naturalnie. Wraz z pojawieniem się remasterów, nadarzyła się okazja, aby móc się nim podzielić z innymi graczami.
@@ -40,6 +42,8 @@ Aby dyskutować nad postępami prac i wprowadzanymi decyzjami, oraz śledzić na
 
 # EN: Soul Reaver Remastered PL
 For installation instructions: [click here](#installation)
+
+[![Ko-fi](ko-fi_btn_en.png)](https://ko-fi.com/veritaware)
 
 Unofficial Polish translation for subtitles in `Legacy of Kain: Soul Reaver 1&2 Remastered` by Nosgothica Polonization Group. This is an **original** translation made by **us**, unrelated to the popular Polish translation of dialogues in SR1 and SR2, and the Dark Chronicles made by _LoK:Archives_.
 
