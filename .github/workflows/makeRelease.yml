@@ -1,0 +1,53 @@
+name: Create release packages
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  make-installer:
+    name: Build the Inno Setup Installer
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile .ISS to .EXE Installer
+        uses: Minionguyjpro/Inno-Setup-Action@v1.2.2
+        with:
+          path: installer/make.iss
+          options: /O+
+      - name: Get git tag
+        id: get_tag
+        run: echo "TAG_NAME=$(echo ${GITHUB_REF#refs/tags/})" >> $GITHUB_ENV
+      - name: Upload the installer as an artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: sr-remaster-pl-${{ env.TAG_NAME }}
+          path: installer/output/sr-remaster-pl.exe
+
+  make-zip:
+    name: Build the ZIP package
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install p7zip
+        run: sudo apt-get install -y p7zip-full
+      - name: Create ZIP package
+        run: |
+          cd installer
+          rm -f output/sr-remaster-pl.zip
+          7z a output/sr-remaster-pl.zip ../1 ../2 ../LICENSE ./INSTALL.txt
+          7z rn output/sr-remaster-pl.zip \
+            1/TEXT/PL 1/TEXT/RU \
+            2/TEXT/PL 2/TEXT/RU \
+            1/PIX/TBC_PL_HD.dds 1/PIX/TBC_RU_HD.DDS \
+            1/PIX/VERSE_PL_HD.dds 1/PIX/VERSE_RU_HD.DDS \
+            2/PIX/THEEND_PL_HD.dds 2/PIX/THEEND_RU_HD.DDS
+      - name: Get git tag
+        id: get_tag
+        run: echo "TAG_NAME=$(echo ${GITHUB_REF#refs/tags/})" >> $GITHUB_ENV
+      - name: Upload the ZIP package as an artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: sr-remaster-pl-${{ env.TAG_NAME }}
+          path: installer/output/sr-remaster-pl.zip
