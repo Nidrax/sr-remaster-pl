@@ -104,43 +104,45 @@ Razielu...
 [(powoli, przeciągle)
 Jesteś godzien.
 
--CHAPTER 1 – A DARK COVENANT
-*Raziel has been saved from the brink of oblivion by a mysterious benefactor – a
-*preternaturally ancient god dwelling in the depths of the abyss.
-*The Elder offers Raziel a covenant: become his "reaper," his angel of death, bring down
-*the vampires' apostate souls, and he can return to Nosgoth to wreak his vengeance.
-#ELDER GOD
-I know you, Raziel. You are worthy.
+-ROZDZIAŁ 1 – MROCZNE PRZYMIERZE
+*Raziel został uratowany przed całkowitym zapomnieniem przez tajemniczego dobroczyńcę –
+*Pradawnego Boga zamieszkującego głębiny otchłani.
+*Pradawny oferuje Razielowi układ: ma zostać jego „żniwiarzem”,
+*aniołem śmierci, zgładzić odstępcze dusze wampirów — w zamian będzie mógł powrócić
+*do Nosgothu i dokonać zemsty.
+#PRADAWNY BÓG
+Znam cię, Razielu. Jesteś godzien.
 #RAZIEL
-[(looking around, confused)
-What madness is this? What pitiful form is this that I have come to inhabit? Death would be
-a release, next to this travesty.
-#ELDER GOD
-[(correcting him)
-You did not survive the abyss, Raziel. I have only spared you from total dissolution.
+[(rozglądając się, oszołomiony)
+Co to za szaleństwo? Cóż to za żałosna forma, ktorą teraz zamieszkuję? Smierć byłaby
+wyzwoleniem w porównaniu do tej kpiny.
+#PRADAWNY BÓG
+[(poprawiając go)
+Nie przetrwałeś otchłani, Razielu. Oszczędziłem cię jedynie przed całkowitym rozpadem.
 #RAZIEL
-[(angry)
-I would choose oblivion over this existence!
-#ELDER GOD
-The choice is not yours.
+[(rozwścieczony)
+Wolę zapomnienie od tego bytu!
+#PRADAWNY BÓG
+Nie tobie o tym decydować.
 #RAZIEL
-[(agonized, bereft)
-I am destroyed!
-#ELDER GOD
-[(firmly, slowly)
-You are reborn.
-#ELDER GOD
-The birth of one of Kain's abominations traps the essence of life. It is this soul that
-animates the corpse you 'lived' in.
-And that Raziel, is the demise of Nosgoth. There is no balance. The souls of the dead
-remain trapped. I can not spin them in the wheel of fate. They can not complete their
-destinies.
-Redeem yourself. Or if you prefer, avenge yourself.
-Settle your dispute with Kain.
-Destroy Him and your brethren. Free their souls and let the wheel of fate churn again.
-Use your hatred to reave their souls...
-I can make it possible.
-Become my soul reaver, my angel of death...
+[(cierpiący, opuszczony)
+Jestem zniszczony!
+#PRADAWNY BÓG
+[(asertywnie, powoli)
+Jesteś ODRODZONY.
+#PRADAWNY BÓG
+Narodziny każdej z plugawości Kaina usidlają istotę życia. To ta dusza napędza ciało,
+w którym niegdyś przyszło ci "żyć".
+A to, Razielu, jest zagładą dla Nosgothu. Brakuje równowagi, dusze zmarłych pozostają
+uwięzione. Nie mogę nimi obracać w Kole Przeznaczenia – nie są w stanie wypełnić
+swojego losu.
+Odkup swe winy lub – jeśli wolisz – zemścij się.
+Rozstrzygnij swój zatarg z Kainem –
+zniszcz jego i swoich braci. Uwolnij ich dusze, pozwalając Kołu Przeznaczenia znów
+się obracać.
+Użyj swej nienawiści, aby ograbić ich z dusz...
+Mogę ci to umożliwić.
+Zostań moim grabieżcą dusz, mym aniołem śmierci...
 
 -CHAPTER 2 – THE RUINS OF EMPIRE
 *Raziel, now the Elder God's fledgling angel of death, resurfaces to find himself assailed
