@@ -144,33 +144,33 @@ Użyj swej nienawiści, aby ograbić ich z dusz...
 Mogę ci to umożliwić.
 Zostań moim grabieżcą dusz, mym aniołem śmierci...
 
--CHAPTER 2 – THE RUINS OF EMPIRE
-*Raziel, now the Elder God's fledgling angel of death, resurfaces to find himself assailed
-*by the degenerate offspring of his former brethren, who have long-since devolved into
-*monstrous forms.
-*Raziel enters a courtyard from a tunnel. He gazes to his left, dumbstruck, as he walks
-*slowly forward.
+-ROZDZIAŁ 2 – RUINY IMPERIUM
+*Raziel, teraz ledwie opierzony anioł śmierci Pradawnego Boga, wynurza się na powierzchnię
+*i natychmiast zostaje zaatakowany przez zdegenerowane potomstwo swych dawnych braci, które
+*przez wieki zstąpiło do postaci potwornych kreatur.
+*Raziel wychodzi z tunelu na dziedziniec. Idąc powoli naprzód, spogląda w lewo,
+oszołomiony tym, co widzi.
 #RAZIEL
-[(in horrified awe)
-My God...
-*The surrounding architecture is Raziel's first real clue as to how much time has passed
-*between his execution and resurrection.
+[(z zachwytem przerażenia)
+Mój Boże!
+*Otaczająca go architektura jest dla Raziela pierwszą wyraźną wskazówką, ile czasu upłynęło
+*między jego egzekucją a wskrzeszeniem.
 #RAZIEL V.O.
-The Sanctuary of the Clans, reduced to ruin...
-Beyond these walls lay the Pillars of Nosgoth, the seat of Kain's empire.
-How humble it now appeared, collapsing into the dust of its former magnificence.
-And yet I had only just emerged...
-In the instant between my execution and resurrection, centuries had apparently passed...
-*The ground shakes violently; Raziel is nearly knocked off his feet.
-#ELDER GOD
-This world is wracked with cataclysms – the earth strains to shrug off the pestilence of
-Kain's parasitic empire.
-#ELDER GOD
-The fate of this world was preordained in an instant, by a solitary man.
-Unwilling to martyr himself to restore Nosgoth's balance, Kain condemned the world to the
-decay you see.
-In that moment, the unraveling began... now it is nearly played out.
-Nosgoth teeters on the brink of collapse – its fragile balance cannot hold.
+Sanktuarium klanów obrócone w ruinę...
+Za tymi murami znajdowały się Filary Nosgothu, siedziba imperium Kaina.
+Jakże skromnie teraz wyglądały, pozostając jedynie cieniem swej dawnej świetności.
+Dopiero co się pojawiłem...
+Od momentu mojej egzekucji aż do wskrzeszenia najwidoczniej minęły wieki...
+*Ziemia zaczyna gwałtownie drżeć; Raziel omal nie traci równowagi.
+#PRADAWNY BÓG
+Ten świat nękają kataklizmy – ziemia próbuje strząsnąć z siebie zarazę pasożytniczego
+imperium Kaina.
+#PRADAWNY BÓG
+Los świata został przypieczętowany decyzją jednego człowieka.
+Odmawiając poświęcenia się w celu przywrócenia równowagi, Kain skazał Nosgoth na
+samoistne gnicie, które teraz widzisz.
+Zapoczątkował wtedy reakcję, która teraz chyli się ku końcowi.
+Nosgoth znajduje się na skraju zagłady – jego kruchej równowagi nie da się już utrzymać.
 
 -CHAPTER 3 – THE WASTE LAND
 *Returning to the sacrificial cliffs at the Lake of the Dead, Raziel walks onto the main
