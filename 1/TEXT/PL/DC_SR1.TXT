@@ -1,107 +1,108 @@
--PROLOGUE
-*A millennium has passed since Kain set his capital in the ruins of the Pillars of Nosgoth
-*and began his conquest of the world.
-*Kain, the arrogant "dark god", sits languidly on his throne. He has the Soul Reaver – his
-*hand rests on the pommel, the blade pointed downward.
-*The Pillars have been transformed – an immense and elaborate temple has been erected
-*around their ruined stumps, which occupy the space under the structure's massive central
-*dome.
-*Kain has placed his throne in the middle of the pedestal, at the base of the Pillar of
-*Balance (an ironic symbol of his new order).
-*The space is elaborately decorated, with clan regalia hanging around the perimeter of the
-*central dome. Various representatives of the vampire clans stand at the periphery of the
-*Pillars, watching the unfolding drama.
+-PROLOG
+*Minęło tysiąc lat, odkąd Kain ustanowił swą stolicę pośród ruin Filarów Nosgothu
+*i rozpoczął podbój świata.
+*Kain, arogancki „mroczny bóg”, spoczywa niedbale na swym tronie. Dzierży Grabieżcę Dusz –
+*dłoń opiera na jelcu, a ostrze kieruje ku dołowi.
+*Filary uległy przeobrażeniu – wokół ich zrujnowanych trzonów wzniesiono ogromną,
+misterną świątynię, a one same zajmują przestrzeń pod potężną centralną kopułą.
+*kopułą budowli.
+*Kain umieścił swój tron pośrodku piedestału, u podstawy Filaru
+*Równowagi (ironicznego symbolu nowego porządku).
+*Przestrzeń zdobią bogate insygnia klanów, zawieszone wokół obrzeży
+*centralnej kopuły. Na obrzeżach Filarów stoją przedstawiciele wampirzych klanów,
+*obserwując rozwijający się dramat.
 #RAZIEL V.O.
-[(begins slowly, with sarcasm)
-Kain is deified. The Clans tell tales of Him. Few know the truth.
-He was mortal once, as were we all.
-However, his contempt for humanity drove him to create me, and my brethren.
-*Then, as Raziel enters the frame, walking toward Kain's throne –
-I am Raziel, first-born of His lieutenants.
-I stood with Kain and my brethren at the dawn of the empire.
-I have served Him a millennium.
-*Kain's eyes narrow as he looks at Raziel. He shifts forward in his seat, leaning in toward
-*Raziel as he studies him.
+[(zaczyna powoli, z ironią)
+Kain jest ubóstwiany. Klany opowiadają o nim legendy... niewielu zna prawdę.
+Był kiedyś śmiertelnikiem – jak my wszyscy.
+Jednakże, jego pogarda wobec ludzi popchnęła go do stworzenia mnie i moich braci.
+*Wtedy Raziel wchodzi w kadr, krocząc ku tronowi Kaina –
+Jestem Raziel – pierworodny spośród jego poruczników.
+Stałem przy boku Kaina i moich braci u świtu imperium.
+Służyłem mu całe tysiąclecie.
+*Oczy Kaina zwężają się, gdy spogląda na Raziela. Pochyla się na tronie,
+*wysuwając się naprzód i przyglądając mu się uważnie.
 #RAZIEL V.O.
-Over time, we became less human and more...
-[(searching for the right word)
-...divine. Kain would enter the state of change and emerge with a new gift.
-*Raziel stands in the center of the Pillars pedestal, in front of Kain's throne, staring
-*defiantly back at Kain.
+Z czasem stawaliśmy się coraz mniej ludzcy, a bardziej...
+[(szukając właściwego słowa)
+...boscy. Kain wkraczał w stan przemiany i tak otrzymywał nowy dar.
+*Raziel staje pośrodku piedestału Filarów, przed tronem Kaina,
+*i odwzajemnia jego spojrzenie z jawnym buntem.
 #RAZIEL V.O.
-Some years after the master, our evolution would follow.
-*Raziel slowly drops into a bow, revealing his wings as they slowly unfurl. He raises his
-*bowed head to gauge Kain's reaction.
+Kilka lat po nim następowała także nasza ewolucja.
+*Raziel powoli skłania się w ukłonie, odsłaniając skrzydła, które leniwie się rozwijają.
+*Unosi pochyloną głowę, by wybadać reakcję Kaina.
 #RAZIEL V.O.
-[(with irony)
-Until I had the honor of surpassing my lord.
-*Kain's expression shifts as Raziel's wings are revealed. A strange expression, betraying
-*various emotions, but – oddly – not surprise.
-*Kain approaches Raziel, circling him, looking him up and down. Abruptly and violently,
-*Kain grabs Raziel's wings and tears them from his back. Raziel buckles in agony.
+[(z ironią)
+Aż pewnego dnia dostąpiłem zaszczytu przewyższenia mego pana.
+*Wyraz twarzy Kaina zmienia się, gdy skrzydła Raziela wychodzą na jaw. Dziwne oblicze,
+*zdradzające różne emocje, lecz – osobliwie – nie zaskoczenie.
+*Kain podchodzi do Raziela, okrąża go i mierzy wzrokiem od stóp do głów. Nagle, brutalnie,
+*chwyta jego skrzydła i wyrywa je z pleców. Raziel ugina się w agonii.
 #RAZIEL V.O.
-For my transgression, I earned a new kind of reward... agony.
-*At the cliffs of the Lake of the Dead – with its violently swirling vortex – Kain perches
-*at the end of the sacrificial platform, peering into the surging depths below. Two
-*Lieutenants drag a restrained Raziel forward, his broken wings hanging loosely from his
-*back. The other three Lieutenants follow behind.
+Za to wykroczenie zostałem nagrodzony w zupełnie nowy sposób... agonią.
+*Na urwiskach Jeziora Umarłych – nad jego gwałtownie wirującą czeluścią – Kain zasiada
+*na krańcu pomostu ofiarnego, wpatrzony we wzburzone głębiny poniżej. Dwaj
+*porucznicy wloką skrępowanego Raziela naprzód, a jego połamane skrzydła zwisają bezwładnie
+*z pleców. Pozostałych trzech poruczników podąża za nimi.
 #RAZIEL V.O.
-There was only one possible outcome – my eternal damnation.
-*Kain perches near the edge, looking down into the vortex. Despite the atrocity of his
-*intent, he is heroic-looking, a larger-than-life figure. His expression is deep,
-*inscrutable. He rises, still looking into the abyss, and brushes his hands. He turns to
-*walk back down the platform.
+Mógł mnie spotkać tylko jeden los – wieczne potępienie.
+*Kain stoi przy samym skraju, spoglądając w dół, ku wirującej otchłani. Mimo potworności
+*swego zamiaru wygląda heroicznie, niemal monumentalnie. Jego wyraz twarzy jest
+*głęboki, nieprzenikniony. Wstaje, wciąż patrząc w otchłań, otrzepuje dłonie i odwraca
+*się, by zejść z pomostu.
 #RAZIEL V.O.
-I, Raziel, was to suffer the fate of traitors and weaklings – to burn forever in the bowels
-of the Lake of the Dead.
-*He strides past the Lieutenants, and without looking at Raziel, orders them to throw him
-*in.
+Ja – Raziel – miałem podzielić los zdrajców i słabeuszy, płonąc całą wieczność w
+odmętach Jeziora Śmierci.
+*Mija poruczników długim krokiem i, nawet nie spojrzawszy na Raziela, rozkazuje im
+*wrzucić go do wiru.
 #KAIN
-Cast him in.
+Wrzucić go!
 #RAZIEL
-[(struggling, then screaming as he is thrown into the vortex)
-*Raziel tumbles through the air, falling toward the vortex, his broken wings fluttering
-*uselessly. He barrels toward impact with the whirlpool.
-*Raziel plunges into the water, falling and being buffeted by the vortex, burning and
-*writhing in pain. Bubbles rise from his body as the water dissolves him like acid – he
-*blazes with white-hot magnesium fire. As his flesh melts away, his lower jaw is torn off,
-*and his wings and cloak become ragged.
+[(szamocze się, po czym krzyczy, gdy zostaje wrzucony w wir)
+*Raziel koziołkuje w powietrzu, spadając ku czeluści, a jego połamane skrzydła trzepoczą
+*bezużytecznie. Pędzi ku wirującej topieli.
+*Raziel wpada w wodę; opada i jest miotany przez wir, płonąc i wijąc się z bólu.
+*Z jego ciała unoszą się pęcherze, gdy woda trawi je niczym kwas –
+*staje w białym jak magnez ogniu. Gdy jego ciało rozpływa się w nicość,
+*dolna szczęka zostaje wyrwana, a skrzydła i płaszcz zamieniają się w strzępy.
 #RAZIEL V.O.
-Tumbling, burning with white-hot fire, I plunged into the depths of the abyss.
-Unspeakable pain... relentless agony... ... time ceased to exist...
-... only this torture... and a deepening hatred of the hypocrisy that damned me to this
-hell.
-*After an eternity of falling, Raziel comes to rest. His body is burned, destroyed, reduced
-*to bone and sinew – by all outward appearances, he's dead. He lays on a mysterious stone
-*floor covered with carved spirals. It is strangely quiet and still in the depth of this
-*ancient place.
+Spadając i płonąc białym ogniem, pogrążałem się w czeluściach otchłani.
+Niewymowny ból... nieustępliwa agonia... czas przestał istnieć...
+pozostało jedynie cierpienie... i pogłębiająca się nienawiść dla hipokryzji, która skazała
+mnie na to piekło.
+*Po wieczności spadania Raziel wreszcie nieruchomieje. Jego ciało jest spalone, zniszczone,
+*sprowadzone do kości i ścięgien – na pierwszy rzut oka martwe. Leży na tajemniczej,
+*kamiennej posadzce pokrytej rytymi spiralami. W głębi tego pradawnego miejsca panuje
+*nienaturalna cisza i bezruch.
 #RAZIEL V.O.
-An eternity passed, and my torment receded, bringing me back from the precipice of madness.
-*The world then visibly transforms, and Raziel morphs slowly into his final form. His dark
-*eye sockets blaze with white-hot supernatural light, his skin morphs to its bluish tones,
-*and black streaks appear around his eyes. His hair and wings drift to rest, as though he
-*is no longer underwater. Raziel lifts himself up on his hands, then to his knees. Rising,
-*he explores this new body – he looks at his hands, and feels the emptiness where his lower
-*jaw should be.
+Wieczność minęła, a ma udręka ustąpiła, sprowadzając mnie z powrotem znad skraju szaleństwa.
+*Świat wokół niego zaczyna się widocznie przeobrażać, a Raziel powoli przybiera swą ostateczną
+*postać. Jego ciemne oczodoły płoną nadnaturalnym, białym żarem, skóra nabiera sinawych tonów,
+*a wokół oczu pojawiają się czarne smugi. Włosy i skrzydła opadają bezwładnie, jakby
+*nie spoczywał już pod wodą. Raziel unosi się najpierw na dłoniach, potem na kolanach. Wstając,
+*bada swoje nowe ciało – ogląda dłonie i wyczuwa pustkę tam, gdzie powinna być dolna
+*szczęka.
 #RAZIEL V.O.
-The descent had destroyed me... and yet I lived.
-*As he stands to full height, he wraps the remains of his cloak around his shoulders and
-*hides his face, leaving only his eldritch eyes visible. An ancient looking cavern is
-*revealed, the walls and floor covered with thousands of carved, interlocking spirals. The
-*place is surreal, with impossible perspective lines, the architecture canted in extreme
-*expressionistic forms. Raziel is dwarfed in this immense space.
-*An ancient, alien voice bubbles up out of the darkness.
-#ELDER GOD
-[(slowly)
-Raziel...
-*Raziel spins in surprise, looking up in the darkness toward a mysterious, shifting shape –
-*the source of the voice. The god, and the surrounding walls, are covered with innumerable
-*staring eyes.
-*The god's voice is alien-sounding, watery and reedy, conveying that this is a
-*preternaturally ancient creature.
-#ELDER GOD
-[(slowly, drawn-out)
-You are worthy.
+Upadek mnie zniszczył... a mimo to... żyłem.
+*Gdy wyprostowuje się na pełną wysokość, otula ramiona strzępami płaszcza i
+*ukrywa twarz, pozostawiając widoczne jedynie swe upiorne oczy. Odsłania się
+*komnata przypominająca pradawną pieczarę; ściany i posadzka pokryte są tysiącami rzeźbionych,
+*przenikających się spiral. To miejsce jest nierealne, o niemożliwych liniach perspektywy,
+*a architektura załamuje się w skrajnie ekspresjonistyczne kształty. Raziel ginie w ogromie
+*tej przestrzeni.
+*Z mroku wyłania się bulgoczący, obcy głos.
+#PRADAWNY BÓG
+[(powoli)
+Razielu...
+*Raziel obraca się gwałtownie, zaskoczony, i spogląda w mrok ku tajemniczemu, zmiennemu
+*kształtowi – źródłu tego głosu. Bóstwo oraz otaczające je ściany pokrywają niezliczone,
+*wpatrzone oczy.
+*Głos boga brzmi obco, wodniście i szorstko, niosąc wyraźne wrażenie,
+*że przemawia istota starsza niż pamięć świata.
+#PRADAWNY BÓG
+[(powoli, przeciągle)
+Jesteś godzien.
 
 -CHAPTER 1 – A DARK COVENANT
 *Raziel has been saved from the brink of oblivion by a mysterious benefactor – a
