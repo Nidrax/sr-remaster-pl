@@ -1,11 +1,11 @@
 ﻿[0:04:500] Kain jest ubóstwiany.
 [0:07:200] Klany opowiadają o nim legendy... niewielu zna prawdę.
 [0:11:800] Był kiedyś śmiertelnikiem – jak my wszyscy.
-[0:16:200] Jego pogarda wobec ludzi popchnęła go do stworzenia mnie i moich braci.
+[0:16:200] Jednakże, jego pogarda wobec ludzi popchnęła go do stworzenia mnie i moich braci.
 [0:22:800] Jestem Raziel – pierworodny spośród jego poruczników.
 [0:27:800] Stałem przy boku Kaina i moich braci u świtu imperium.
 [0:33:900] Służyłem mu całe tysiąclecie.
-[0:37:900] Stawaliśmy się coraz mniej ludzcy, a bardziej...
+[0:37:900] Z czasem stawaliśmy się coraz mniej ludzcy, a bardziej...
 [0:42:500] ...boscy.
 [0:44:500]
 [0:45:500] Kain wkraczał w stan przemiany i tak otrzymywał nowy dar.
