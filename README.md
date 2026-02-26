@@ -11,7 +11,7 @@ Zaczynając to tłumaczenie 11 lat temu na potrzeby serii Let's Play na YouTube,
 
 ![100%](https://progress-bar.xyz/100?width=256&title=SR1:) <img src="https://cdn-icons-png.flaticon.com/512/8625/8625364.png" width="20"> <br />
 ![100%](https://progress-bar.xyz/100?width=256&title=SR2:) <img src="https://cdn-icons-png.flaticon.com/512/8625/8625364.png" width="20"> <br />
-![0%](https://progress-bar.xyz/0?width=172&title=Mroczna%20kronika%201:) <br />
+![35%](https://progress-bar.xyz/35?width=172&title=Mroczna%20kronika%201:) <br />
 ![0%](https://progress-bar.xyz/0?width=172&title=Mroczna%20kronika%202:)
 
 Kliknij miniaturę, aby odtworzyć wideo: <br />
