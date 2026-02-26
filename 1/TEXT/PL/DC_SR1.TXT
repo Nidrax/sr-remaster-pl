@@ -282,117 +282,119 @@ Będziesz mógł przez nie przeniknąć, gdy tylko zechcesz.
 Dzięki darowi Melchii możesz kontynuować swoją podróż. Powróć do siedziby przeklętego imperium
 Kaina – w sterylnej ciszy skrywa tajemnice, które dopiero czekają na ujawnienie.
 
--CHAPTER 7 – A FATEFUL CONFRONTATION
-*Raziel stumbles upon his first encounter with Kain inside the now dilapidated and
-*abandoned Pillars – he does not know that Kain will be waiting for him there. As Raziel
-*enters the room, Kain leans casually on his former throne, the Soul Reaver strapped to his
-*back. He has clearly been waiting for Raziel.
+-ROZDZIAŁ 7 – PROROCZA KONFRONTACJA
+*Raziel po raz pierwszy staje twarzą w twarz z Kainem wewnątrz zniszczonych i opuszczonych
+*Filarów — nie wie jeszcze, że Kain będzie tam na niego czekał. Gdy Raziel wchodzi do sali,
+*Kain niedbale opiera się o swój dawny tron, z Grabieżcą Dusz przewieszonym przez plecy.
+*Najwyraźniej oczekiwał jego przybycia.
 #KAIN
-[(a dispassionate greeting; he is unreadable)
+[(bez emocji; jego intencji nie sposób odczytać)
 Raziel.
 #RAZIEL
-[(surprised, furious)
+[(zaskoczony, wściekły)
 Kain!
 #KAIN
-[(sarcastically, he comments on Raziel's appearance)
-The abyss has been unkind.
-*Kain rises and begins to approach Raziel, casually but menacingly.
+[(sarkastycznie, komentując wygląd Raziela)
+Odchłań okazała się niezbyt życzliwa.
+*Kain podnosi się i zaczyna zbliżać do Raziela — swobodnym, lecz groźnym krokiem.
 #RAZIEL
-[(icily)
-I am your creation, Kain – now, as before. You criticize your own work.
-What have you done with my clan, degenerate? You have no right –
+[(lodowato)
+Jestem twoim dziełem, Kainie — tak teraz, jak i wcześniej. Krytykujesz pracę własnych rąk.
+Co zrobiłeś z moim klanem, zwyrodnialcu? Nie masz prawa...
 #KAIN
-[(loudly, interrupting)
-What I have made, I can also destroy, child.
+[(głośno, przerywając)
+Cóżem stworzył, mogę i zniszczyć, smarkaczu.
 #RAZIEL
-[(boiling over with rage)
-Damn you, Kain! You are not God!
-This act of genocide is unconscionable!
+[(kipiąc gniewem)
+Niech cię diabli, Kain! Nie jesteś Bogiem! Jak mogłeś z czystym sumieniem dopuścić się
+takiego ludobójstwa?!
 #KAIN
-[(losing patience)
-Conscience...? You dare speak to me of conscience? Only when you have felt the full gravity
-of choice should you dare to question my judgment!
-Your life's span is a flicker compared to the mass of doubt and regret that I have borne
-since Mortanius first turned me from the light...
-To know that the fate of the world hangs dependent on the advisedness of my every deed –
-can you even begin to conceive what action you would take, in my position?
+[(tracąc cierpliwość)
+Sumienie...? Masz czelność mówić mi o sumieniu? Dopiero gdy odczujesz konsekwencje swych
+wyborów, będziesz miał prawo kwestionować mój osąd!
+Długość twojego życia to zaledwie mrugnięcie okiem wobec ogromu wątpliwości i
+ubolewania, które dźwigam, odkąd Mortanius zawrócił mnie znad progu śmierci...
+Przytłaczająca świadomość, że losy świata zależą od każdego mojego czynu —
+czy jesteś w ogóle w stanie wyobrazić sobie, co uczyniłbyś na moim miejscu?
 #RAZIEL
-[(steely)
-I would choose integrity, Kain.
+[(twardo)
+Wybrałbym to, co słuszne, Kainie.
 #KAIN
-[(appearing to soften momentarily, as he gestures around the room)
-Look around you, Raziel – see what has become of our empire.
-Witness the end of an age. The clans, scattered to the corners of Nosgoth...
-[(his tone changing)
-This place has outlasted its usefulness –
-[(then, turning toward Raziel, his voice turning icy)
-as have you.
-*As Kain utters this last line, he draws the Soul Reaver from its scabbard; its energy
-*leaps to life.
+[(na moment łagodniejąc, gestem obejmuje salę)
+Rozejrzyj się, Razielu — zobacz, co pozostało po naszym imperium.
+Bądź świadkiem końca epoki. Klanów rozproszonych po najdalszych zakątkach Nosgothu...
+[(ton jego głosu się zmienia)
+To miejsce już dawno przestało być użyteczne —
+[(odwracając się ku Razielowi, lodowatym głosem)
+tak samo jak ty.
+*Wypowiadając te słowa, Kain dobywa Grabieżcy Dusz; energia ostrza natychmiast budzi się
+*do życia.
 #RAZIEL V.O.
-The Soul Reaver, Kain's ancient blade – older than any of us, and a thousand times more
-deadly.
-The legends claimed that the blade was possessed, and thrived by devouring the souls of its
-victims.
-For all our bravado, we knew what it meant when Kain drew the Soul Reaver in anger – it
-meant you were dead.
-*Raziel and Kain engage in combat.
-*Kain raises the Soul Reaver against Raziel. The ancient blade, believed to be
-*indestructible, shatters when Kain attempts to strike Raziel down.
-*The combat ends when the Soul Reaver is destroyed –
+Grabieżca Dusz — starożytne ostrze Kaina — starsze niż którykolwiek z nas i
+po tysiąckroć bardziej zabójcze.
+Legendy głosiły, że miecz jest opętany i rośnie w siłę, pożerając dusze swych ofiar.
+Mimo całej naszej brawury wiedzieliśmy, co oznaczało, gdy Kain sięgał po niego w gniewie —
+że twój koniec był przesądzony.
+*Raziel i Kain stają do walki.
+*Kain unosi Grabieżcę Dusz przeciw Razielowi. Starożytne ostrze, uznawane za
+*niezniszczalne, rozpada się, gdy Kain próbuje zadać ostateczny cios.
+*Starcie dobiega końca wraz ze zniszczeniem Grabieżcy Dusz —
 #KAIN
-The blade is vanquished. So it unfolds... and we are a step closer to our destinies.
-[(fading, echoing, laughter, as Kain vanishes)
-*When Raziel drops back into the spectral plane, he discovers that the Soul Reaver – now a
-*wraith blade – is hovering there. Raziel reaches out (almost tentatively) and grasps the
-*sword. The blade flares to life, its energy melding with Raziel's.
+Ostrze zostało zniszczone. A zatem — zaczęło się... a my jesteśmy o krok bliżej naszych
+przeznaczeń.
+[(śmiech cichnie echem, gdy Kain znika)
+*Gdy Raziel opada ponownie do sfery widmowej, odkrywa, że Grabieżca Dusz —
+*teraz już widmowe ostrze — unosi się przed nim. Raziel wyciąga rękę
+*(niemal niepewnie) i chwyta miecz. Ostrze rozbłyska, a jego energia splata się z Razielem.
 #RAZIEL V.O.
-I swore I saw a glint of satisfaction in Kain's eye when the Soul Reaver was destroyed. I
-did not understand the game that Kain was playing.
-[(admiring the blade, now his, and feeling its weight)
-But I knew the finishing move.
-*After Raziel has claimed the blade, the Elder God chimes in –
-#ELDER GOD
-From this moment and ever afterward, you and this blade are inextricably bound. Soul Reaver
-and reaver of souls, your destinies are intertwined.
-By destroying the sword, you have liberated it from its corporeal prison, and restored it
-to its true form – a wraith blade, its energy unbound.
-No longer a physical blade, it can only manifest itself in the material realm when your
-strength is fully restored. Once manifest, it will sustain you.
-*After Raziel grasps the sword, a spirit appears, drifting toward him from behind the
-*Pillars. It's Ariel, the spirit of the Pillars, bound here for millennia.
+Przysiągłbym, że dostrzegłem błysk zachwytu w oku Kaina, gdy Grabieżca Dusz został
+zniszczony.
+Nie rozumiałem gry, w którą mnie wciągał...
+[(przyglądając się ostrzu, teraz należącemu do niego, wyczuwając jego ciężar)
+lecz znałem ruch kończący tę partię.
+*Gdy Raziel obejmuje ostrze, Pradawny Bóg ponownie przemawia —
+#PRADAWNY BÓG
+Od tej chwili ty i ostrze jesteście ze sobą nierozerwalnie związani. Grabieżca Dusz
+i ten, który dusze ograbia — złączeni wspólnym przeznaczeniem.
+Niszcząc miecz, uwolniłeś go z jego cielesnego więzienia, przywracając mu prawdziwą postać:
+widmowego ostrza o nieograniczonej mocy.
+Nie będąc już fizyczną bronią, może istnieć w sferze materialnej jedynie wtedy,
+gdy jesteś w pełni sił. A po przywołaniu będzie cię przy tych siłach utrzymywać.
+*Po tym, jak Raziel chwyta ostrze, zza Filarów wyłania się duch i powoli ku niemu
+*przepływa. To Ariel — duch Filarów, uwięziony tu od tysiącleci.
 #ARIEL
-[(benevolent but detached, tangential)
-What are you, little soul? Another of Kain's creatures, come to taunt this bound spectre?
+[(życzliwie, lecz zdystansowana)
+Czymże jesteś, niepozorna duszyczko? Kolejnym stworzeniem Kaina, które przybyło dręczyć
+uwiązanego tu ducha?
 #RAZIEL
-[(a little taken aback, and wary)
-I did not intend to disturb your rest.
+[(lekko zbity z tropu, ostrożnie)
+Nie miałem zamiaru zakłócać twego spoczynku.
 #ARIEL
-[(with irony and detachment)
-Rest...? A body is needed for sleep... Flesh and bones are required to recline.
-No, child, all I may do is watch, and remember, ceaselessly conscious as this wretched
-world's history unfurls.
-Ghastly past, insufferable future, are they one and the same...?
-Am I always here?
+[(z ironią i dystansem)
+Spoczynku? By zasnąć, potrzeba ciała... skóry i kości, by móc się położyć.
+Nie, dziecko — mogę jedynie obserwować i wspominać, nieustannie świadoma
+przemijania tego nieszczęsnego świata.
+Upiorna przeszłość, nieznośna przyszłość — czy są jednym i tym samym?
+Czy zawsze tu byłam?
 #RAZIEL
-How have you come to haunt these Pillars?
+Jak doszło do tego, że nawiedzasz te Filary?
 #ARIEL
-[(remembering, growing angry)
-Kain refused the sacrifice. The Pillar of Balance, corrupted to its core, stands as a
-monument to his blind ambition.
-Now these pillars serve only to bind me here – my prison and eternal home, thanks to the
-avarice of your master, Kain...
+[(wspominając, z narastającym gniewem)
+Kain odmówił poświęcenia. Filar Równowagi, skażony do cna, stał się pomnikiem jego
+ślepych ambicji.
+Teraz Filary służą jedynie temu, by więzić mnie tutaj — w moim wiecznym
+więzieniu. Wszystko przez chciwość twego pana, Kaina...
 #RAZIEL
-That bastard can claim no allegiance from me.
+Ten drań nie ma prawa żądać ode mnie posłuszeństwa.
 #ARIEL
-Then we share a common foe, Raziel. Return here when you have need.
-Ariel remembers what others have forgotten...
-*As Raziel exits the Sanctuary of the Clans, the Elder God offers the following guidance:
-#ELDER GOD
-Your brother Zephon's keep lies far to the east, beyond the ruins that greeted your first
-exit from the Underworld.
-He and his brood have cocooned themselves in a derelict cathedral, having murdered its
-human guardians.
+Zatem mamy wspólnego wroga, Razielu. Wróć tu, gdy będziesz potrzebował.
+Ariel pamięta to, co inni zapomnieli...
+*Gdy Raziel opuszcza Sanktuarium Klanów, Pradawny udziela mu kolejnych wskazówek:
+#PRADAWNY BÓG
+Twierdza twojego brata Zephona leży daleko na wschodzie, za ruinami, które minąłeś,
+opuszczając Podziemie.
+On i jego potomstwo zamknęli się w opuszczonej katedrze po tym, jak wymordowali
+strzegących jej ludzi.
 
 -CHAPTER 8 – A STIFLED TITAN
 *Raziel enters the Silenced Cathedral for the first time.
