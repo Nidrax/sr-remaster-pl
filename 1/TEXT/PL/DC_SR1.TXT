@@ -407,49 +407,52 @@ z mosiądzu i kamienia.
 Piszczałki, niegdyś nastrojone, by rozbrzmiewać zabójczym hymnem, teraz milczały,
 a opustoszałe wnętrza jedynie niosły echo ich bezsilności.
 
--CHAPTER 9 – THE PARASITIC HOST
-*Having worked his way to the top of the Silenced Cathedral, Raziel finally enters the lair
-*of Zephon, another of his former brothers and fellow lieutenants.
-*Zephon is a grotesquerie, with few vestiges of his humanity remaining – his body is
-*inhumanly thin and insectile, his skin chitinous; his arms are distorted into
-*praying-mantislike stabbing claws. His body is tethered to the ceiling and surrounding
-*walls by masses of webbing. Only his face reveals his original humanity.
-*Zephon's voice, whispery and sibilant, is appropriate to his spidery appearance. He
-*extends his body, descending from the ceiling, to "greet" Raziel as he enters.
+-ROZDZIAŁ 9 – PASOŻYTNICZY ŻYWICIEL
+*Przedzierając się na sam szczyt Niemej Katedry, Raziel wreszcie dociera do leża
+*Zephona — kolejnego ze swych dawnych braci i współtowarzyszy w randze porucznika.
+*Zephon jest odrażającą karykaturą dawnego siebie; niewiele pozostało w nim z
+*ludzkiej postaci — jego ciało jest nienaturalnie wychudzone i owadzie, skórę pokrywa
+*chitynowy pancerz, a ramiona przeobraziły się w przypominające odnóża modliszki
+*szpony zdolne do zadawania śmiertelnych ciosów. Jego ciało przytwierdzone jest do
+*sufitu i okolicznych ścian gęstymi masami pajęczyny. Jedynie twarz zdradza ślady
+*jego dawnego człowieczeństwa.
+*Głos Zephona — syczący i szeleszczący — doskonale współgra z jego pajęczą naturą.
+*Na powitanie Raziela wysuwa swe ciało i opuszcza się z sufitu, gdy ten wchodzi do komnaty.
 #ZEPHON
-The prodigal son...
-There is no returning for you, Raziel.
+Ach, syn marnotrawny...
+Dla ciebie nie ma powrotu, Razielu.
 #RAZIEL
-Zephon, your visage becomes you. It's an appropriate reflection of your soul...
+Zephon, twój wygląd cię zdradza — wiernie odzwierciedla stan twej duszy...
 #ZEPHON
-...and you are not His handsome Raziel anymore. His precious first-born son, turned
-betrayer.
-You have missed so many changes, little Raziel. Look around you. See how the humans' weapon
-of destruction has become my home... Indeed, my body.
-A cocoon of brick and granite from which to watch a pupating world...
+...a ty nie jesteś już jego pięknym Razielem. Umiłowanym pierworodnym,
+który okazał się zdrajcą.
+Przegapiłeś tak wiele przemian, mały Razielu. Rozejrzyj się. Spójrz,
+jak ludzkie narzędzie zagłady stało się moim domem... niemal moim ciałem.
+Kokonem z cegły i granitu, z którego obserwuję przepoczwarzający się świat...
 #RAZIEL
-[(correcting Zephon, with disgust)
-A crevice in which to cower, only scuttling from the shadows to devour a victim already
-ensnared in your cowardly trap.
-But you've made the mistake of leaving me unbound, and it is you who must succumb to my
-will.
+[(poprawiając Zephona, z obrzydzeniem)
+Kryjówka, w której można tchórzliwie czaić się w mroku, by potem znienacka rzucić się
+na ofiarę uwięzioną w pułapce.
+Popełniłeś jednak błąd, pozostawiając mnie przy życiu, i teraz to ty
+ugniesz się pod moją wolą.
 #ZEPHON
-Will... instinct... reflex action... the insect mind finds little difference.
-I warn you, brother – as my stature has grown, so it is matched by my appetite.
-Step forward, morsel...
-*As Raziel defeats Zephon, devouring his soul –
+Wola... instynkt... odruch... dla umysłu insekta to niemal to samo.
+Ostrzegam cię, bracie — wraz z posturą urósł również mój apetyt.
+Podejdź bliżej, kąsku...
+*Gdy Raziel pokonuje Zephona i pochłania jego duszę —
 #ZEPHON
-[(dying in agony)
-Nooooo!
-#ELDER GOD
-Consuming Zephon's apostate soul has bestowed on you a new gift.
-Like his vampire spawn, you are able to scale certain walls which are otherwise impassable
-– but only in the physical realm.
-In the spirit world, these insubstantial edifices will not support you.
-*As Raziel exits Zephon's chamber –
-#ELDER GOD
-In the mountains beyond the Pillars, Nosgoth's cataclysms have exposed an ancient crime.
-Endowed with Zephon's soul, you may now progress where your path was hitherto impeded.
+[(umierając w agonii)
+Nieeee!
+#PRADAWNY BÓG
+Pochłaniając odstępczą duszę Zephona, zyskałeś nowy dar.
+Tak jak jego wampirzy rój, możesz teraz wspinać się na wcześniej niedostępne ściany –
+lecz wyłącznie w sferze materialnej.
+W świecie widmowym te pozbawione cech fizycznych obiekty cię nie utrzymają.
+*Gdy Raziel opuszcza komnatę Zephona —
+#PRADAWNY BÓG
+W górach za Filarami kataklizmy Nosgothu odsłoniły pradawną zbrodnię.
+Obdarzony darem Zephona możesz teraz podążyć ścieżką,
+która dotąd pozostawała zamknięta.
 
 -CHAPTER 10 – A SHALLOW GRAVE
 *After leaving the Pillars, Raziel comes across a narrow, twisting passage. Following the
