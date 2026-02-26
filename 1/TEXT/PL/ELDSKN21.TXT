@@ -1,5 +1,5 @@
 [0:00:000] Wzniosłeś Razielu, nie upadłeś.
 [0:03:269]
 [0:04:200] Pochłonięcie duszy Melchii obdarzyło cię nowym darem.
-[0:08:780] Kraty niebędące litym murem nie stawią ci już oporu w sferze widmowej.
-[0:14:740] Będziesz mógł przez nie przeniknąć, gdy tego zechcesz.
+[0:08:780] Kraty, które nie stanowią litego muru, nie stawią ci już oporu w sferze widmowej.
+[0:14:740] Będziesz mógł przez nie przeniknąć, gdy tylko zechcesz.

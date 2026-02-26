@@ -211,78 +211,76 @@ swojej ludzkiej delikatności.
 Najwidoczniej ta słabość została przekazana jego potomstwu. Ich rozpadająca się skóra ledwie
 wytrzymywała wewnętrzne gnicie.
 
--CHAPTER 6 – DISCORD AMONG BRETHREN
-*As Raziel reaches the depths of the Necropolis and approaches the shadowy dais, he sees a
-*hulking figure shifting in the shadows. Strange noises emanate from the darkness – muffled
-*moans, and the groaning of some heavy weight.
-#STRANGE SOUNDS
-[(muffled moans, groans, and sighs)
+-ROZDZIAŁ 6 – ROZDŹWIĘK POMIĘDZY BRAĆMI
+*Gdy Raziel dociera do najgłębszych partii Nekropolii i zbliża się do pogrążonego w cieniu
+*podestu, dostrzega w mroku potężną sylwetkę poruszającą się niespokojnie. Z ciemności
+*dobiegają osobliwe odgłosy – przytłumione jęki i skrzypienie jakiegoś ciężkiego ciała.
+#DZIWNE DŹWIĘKI
+[(przytłumione jęki, stęknięcia i westchnienia)
 #RAZIEL
-[(addressing the shadowy dais)
-Show yourself, creature!
+[(zwracając się ku pogrążonemu w cieniu podestowi)
+Pokaż się, stworze!
 #MELCHIAH
-[(sarcastic/ironic)
-Do you not recognize me, brother?
-[(he shifts into the light, clearly revealing his monstrous features)
-Am I so changed?
-*By the time Raziel enters the chamber, he has seen the degradation of the Melchahim, but
-*it's still a shock when Raziel finally confronts his brother Melchiah – even after
-*everything he's seen, he's not prepared for Melchiah's monstrous appearance. It's a
-*powerful indication that their vampire evolution took a frightening turn after his
-*execution.
+[(z sarkazmem)
+Nie poznajesz mnie, bracie?
+[(wychodzi w światło, w pełni ukazując swoje potworne oblicze)
+Czyżbym aż tak się zmienił?
+*Zanim Raziel wkracza do komnaty, widział już, jak dalece zdegradowali się Melchahim.
+*Mimo to konfrontacja z bratem okazuje się wstrząsem – nawet po wszystkim, czego był
+*świadkiem, nie jest przygotowany na jego potworny wygląd. To dobitny znak, że ewolucja
+*wampirów przybrała przerażający obrót po jego egzekucji.
 #RAZIEL
-[(revulsion and recognition)
+[(z odrazą po rozpoznaniu)
 Melchiah?
 #MELCHIAH
-Yesss, brother.
-You should have stayed where the master sent you, Raziel. You will find Nosgoth less
-pleasant than you remember.
+Tak, bracie.
+Powinieneś był pozostać tam, gdzie posłał cię pan, Razielu. Przekonasz się, że Nosgoth nie
+jest tak przyjazny, jak kiedyś.
 #RAZIEL
-What has become of my clan? Answer me, little brother, or I will beat an answer from your
-horrid lips.
+Co się stało z moim klanem? Odpowiedz, braciszku, albo siłą wyrwę odpowiedź
+z twych parszywych ust.
 #MELCHIAH
-Everyone is afraid, sibling. You awake to a world of fear. These times of change are so...
-unsettling.
-Do you think I feel no revulsion for this form?
-Do you believe for a moment that our Lord would risk his empire upon an upstart
-inheritance?
+Każdy się czegoś boi, bracie. Zbudziłeś się w świecie terroru.
+Te odmienione czasy są wyjątkowo... niepokojące.
+Uważasz, że nie odczuwam wstrętu do tej postaci?
+Naprawdę myślałeś, że nasz pan zaryzykowałby bezpieczeństwo imperium dla dziedzica parweniusza?
 #RAZIEL
-Enough riddles – what are you saying?!
+Dość zagadek. Co masz na myśli?
 #MELCHIAH
-You are the last... to die...
-*Raziel traps Melchiah in the center cage, and goes to pull the switch.
+Jesteś ostatnim... który musi zginąć...
+*Raziel więzi Melchię w centralnej klatce i sięga po dźwignię.
 #RAZIEL
-[(threateningly)
-Tell me, Melchiah – where can I find Kain?
+[(groźnie)
+Powiedz mi, Melchio – gdzie znajdę Kaina?
 #MELCHIAH
-The master is beyond your reach, Raziel.
-[(pause)
-He makes himself known when He sees fit – not when commanded.
+Pan jest poza twoim zasięgiem, Razielu.
+[(pauza)
+Daje o sobie znać, gdy sam uzna to za słuszne, a nie z rozkazu.
 #MELCHIAH
-[(dying in agony)
-*And finally:
+[(umierając w agonii)
+*I wreszcie:
 #MELCHIAH
-[(his last gasp)
-I am released...
-*The impact of devouring Melchiah's soul knocks Raziel to his knees. He's exhausted; sparks
-*of energy flicker over his body.
-#ELDER GOD
-You have done well, Raziel.
+[(ostatnim tchem)
+Jestem wolny...
+*Wstrząs po pożarciu duszy Melchii rzuca Raziela na kolana. Jest wyczerpany; iskry energii
+*przebiegają po jego ciele.
+#PRADAWNY BÓG
+Dobrze się spisałeś, Razielu.
 #RAZIEL
-[(exhausted, angry)
-Am I reduced to this? A ghoul? A fratricide?
-#ELDER GOD
-[(correcting him)
-Elevated, Raziel, not reduced.
-[(pause)
-Consuming Melchiah's soul has endowed you with a new gift.
-[(referring to the iron bars that block Raziel's exit)
-Insubstantial barriers such as these are no impediment to you in the spectral realm.
-Will yourself to pass through, and you shall.
-*As Raziel proceeds to exit the Necropolis, the Elder God offers the following guidance:
-#ELDER GOD
-With Melchiah's gift, your way is opened. Return to the seat of Kain's ill-omened empire –
-its sterile silence has secrets yet to unveil.
+[(wyczerpany, wściekły)
+Aż tak nisko upadłem? Do bycia ghulem? Bratobójcą?
+#PRADAWNY BÓG
+[(poprawiając go)
+Wzniosłeś Razielu, nie upadłeś.
+[(pauza)
+Pochłonięcie duszy Melchii obdarzyło cię nowym darem.
+[(w odniesieniu do żelaznych krat blokujące wyjście)
+Kraty, które nie stanowią litego muru, nie stawią ci już oporu w sferze widmowej.
+Będziesz mógł przez nie przeniknąć, gdy tylko zechcesz.
+*Gdy Raziel opuszcza Nekropolię, Pradawny Bóg udziela mu następującej wskazówki:
+#PRADAWNY BÓG
+Dzięki darowi Melchii możesz kontynuować swoją podróż. Powróć do siedziby przeklętego imperium
+Kaina – w sterylnej ciszy skrywa tajemnice, które dopiero czekają na ujawnienie.
 
 -CHAPTER 7 – A FATEFUL CONFRONTATION
 *Raziel stumbles upon his first encounter with Kain inside the now dilapidated and
