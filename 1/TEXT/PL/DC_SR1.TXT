@@ -454,22 +454,23 @@ W górach za Filarami kataklizmy Nosgothu odsłoniły pradawną zbrodnię.
 Obdarzony darem Zephona możesz teraz podążyć ścieżką,
 która dotąd pozostawała zamknięta.
 
--CHAPTER 10 – A SHALLOW GRAVE
-*After leaving the Pillars, Raziel comes across a narrow, twisting passage. Following the
-*path, he steps out into a clearing. An ancient architectural facade towers above him, a
-*holy place now laying half in ruin.
+-ROZDZIAŁ 10 – PŁYTKI GRÓB
+*Po opuszczeniu Filarów Raziel natrafia na wąskie, kręte przejście. Podążając ścieżką,
+*wychodzi na polanę. Ponad nim wznosi się pradawna fasada architektoniczna – święte miejsce,
+*dziś w połowie obrócone w ruinę.
 #RAZIEL V.O.
-The ancient tomb of the Sarafan, once impenetrably sealed... Now, ravaged by Nosgoth's
-upheavals, its mysteries lay exposed.
-In the time of Vorador, centuries before Kain was made, the Sarafan warrior priests waged a
-merciless war against the vampire tribes of Nosgoth. Emboldened by righteousness, they
-committed unspeakable and indiscriminate acts of violence – massacring fledglings and
-ancients alike, they decimated entire bloodlines in mere decades.
-Now their husks lay here – murderers enshrined.
-*As Raziel steps into the ancient hallway leading to the Sarafan tomb, the Elder God warns:
-#ELDER GOD
-Take heed, Raziel. A forgotten history lies within.
-Know thyself – though it may destroy you...
+Starożytny grobowiec Sarafanów – niegdyś niemożliwy do spenetrowania... Teraz, spustoszony
+kataklizmami, odsłonił swe tajemnice.
+W czasach Voradora, na wieki przed stworzeniem Kaina, wojowniczy kapłani zakonu Sarafanów
+prowadzili bezlitosną wojnę przeciw wampirzym plemionom Nosgothu. Pod pozorem
+sprawiedliwości dopuszczali się nieograniczonych aktów przemocy – masakrując zarówno
+młodzików, jak i starożytne wampiry, zdziesiątkowali całe rody w zaledwie kilka dziesięcioleci.
+Teraz spoczywają tu ich szczątki – ciała uświęconych morderców.
+*Gdy Raziel wkracza do pradawnego korytarza prowadzącego do grobowca Sarafanów, Pradawny
+*ostrzega:
+#PRADAWNY BÓG
+Strzeż się, Razielu. Wewnątrz spoczywa zapomniana historia.
+Poznaj samego siebie – choć może cię to zniszczyć...
 
 -CHAPTER 11 – A TERRIBLE EPIPHANY
 *Having discovered a twisting passageway, Raziel makes his way into the depths of the tomb.
