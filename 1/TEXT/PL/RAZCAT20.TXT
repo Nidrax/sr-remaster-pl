@@ -1,10 +1,10 @@
-[0:00:000] Będąca niegdyś świadectwem buntu ludkości przeciw Imperium Kaina
+[0:00:000] Niegdyś świadectwo buntu ludzkości przeciw Imperium Kaina,
 [0:04:004] ta górująca nad miastem katedra stoi teraz opuszczona,
-[0:07:038] a wierni odprawiający tu kiedyś praktyki religijne – od stuleci martwi.
-[0:10:800] Jej architekci utworzyli ją jako broń w walce z wampirzą plagą,
-[0:16:350] ogromny instrument wykonany z mosiądzu i kamienia.
+[0:07:038] a wierni, którzy niegdyś odprawiali tu swe obrzędy, od stuleci spoczywają w grobach.
+[0:10:800] Jej architekci wznieśli ją jako broń przeciw wampirzej pladze —
+[0:16:350] monumentalny instrument z mosiądzu i kamienia.
 [0:19:250]
-[0:20:688] Piszczałki, niegdyś nastrojone do wybrzmiewania zabójczego hymnu
-[0:24:753] teraz milczą, a opuszczone przestrzenie wygwizdują ich niemoc.
+[0:20:688] Piszczałki, niegdyś nastrojone, by rozbrzmiewać zabójczym hymnem,
+[0:24:753] teraz milczały, a opustoszałe wnętrza jedynie niosły echo ich bezsilności.
 [0:32:000]
 
