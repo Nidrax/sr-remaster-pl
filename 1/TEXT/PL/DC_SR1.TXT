@@ -1,10 +1,10 @@
 -PROLOG
 *Minęło tysiąc lat, odkąd Kain ustanowił swą stolicę pośród ruin Filarów Nosgothu
 *i rozpoczął podbój świata.
-*Kain, arogancki „mroczny bóg”, spoczywa niedbale na swym tronie. Dzierży Grabieżcę Dusz –
+*Kain, arogancki "mroczny bóg", spoczywa niedbale na swym tronie. Dzierży Grabieżcę Dusz –
 *dłoń opiera na jelcu, a ostrze kieruje ku dołowi.
 *Filary uległy przeobrażeniu – wokół ich zrujnowanych trzonów wzniesiono ogromną,
-misterną świątynię, a one same zajmują przestrzeń pod potężną centralną kopułą.
+*misterną świątynię, a one same zajmują przestrzeń pod potężną centralną kopułą.
 *kopułą budowli.
 *Kain umieścił swój tron pośrodku piedestału, u podstawy Filaru
 *Równowagi (ironicznego symbolu nowego porządku).
@@ -107,7 +107,7 @@ Jesteś godzien.
 -ROZDZIAŁ 1 – MROCZNE PRZYMIERZE
 *Raziel został uratowany przed całkowitym zapomnieniem przez tajemniczego dobroczyńcę –
 *Pradawnego Boga zamieszkującego głębiny otchłani.
-*Pradawny oferuje Razielowi układ: ma zostać jego „żniwiarzem”,
+*Pradawny oferuje Razielowi układ: ma zostać jego "żniwiarzem",
 *aniołem śmierci, zgładzić odstępcze dusze wampirów – w zamian będzie mógł powrócić
 *do Nosgothu i dokonać zemsty.
 #PRADAWNY BÓG
