@@ -242,8 +242,8 @@ z twych parszywych ust.
 #MELCHIAH
 Każdy się czegoś boi, bracie. Zbudziłeś się w świecie terroru.
 Te odmienione czasy są wyjątkowo… niepokojące.
-Uważasz, że nie odczuwam wstrętu do tej postaci?
-Naprawdę myślałeś, że nasz pan zaryzykowałby bezpieczeństwo imperium dla dziedzica parweniusza?
+Uważasz, że nie odczuwam wstrętu do tej postaci? Naprawdę myślałeś,
+że nasz pan zaryzykowałby bezpieczeństwo imperium dla dziedzica parweniusza?
 #RAZIEL
 Dość zagadek. Co masz na myśli?
 #MELCHIAH
