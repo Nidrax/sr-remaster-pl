@@ -504,40 +504,40 @@ Byliście wybrani jeszcze przed zaraniem imperium.
 Kain – samozwańczy władca Nosgothu – ograbił te groby i uprowadził was z tej krypty.
 Tchnąc swój wampirzy dar w wasze zbezczeszczone ciała, wskrzesił was jako umiłowanych synów.
 
--CHAPTER 12 – THE KEEPER OF SECRETS
-*The threshold guardian inside the Tomb of Sarafan guards a relic which bestows the Force
-*projectile ability on Raziel, once the guardian is destroyed.
-*The Tomb Guardian is a huge, ancient vampire of the Turelim clan. His voice is deep and
-*resonant, reflecting his size and power.
-#TOMB GUARDIAN
-[(a growled threat)
-Heretic! You shall not pass...
+-ROZDZIAŁ 12 – STRAŻNK TAJEMNIC
+*Strażnik progu wewnątrz Grobowca Sarafanów strzeże relikwii, która po jego
+*zniszczeniu obdarza Raziela zdolnością projekcji Mocy.
+*Strażnik Grobowca jest ogromnym, pradawnym wampirem z klanu Turelimów.
+*Jego głos jest głęboki i donośny, odzwierciedlając jego rozmiar i potęgę.
+#STRAŻNIK GROBOWCA
+[(warcząca groźba)
+Heretyku! Nie przejdziesz dalej...
 #RAZIEL
-[(sarcastic, insulting)
-Such loyalty... to one who has you guarding this outpost like a chained dog.
-Do you prosper on the scraps he casts you?
-#TOMB GUARDIAN
-[(angered)
-Your insults will do nothing to blunt the agonies of your demise.
+[(sarkastycznie, z pogardą)
+Cóż za lojalność... i to względem tego, który kazał ci tu warować jak uwiązanemu psu.
+Czy jesteś zadowolony z ochłapów, które ci rzuca?
+#STRAŻNIK GROBOWCA
+[(rozgniewany)
+Twoje obelgi nie uśmierzą ci cierpień zagłady.
 #RAZIEL
-Kain killed me once – behold the result.
-I have no more to fear from you.
-*After Raziel defeats the Tomb Guardian, and receives the Force projectile ability:
-#ELDER GOD
-This relic has infused you with the power to compress and manipulate space. As your
-symbiotic weapon, the Soul Reaver is also thus enhanced.
-You may focus and project an orb of kinetic energy to strike objects that are otherwise
-beyond your reach.
+Kain już raz mnie zabił – oto efekt.
+Nie mam powodu, by się ciebie obawiać.
+*Po pokonaniu Strażnika Grobowca Raziel otrzymuje zdolność projekcji Mocy:
+#PRADAWNY BÓG
+Ta relikwia umożliwia ci sprężanie i manipulację przestrzenią. Jako twoja symbiotyczna broń
+Grabieżca również został wzmocniony.
+Możesz skupiać i wystrzeliwać ładunki energii kinetycznej, aby uderzać obiekty
+znajdujące się poza twoim zasięgiem.
 
--CHAPTER 13 – A DESECRATED ABBEY
-*When Raziel discovers the courtyard of the Drowned Abbey, the Elder God offers the
-following information:
-#ELDER GOD
-Once a sanctuary against the vampire menace, this abbey has been drowned by the deluge
-spilling from this wounded land.
-Your brother Rahab and his brood, devastated even by the feeble rays of Nosgoth's sun,
-overcame their vulnerability to water and retreated from the surface.
-Now they haunt these ruins, and glide in the darkness of its stagnant depths.
+-ROZDZIAŁ 13 – ZBESCZESZCZONE OPACTWO
+*Gdy Raziel odkrywa dziedziniec Zatopionego Opactwa, Pradawny Bóg przekazuje
+*następujące informacje:
+#PRADAWNY BÓG
+Będące niegdyś sanktuarium przeciw wampirzemu zagrożeniu, to opactwo zostało zalane wodą
+wypływającą z tej zniszczonej krainy.
+Twój brat Rahab wraz z potomstwem śmiertelnie ranionym najsłabszymi promieniami słońca
+przezwyciężyli swą wrażliwość na wodę i uciekli z powierzchni.
+Teraz nawiedzają te zatopione ruiny, pływając pośród ich mrocznych głębin.
 
 -CHAPTER 14 – A HEAVEN OF HELL
 *Raziel finds Rahab at the center of the Drowned Abbey, nestled in the chapter house in the
