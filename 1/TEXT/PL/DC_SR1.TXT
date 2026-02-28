@@ -709,91 +709,93 @@ Kain musi mieć mnie za naiwnego, bym miał uwierzyć w te kłamstwa...
 #RAZIEL
 Czy to widmo jest wytworem mojego umysłu, czy echem przyszłych wydarzeń?
 
--CHAPTER 19 – THE TYRANNY OF THE STARS
-*Having worked his way down into the depths of Moebius' complex, Raziel comes across the
-*"heart" of Moebius' time-streaming device – the Chronoplast room. Kain reveals himself,
-*stepping out from the shadows of the room.
+-ROZDZIAŁ 19 – TYRANIA GWIAZD
+*Przedzierając się w głąb kompleksu Moebiusa, Raziel dociera do
+*„serca” jego urządzenia manipulującego strumieniem czasu – komnaty Chronoplastu.
+*Kain ujawnia swoją obecność, wychodząc z cienia pomieszczenia.
 #KAIN
 [(revealing himself to Raziel)
-At last. I must say, I'm disappointed in your progress. I imagined you would be here
-sooner. Tell me – did it trouble you to murder your brothers?
+Nareszcie. Muszę przyznać, że jestem zawiedziony twoimi postępami. Myślałem, że zjawisz się
+tu wcześniej. Powiedz – czy trudno było ci zabić swoich braci?
 #RAZIEL
-Did it trouble you when you ordered me into the abyss?
+Czy trudno było ci wtrącić mnie do otchłani?
 #KAIN
-No – I had faith in you. In your ability to hate. In your self-righteous indignation.
+Nie – wierzyłem w ciebie. W twoją zdolność do nienawiści.
+W pewność nieomylności twego oburzenia.
 #RAZIEL
-Lies. You cannot have foreseen all of this.
+Kłamstwa. Nie mogłeś przewidzieć tego wszystkiego.
 #KAIN
-Eternity is relentless, Raziel.
+Wieczność jest nieubłagana, Razielu.
 [(pause)
-When I first stole into this chamber, centuries ago, I did not fathom the true power of
-knowledge.
-To know the future, Raziel... to see its paths and streams tracing out into the infinite...
-As a man, I could never have contained such forbidden truths... But each of us is so much
-more than we once were...
-Gazing out across the planes of possibility, do you not feel with all your soul how we have
-become like gods?
-And as such, are we not indivisible? As long as a single one of us stands, we are legion...
-That is why, when I must sacrifice my children to the void, I can do so with a clear
-heart...
+Gdy po raz pierwszy zakradłem się do tej komnaty przed wiekami, nie pojmowałem
+prawdziwej potęgi wiedzy.
+Znać przyszłość, Razielu... widzieć jej ścieżki i strumienie, ciągnące się w nieskończoność...
+Jako człowiek nie mogłem pojąć tak zakazanych prawd... Jednak teraz każdy z nas jest
+kimś więcej niż dawniej...
+Czy spoglądając na płaszczyzny możliwości, nie czujesz całą duszą,
+że staliśmy się niczym bogowie?
+I jako tacy – czyż nie jesteśmy niepodzielni? Tak długo, jak istnieje przynajmniej
+jeden z nas – jesteśmy legionem...
+Dlatego, gdy muszę poświęcić swe dziecko pustce, czynię to ze spokojem w sercu...
 #RAZIEL
-Very poetic, Kain – but in the end, you offer no more than a convenient rationalization for
-your crimes.
+Jakże poetycko, Kainie, lecz ostatecznie nie oferujesz nic poza wygodną wymówką dla
+swych zbrodni.
 #KAIN
-These chambers offer insight for those patient enough to look – in your haste to find me,
-perhaps you have not gazed deeply enough.
-Our futures are predestined – Moebius foretold mine a millennium ago.
-We each play out the parts fate has written for us. We are compelled ineluctably down
-pre-ordained paths.
-Free will is an illusion.
-*Raziel responds by changing the subject –
+Te komnaty oferują wgląd w przyszłość wystarczająco cierpliwym, by obserwować –
+najwyraźniej w pośpiechu, by mnie dopaść, nie zajrzałeś wystarczająco głęboko.
+Nasza przyszłość jest z góry przesądzona – Moebius przepowiedział moją tysiąclecie temu.
+Każdy z nas odgrywa rolę przydzieloną mu przez los. Nieuchronnie podążamy
+uprzednio wyznaczonymi ścieżkami.
+Wolna wola jest jedynie iluzją.
+*Raziel odpowiada, zmieniając temat.
 #RAZIEL
-I have been to the Tomb of Sarafan, Kain. Your dirty secret is exposed. How could you
-transform a Sarafan priest into a vampire?
+Dotarłem do Grobowca Sarafanów, Kainie. Twoja brudna tajemnica została ujawniona.
+Jak mogłeś przemienić kapłana Sarafanów w wampira?
 #KAIN
-How could I not? One must keep his friends close, Raziel – and his enemies even closer.
-Can you grasp the absurd beauty of the paradox? We are the same – Sarafan and vampire. With
-our holy wars... our obsession with Nosgoth's domination...
-Who better to serve me than those whose passion transcends all notions of good and evil?
+Jak mógłbym tego nie uczynić? Przyjaciół należy trzymać blisko, a wrogów – jeszcze bliżej.
+Czy nie dostrzegasz absurdalnego piękna paradoksu? Jesteśmy tacy sami –
+Sarafani i wampiry.
+Z naszymi świętymi wojnami... naszą obsesją panowania nad Nosgothem...
+Któż mógłby służyć mi lepiej niż ci, których pasja przekracza wszelkie granice dobra i zła?
 #RAZIEL
-I will not applaud your clever blasphemy. The Sarafan were saviors, defending Nosgoth from
-the corruption that we represent.
-My eyes are opened, Kain – I find no nobility in the unlife you rudely forced on my
-unwilling corpse.
+Pozwolę sobie nie przyklasnąć bluźnierstwu, którego się dopuściłeś. Sarafani byli zbawcami
+chroniącymi Nosgoth przed zepsuciem, które my reprezentujemy.
+Przejrzałem na oczy, Kainie – nie widzę żadnej szlachetności w nieżyciu,
+które siłą narzuciłeś memu ciału.
 #KAIN
-You may have uncovered your past, but you know nothing of it. You think the Sarafan were
-noble, altruistic? Don't be simple. Their agenda was the same as ours.
+Mogłeś odkryć swoją przeszłość, lecz nic o niej nie wiesz. Myślisz, że Sarafani byli szlachetni,
+altruistyczni? Nie bądź naiwny. Ich działania niczym nie różniły się od naszych.
 #RAZIEL
-You are lost in a maze of moral relativism, Kain.
+Pogubiłeś się w meandrach moralnego relatywizmu, Kainie.
 [(then, gesturing toward the chamber of visions)
-These apparitions and portents... what game are you playing now?
+Te objawienia i przepowiednie... W co ty właściwie pogrywasz?
 #KAIN
-Destiny is a game, is it not? And now you await my latest move...
-*Kain dematerializes, and they battle.
+Przeznaczenie jest jedną wielką grą, czyż nie? A teraz kolej na mój ruch...
+*Kain dematerializuje się i rozpoczyna się walka.
 
--CHAPTER 20 – TIME-SPANNED SOUL
-*After throwing the final switch, Kain materializes in front of the star portal on the
-*upper floor of the Chronoplast. Visibly exhausted, he addresses Raziel –
+-ROZDZIAŁ 20 – DUSZYCZKA ZAGUBIONA W STRUMIENIACH CZASU
+*Po uruchomieniu ostatniego przełącznika Kain materializuje się przed gwiezdnym portalem
+*na górnym poziomie Chronoplastu. Wyraźnie wyczerpany, zwraca się do Raziela –
 #KAIN
-You nearly had me, Raziel...
-But this is not where – or how – it ends.
-Fate promises more twists before this drama unfolds completely.
-*As he finishes speaking, he turns and runs through the star portal.
-*As Raziel prepares to follow Kain through the portal and into the void of the unknown, the
-*Elder God's disembodied voice admonishes him:
-#ELDER GOD
+Omal mnie nie dopadłeś, Razielu...
+Ale to nie tutaj – ani nie w taki sposób – ma się to zakończyć.
+Los przewiduje więcej zwrotów akcji, nim ten dramat dobiegnie końca.
+*Kończąc mówić, odwraca się i przebiega przez gwiezdny portal.
+*Gdy Raziel przygotowuje się, by podążyć za Kainem w nieznaną otchłań,
+*bezcielesny głos Pradawnego Boga napomina go:
+#PRADAWNY BÓG
 [(warning, vaguely threatening)
-Be warned, Raziel – once you cross this threshold, you are beyond my influence...
-*Raziel steps through the portal, and emerges in a mysterious room with an infinity sigil
-*on the floor – he steps into the pool of light in the middle of the room. A moment later,
-*Moebius steps out of the darkness, addressing Raziel by name.
+Miej się na baczności, Razielu – przekraczając ten próg, znajdziesz się poza moimi wpływami...
+*Raziel przechodzi przez portal i trafia do tajemniczej komnaty z symbolem nieskończoności
+*na posadzce – wkracza w świetlistą sadzawkę pośrodku pomieszczenia. Chwilę później
+*Moebius wychodzi z mroku, zwracając się do Raziela po imieniu.
 #MOEBIUS
 Raziel...
-Redeemer and destroyer... pawn and messiah.
-Welcome, time-spanned soul...
-Welcome... to your destiny...
+Odkupiciel i niszczyciel... Pionek i mesjasz.
+Witam, duszyczko zagubiona w strumieniach czasu...
+Witam... u progu twego przeznaczenia...
 #MOEBIUS V.O.
-Where Time is but a loop,
-A loose stitch in the universal cloth,
-A Streamer might seize upon a chance, a fatal slip –
-And plunge the fate of planets into chaos...
+Tam, gdzie czas jest jedynie pętelką,
+luźnym szwem w tkaninie wszechświata,
+Szwacz może wykorzystać okazję, niefortunne potknięcie –
+i pogrążyć los planet w chaosie...
