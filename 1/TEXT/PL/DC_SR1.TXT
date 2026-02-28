@@ -596,59 +596,58 @@ Wieki temu twój brat Dumah uciekł wraz ze swoim klanem na północne pustkowia
 Dzięki darowi duszy Rahaba odnajdź jego górską twierdzę. Lecz bądź ostrożny –
 te skute lodem pustkowia skrywają tajemnice, które nie zostały jeszcze odkryte.
 
--CHAPTER 15 – A SILENT CITY
-*Raziel travels to the Ruined City of the Dumahim, in order to confront Dumah, another of
-*his brothers. Upon arriving, however, he is shocked to discover that Dumah's citadel, like
-*his, is a ghost town – there are long-dead vampire corpses scattered everywhere, impaled
-*and burned, and the walls of Dumah's city have been torched. Although he doesn't realize
-*it yet, the Dumahim were victims of a vampire-hunter raid, centuries ago, from the nearby
-*human city.
+-ROZDZIAŁ 15 – MILCZĄCE MIASTO
+*Raziel wyrusza do Zrujnowanego Miasta Dumahimów, by stawić czoła Dumie, kolejnemu ze
+*swoich braci. Po przybyciu z przerażeniem odkrywa jednak, że cytadela Dumy — podobnie jak
+*jego własna — jest miastem duchów. Wszędzie leżą dawno martwe ciała wampirów, przebite
+*palami i spalone, a mury miasta noszą ślady podpalenia. Choć Raziel jeszcze o tym nie wie,
+*Dumahimowie padli ofiarą najazdu łowców wampirów z pobliskiego ludzkiego miasta,
+*który miał miejsce przed wiekami.
 #RAZIEL V.O.
-This city once teemed with the life of my kind. Could it be that other clans had suffered
-the same fate as mine?
-In his madness, could Kain spare none of his brood?
-#ELDER GOD
-It was not Kain, but Dumah's own arrogance that brought the downfall of his clan.
-These are human weapons, Raziel – believing themselves invincible, Dumah and his offspring
-failed to see an attack coming from the least likely assailants...
-Complacent in their arrogance, they were taken by surprise, allowing the human vampire
-hunters to decimate their ranks with little resistance. The few that escaped have been
-reduced to scavengers.
+To miasto kiedyś tętniło życiem moich krewniaków. Czyżby pozostałe klany spotkał
+ten sam los, co mój?
+Czy w swoim szale Kain nie oszczędził żadnego ze swych rodów?
+#PRADAWNY BÓG
+To nie Kain, lecz własna arogancja Dumy sprowadziła zagładę na jego klan.
+Te bronie są ludzkie, Razielu. Ufni w swoją potęgę Dumah i jego potomstwo nie dostrzegli
+ataku najmniej oczekiwanych napastników...
+Zaślepieni pychą dali się zaskoczyć i zostali zdziesiątkowani przez ludzkich
+łowców wampirów niemal bez oporu. Nieliczni, którym udało się ujść z życiem,
+zniżyli się do roli padlinożerców.
 
--CHAPTER 16 – LOCKED IN ETERNAL LIMBO
-*After working his way through the city, Raziel finally steps into Dumah's throne room. A
-*huge figure is revealed, slumped and unmoving, at the far end of the room, as Raziel
-*slowly approaches. The corpse of Dumah slouches on its throne, impaled by multiple spears.
+-ROZDZIAŁ 16 – UWIĘZIONY W WIECZNYM LIMBO
+*Po przedarciu się przez miasto Raziel wkracza wreszcie do sali tronowej Dumy. W głębi
+*komnaty, gdy Raziel powoli się zbliża, ukazuje się ogromna, nieruchoma sylwetka.
+*Ciało Dumy bezwładnie spoczywa na tronie, przebite licznymi włóczniami.
 #RAZIEL V.O.
-My brother, Dumah – a powerful warrior, in life. He would have burned with shame, to have
-me find him here like a stuck pig.
-*Ironically, there is no way for Raziel to defeat Dumah without first reanimating his
-*corpse. Raziel pulls the multiple spears out of Dumah's body to revive him. When the last
-*spear is removed –
+Mój brat, Dumah – potężny wojownik, przynajmniej za życia. Spaliłby się ze wstydu,
+widząc mnie zastającego go nabitego niczym prosiak na ruszt.
+*Ironicznie, Raziel nie jest w stanie pokonać Dumy, dopóki najpierw nie przywróci go do
+*życia. Wyciąga więc włócznie wbite w jego ciało. Gdy usuwa ostatnią —
 #DUMAH
-[(menacingly)
-Unbound at last... I thank you, brother.
+[(groźnie)
+Nareszcie wolny... Dziękuję ci, bracie.
 #RAZIEL
-Your thanks are premature, Dumah.
-I have not forgotten whose hands bore me into the abyss.
+Nie śpiesz się z podziękowaniami, Dumo.
+Nie zapomniałem, czyje ręce zaciągnęły mnie przed otchłań.
 #DUMAH
-The centuries in limbo have honed my strength. Not even Kain is my equal.
+Przez wszystkie te stulecia w limbo urosłem w siłę. Nawet Kain nie może się ze mną równać.
 #RAZIEL
-Even the strongest vampire is vulnerable.
+Nawet najpotężniejszy wampir ma swoją słabość.
 #DUMAH
-We shall test your thesis, Raziel.
+Powinniśmy przetestować twoją tezę, Razielu.
 #RAZIEL
-My blood-thirst has been superceded by an even darker hunger. I will consume your soul
-before this day is done.
-*When Raziel has successfully immolated Dumah in the furnace room:
+Moje pragnienie krwi zastąpił o wiele mroczniejszy głód. Pożrę twoją duszę
+jeszcze przed zmrokiem.
+*Gdy Raziel skutecznie spala Dumę w komnacie pieca:
 #DUMAH
-[(dying in agony as he's burned up in the furnace)
-*Upon Dumah's defeat, and as Raziel receives his soul:
-#ELDER GOD
-Consuming Dumah's soul empowers you to wind a constricting band of spectral energy around
-your enemies.
-This energy manifests itself in both the spectral and material realms – and in the physical
-world, it can be employed to manipulate otherwise immovable objects.
+[(umiera w agonii, trawiony płomieniami)
+*Po pokonaniu Dumy i pochłonięciu jego duszy:
+#PRADAWNY BÓG
+Pożerając duszę Dumy, zyskałeś zdolność krępowania wrogów przy użyciu
+wstęgi duchowej energii.
+Energia ta objawia się zarówno w sferze materialnej, jak i widmowej, a w świecie fizycznym
+pozwala manipulować pozornie nieruchomymi obiektami.
 
 -CHAPTER 17 – AN ANCIENT ENIGMA
 *North of the Dumahim City, Raziel discovers a trail leading into the mountains. It winds
