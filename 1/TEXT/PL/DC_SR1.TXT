@@ -539,63 +539,62 @@ Twój brat Rahab wraz z potomstwem śmiertelnie ranionym najsłabszymi promienia
 przezwyciężyli swą wrażliwość na wodę i uciekli z powierzchni.
 Teraz nawiedzają te zatopione ruiny, pływając pośród ich mrocznych głębin.
 
--CHAPTER 14 – A HEAVEN OF HELL
-*Raziel finds Rahab at the center of the Drowned Abbey, nestled in the chapter house in the
-*center of the courtyard.
-*Rahab is massive, and so devolved that he appears more like an amphibious monster than the
-*man he used to be. His human features are still vaguely recognizable, and a few remnants
-*of his human anatomy are evident – in his powerful arms, and the shriveled, vestigial legs
-*suspended from his torso.
+-ROZDZIAŁ 14 – NIEBO PIEKIEŁ
+*Raziel odnajduje Rahaba w samym sercu Zatopionego Opactwa, ukrytego w kapitularzu
+*położonym w centrum dziedzińca.
+*Rahab jest ogromny i tak dalece zdegenerowany, że bardziej przypomina płaza niż
+*istotę, którą niegdyś był. Jego ludzkie rysy pozostają jeszcze mgliście rozpoznawalne,
+*a pewne szczątkowe pozostałości dawnej anatomii wciąż są widoczne — w potężnych ramionach
+*oraz w skarlałych, szczątkowych nogach zwisających z jego torsu.
 #RAHAB
-[(greeting Raziel as he rises to his full height)
-Raziel.
+[(wita Raziela, unosząc się do pełnej wysokości)
+Raziel...
 #RAZIEL
-Rahab. You have adapted well to your environment, for one so maladjusted...
+Rahab... Nieźle dostosowałeś się do swego otoczenia, jak na kogoś tak niedopasowanego...
 #RAHAB
-Do not mock me, Raziel. You, of all of us, should respect the power bestowed by a
-limitation overcome.
+Nie kpij ze mnie, Razielu. Z nas wszystkich powinieneś najbardziej cenić potęgę płynącą
+z przezwyciężania słabości.
 [(pause)
 #RAHAB
-Kain said you would come.
+Kain ostrzegał, że przybędziesz.
 #RAZIEL
-You speak with the murderer?
+Rozmawiasz z tym mordercą?
 #RAHAB
-You would do well to mind your blasphemous tongue.
+Powściągnij lepiej swój bluźnierczy język.
 #RAZIEL
-What more did he tell you?
+I cóż jeszcze ci powiedział?
 #RAHAB
-That you would destroy me.
+Że mnie zniszczysz.
 #RAZIEL
-I will, indeed. But tell me, before I tear your soul from its moorings, do you know what we
-were before Kain spawned us?
+W rzeczy samej. Zanim jednak wyrwę twą duszę z jej okowów, powiedz mi, czy wiesz,
+kim byliśmy, zanim Kain nas ściągnął z powrotem?
 #RAHAB
-[(as though saying a filthy word)
-Human.
+[(jakby wypowiadał coś plugwego)
+Ludźmi...
 #RAZIEL
-Sarafan, Rahab. The antithesis of all we ever believed.
+Sarafanami, Rahabie. Przeciwieństwem tego, w co zawsze wierzyliśmy.
 #RAHAB
-Does it matter? We were lost. He saved us.
+Czy to ważne? Byliśmy zgubieni – ocalił nas.
 #RAZIEL
-[(incredulous)
-Saved us? From what?
+[(z niedowierzaniem)
+Ocalił? Niby przed czym?
 #RAHAB
-From ourselves.
-[(they go into battle)
-*As Rahab dies:
+Przed nami samymi.
+[(rozpoczynają walkę)
+*Gdy Rahab umiera:
 #RAHAB
-[(dying in agony)
-I am undone!
-*The Elder God's instruction upon Rahab's defeat:
-#ELDER GOD
-Infused with Rahab's soul, you have overcome your former vulnerability to water's touch.
-Immersion in water will no longer dissolve your physical body, enabling you to swim to
-areas heretofore beyond your reach.
-*As Raziel exits Rahab's chapter house, the Elder God offers the following information:
-#ELDER GOD
-Centuries past, your brother Dumah retreated with his clan into Nosgoth's northern
-wilderness.
-Empowered by the gift of Rahab's soul, seek out his mountain stronghold. But tread
-carefully – these frozen wastes have mysteries yet to disclose.
+[(w agonii)
+To mój koniec!
+*Wskazówki Pradawnego Boga po pokonaniu Rahaba:
+#PRADAWNY BÓG
+Pożarcie duszy Rahaba pozwoliło ci przezwyciężyć wrażliwość na dotyk wody.
+Zanurzenie nie rozpuści już twojego fizycznego ciała, pozwalając ci dopłynąć
+do miejsc wcześniej pozostających poza twoim zasięgiem.
+*Gdy Raziel opuszcza kapitularz Rahaba, Pradawny Bóg przekazuje następujące informacje:
+#PRADAWNY BÓG
+Wieki temu twój brat Dumah uciekł wraz ze swoim klanem na północne pustkowia Nosgothu.
+Dzięki darowi duszy Rahaba odnajdź jego górską twierdzę. Lecz bądź ostrożny –
+te skute lodem pustkowia skrywają tajemnice, które nie zostały jeszcze odkryte.
 
 -CHAPTER 15 – A SILENT CITY
 *Raziel travels to the Ruined City of the Dumahim, in order to confront Dumah, another of
