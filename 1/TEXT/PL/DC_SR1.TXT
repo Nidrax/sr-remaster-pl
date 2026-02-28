@@ -759,7 +759,7 @@ Z naszymi świętymi wojnami... naszą obsesją panowania nad Nosgothem...
 Któż mógłby służyć mi lepiej niż ci, których pasja przekracza wszelkie granice dobra i zła?
 #RAZIEL
 Pozwolę sobie nie przyklasnąć bluźnierstwu, którego się dopuściłeś. Sarafani byli zbawcami
-chroniącymi Nosgoth przed zepsuciem, które my reprezentujemy.
+chroniącymi Nosgoth przed zepsuciem, które reprezentujemy.
 Przejrzałem na oczy, Kainie – nie widzę żadnej szlachetności w nieżyciu,
 które siłą narzuciłeś memu ciału.
 #KAIN

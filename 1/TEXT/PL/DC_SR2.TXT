@@ -1,89 +1,89 @@
-﻿-PROLOGUE
-*Raziel enters the Chronoplast chamber, and surveys its tiered walkways and arcane dials,
-*noting both the mysterious device suspended from the domed ceiling, and the undulating
-*portal on the far side of the chamber. None of this interests him. He is looking for Kain.
-*Raziel hears a voice, and Kain reveals himself as he steps out from the shadows of the
-*upper tier.
-#ΚΑΙΝ
-At last.
-I must say I'm disappointed in your progress. I imagined you would be here sooner.
-Tell me – did it trouble you to murder your brothers?
-*Raziel slowly descends the stairway, keeping his eyes locked on Kain.
-#RAZIEL
-Did it trouble you when you ordered me into the Abyss?
-
-*Kain's only response is ironic laughter. He steps back toward one of the arcane dials and
-*prepares to turn it.
-#ΚΑΙΝ
-Eternity is relentless, Raziel.
-When I first stole into this chamber, centuries ago, I did not fathom the true power of
-knowledge.
-*Kain throws the switch, and the Chronoplast device responds.
-To know the future, Raziel – to see its paths and streams tracing out into the infinite...
-As a man, I could never have contained such forbidden truths.
-But each of us is so much more than we once were.
-Do you not feel with all your soul how we have become like gods?
-And as such, are we not indivisible? As long as a single one of us stands, we are legion...
-
-*Kain descends the main staircase, and moves toward the second-tier dials.
+﻿-PROLOG
+*Raziel wkracza do komnaty Chronoplastu i omiata wzrokiem jej tarasowe pomosty oraz
+*tajemne konsole sterujące, dostrzegając zarówno zagadkowe urządzenie zawieszone pod
+*kopułą sklepienia, jak i falujący portal po drugiej stronie komnaty. Nic z tego go
+*jednak nie interesuje. Poszukuje Kaina.
+*Raziel słyszy głos, a Kain ujawnia swoją obecność, wychodząc z cienia górnego poziomu.
 #KAIN
-Our futures are predestined –
-Moebius foretold mine aeons ago. We each play out the parts fate has written for us.
-Free will is an illusion.
-*Kain punctuates his statement by throwing the second switch. Raziel glares up at him from
-*the floor of the chamber.
+Nareszcie...
+Muszę przyznać, że jestem zawiedziony twoimi postępami. Myślałem, że zjawisz się tu wcześniej.
+Powiedz – czy trudno było ci zabić swoich braci?
+*Raziel powoli schodzi po schodach, nie spuszczając wzroku z Kaina.
 #RAZIEL
-I found the Tomb of Sarafan, Kain.
-How could you profane a priest by turning him into a vampire?
-*Furious, Raziel launches himself at Kain – who easily stops Raziel in mid-air with one
-*hand, and holds him by the throat, at arm's length.
+Czy trudno było ci wtrącić mnie do otchłani?
 
-#ΚΑΙΝ
-How could I not?
-One must keep his friends close, Raziel – and his enemies even closer.
-*Kain effortlessly hurls Raziel to the lower floor of the chamber, and then drops down
-*himself, approaching Raziel's sprawled figure.
-#ΚΑΙΝ
-Who better to serve me than those whose passion transcends all notions of good and evil?
-*Raziel rises slowly, enraged and humiliated, and wheels on Kain.
-#RAZIEL
-The Sarafan were saviors, defending Nosgoth from the corruption that we represent.
-My eyes are opened, Kain – I find no nobility in the unlife you rudely forced on my
-unwilling corpse!
-
-*Raziel lunges at Kain. Kain evades the blow, but Raziel attacks again and pins Kain
-*against the wall, his forearm to his throat.
-*Kain is unfazed by Raziel's attack – he is composed, even slightly amused. He allows
-*Raziel to pin him there momentarily, and continues to taunt him, their faces inches apart.
+*Jedyną odpowiedzią Kaina jest ironiczny śmiech. Cofając się ku jednej z tajemnych
+*konsolet, przygotowuje się do jej uruchomienia.
 #KAIN
-You may have uncovered your past, but you know nothing of it.
-You think the Sarafan were noble, altruistic?
-*Kain breaks Raziel's grip and propels him away with a blast of telekinetic energy. Raziel
-*flies backward and slams into a buttress with bone-shattering force.
-*Kain laughs and moves toward the final dial.
-Don't be simple.
-Their agenda was the same as ours.
+Wieczność jest nieubłagana, Razielu.
+Gdy po raz pierwszy zakradłem się do tej komnaty przed wiekami, nie pojmowałem
+prawdziwej potęgi wiedzy.
+*Kain przełącza mechanizm, a urządzenie Chronoplastu odpowiada na jego działanie.
+Znać przyszłość, Razielu – widzieć jej ścieżki i strumienie, ciągnące się w nieskończoność...
+Jako człowiek nie mogłem pojąć tak zakazanych prawd.
+Jednak teraz każdy z nas jest kimś więcej niż dawniej.
+Czy nie czujesz całą duszą, że staliśmy się niczym bogowie? I jako tacy – czyż nie jesteśmy
+niepodzielni? Tak długo, jak istnieje przynajmniej jeden z nas – jesteśmy legionem...
 
-*Kain throws the final switch. The arms of the Chronoplast device descend, and the portal
-*flares into life.
-#ΚΑΙΝ
-[(mockingly)
-You nearly had me, Raziel...
-*Kain vanishes in a flash of light, and reappears on the upper tier, in front of the
-portal.
-But this is not where – or how – it ends. Fate promises more twists before this drama
-unfolds completely.
-*Kain turns and strides deliberately through the portal. Raziel gets to his feet and races
-*up the stairway. He pauses briefly, then leaps through the portal to pursue Kain.
+*Kain schodzi głównymi schodami i kieruje się ku konsoletom drugiego poziomu.
+#KAIN
+Nasza przyszłość jest z góry przesądzona –
+Moebius przepowiedział moją wieki temu. Każdy z nas odgrywa rolę przydzieloną mu przez los.
+Wolna wola jest jedynie iluzją.
+*Kain podkreśla swoje słowa, uruchamiając drugi mechanizm. Raziel spogląda na niego
+*z posadzki komnaty.
+#RAZIEL
+Odkryłem Grobowiec Sarafanów, Kainie.
+Jak mogłeś zbezcześcić kapłana, przemieniając go w wampira?
+*Rozwścieczony Raziel rzuca się na Kaina – ten jednak z łatwością zatrzymuje go w powietrzu
+*jedną ręką i unosi, trzymając za gardło.
 
-*Raziel finds himself floating in darkness, and hears an unfamiliar voice calling to him
-*out of the ether. As Raziel drifts to the floor and the chamber coalesces, Moebius the
-*Time Streamer steps out of the mist to greet him.
+#KAIN
+Jak mógłbym tego nie uczynić?
+Przyjaciół należy trzymać blisko, Razielu, a wrogów – jeszcze bliżej.
+*Kain z łatwością ciska Razielem na dolny poziom komnaty, po czym sam zeskakuje,
+*zbliżając się do jego powalonej sylwetki.
+#KAIN
+Któż mógłby służyć mi lepiej niż ci, których pasja przekracza wszelkie granice dobra i zła?
+*Raziel powoli podnosi się, wściekły i upokorzony, po czym odwraca się ku Kainowi.
+#RAZIEL
+Sarafani byli zbawcami chroniącymi Nosgoth przed zepsuciem, które reprezentujemy.
+Przejrzałem na oczy, Kainie – nie widzę żadnej szlachetności w nieżyciu,
+które siłą narzuciłeś memu ciału!
+
+*Raziel ponownie atakuje. Kain unika ciosu, lecz Raziel naciera raz jeszcze i przyszpila
+*go do ściany, przyciskając przedramię do jego gardła.
+*Kain pozostaje niewzruszony – opanowany, wręcz lekko rozbawiony. Pozwala Razielowi
+*utrzymać go przez chwilę i dalej go prowokuje, gdy ich twarze dzielą zaledwie centymetry.
+#KAIN
+Mogłeś odkryć swoją przeszłość, lecz nic o niej nie wiesz.
+Myślisz, że Sarafani byli szlachetni, altruistyczni?
+*Kain wyrywa się z uchwytu Raziela i odrzuca go falą telekinetycznej energii.
+*Raziel odlatuje w tył i z miażdżącą siłą uderza o przyporę.
+*Kain śmieje się i podchodzi do ostatniej konsolety.
+Nie bądź naiwny.
+Ich działania niczym nie różniły się od naszych.
+
+*Kain uruchamia ostatni mechanizm. Ramiona urządzenia Chronoplastu opuszczają się,
+*a portal rozbłyskuje życiem.
+#KAIN
+[(szyderczo)
+Omal mnie nie dopadłeś, Razielu...
+*Kain znika w błysku światła i pojawia się na górnym poziomie, przed portalem.
+Ale to nie tutaj – ani nie w taki sposób – ma się to zakończyć.
+Los przewiduje więcej zwrotów akcji, nim ten dramat dobiegnie końca.
+*Kain odwraca się i zdecydowanym krokiem przechodzi przez portal.
+*Raziel podnosi się i pędzi po schodach. Zatrzymuje się na krótką chwilę,
+*po czym skacze w portal, ruszając w pościg za Kainem.
+
+*Raziel odnajduje się zawieszony w ciemności i słyszy nieznany głos,
+*dobiegający z samego eteru. Gdy opada ku posadzce, a komnata materializuje się
+*wokół niego, z mgły wyłania się Moebius – Szwacz Czasu – by go powitać.
 #MOEBIUS
 Raziel...
-Redeemer and destroyer.
-Pawn and messiah.
-Welcome, time-spanned soul. Welcome... to your destiny.
+Odkupiciel i niszczyciel.
+Pionek i mesjasz.
+Witam, duszyczko zagubiona w strumieniach czasu. Witam... u progu twego przeznaczenia.
 
 -CHAPTER 1 – ARRIVAL
 *Raziel has just leapt through the Chronoplast portal in pursuit of Kain, fueled by blind
