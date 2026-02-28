@@ -51,7 +51,7 @@ When I started creating this translation 11 years ago for the Let's Play series 
 
 ![100%](https://progress-bar.xyz/100?width=256&title=SR1:) <img src="https://cdn-icons-png.flaticon.com/512/8625/8625364.png" width="20"> <br />
 ![100%](https://progress-bar.xyz/100?width=256&title=SR2:) <img src="https://cdn-icons-png.flaticon.com/512/8625/8625364.png" width="20"> <br />
-![81%](https://progress-bar.xyz/81?width=172&title=Dark%20Chronicles%201:) <br />
+![100%](https://progress-bar.xyz/100?width=172&title=Dark%20Chronicles%201:) <br />
 ![0%](https://progress-bar.xyz/0?width=172&title=Dark%20Chronicles%202:)
 
 Click the thumbnail to play the video: <br />
