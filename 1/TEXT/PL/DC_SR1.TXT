@@ -314,7 +314,7 @@ Sumienie...? Masz czelność mówić mi o sumieniu? Dopiero gdy odczujesz konsek
 wyborów, będziesz miał prawo kwestionować mój osąd!
 Długość twojego życia to zaledwie mrugnięcie okiem wobec ogromu wątpliwości i
 ubolewania, które dźwigam, odkąd Mortanius zawrócił mnie znad progu śmierci...
-Przytłaczająca świadomość, że losy świata zależą od każdego mojego czynu —
+Przytłaczająca świadomość, że losy świata zależą od każdego mojego czynu –
 czy jesteś w ogóle w stanie wyobrazić sobie, co uczyniłbyś na moim miejscu?
 #RAZIEL
 [(twardo)
@@ -324,7 +324,7 @@ Wybrałbym to, co słuszne, Kainie.
 Rozejrzyj się, Razielu – zobacz, co pozostało po naszym imperium.
 Bądź świadkiem końca epoki. Klanów rozproszonych po najdalszych zakątkach Nosgothu...
 [(ton jego głosu się zmienia)
-To miejsce już dawno przestało być użyteczne —
+To miejsce już dawno przestało być użyteczne –
 [(odwracając się ku Razielowi, lodowatym głosem)
 tak samo jak ty.
 *Wypowiadając te słowa, Kain dobywa Grabieżcy Dusz; energia ostrza natychmiast budzi się
@@ -333,17 +333,17 @@ tak samo jak ty.
 Grabieżca Dusz – starożytne ostrze Kaina – starsze niż którykolwiek z nas i
 po tysiąckroć bardziej zabójcze.
 Legendy głosiły, że miecz jest opętany i rośnie w siłę, pożerając dusze swych ofiar.
-Mimo całej naszej brawury wiedzieliśmy, co oznaczało, gdy Kain sięgał po niego w gniewie —
+Mimo całej naszej brawury wiedzieliśmy, co oznaczało, gdy Kain sięgał po niego w gniewie –
 że twój koniec był przesądzony.
 *Raziel i Kain stają do walki.
 *Kain unosi Grabieżcę Dusz przeciw Razielowi. Starożytne ostrze, uznawane za
 *niezniszczalne, rozpada się, gdy Kain próbuje zadać ostateczny cios.
-*Starcie dobiega końca wraz ze zniszczeniem Grabieżcy Dusz —
+*Starcie dobiega końca wraz ze zniszczeniem Grabieżcy Dusz –
 #KAIN
 Ostrze zostało zniszczone. A zatem – zaczęło się... a my jesteśmy o krok bliżej naszych
 przeznaczeń.
 [(śmiech cichnie echem, gdy Kain znika)
-*Gdy Raziel opada ponownie do sfery widmowej, odkrywa, że Grabieżca Dusz —
+*Gdy Raziel opada ponownie do sfery widmowej, odkrywa, że Grabieżca Dusz –
 *teraz już widmowe ostrze – unosi się przed nim. Raziel wyciąga rękę
 *(niemal niepewnie) i chwyta miecz. Ostrze rozbłyska, a jego energia splata się z Razielem.
 #RAZIEL V.O.
@@ -352,7 +352,7 @@ zniszczony.
 Nie rozumiałem gry, w którą mnie wciągał...
 [(przyglądając się ostrzu, teraz należącemu do niego, wyczuwając jego ciężar)
 lecz znałem ruch kończący tę partię.
-*Gdy Raziel obejmuje ostrze, Pradawny Bóg ponownie przemawia —
+*Gdy Raziel obejmuje ostrze, Pradawny Bóg ponownie przemawia –
 #PRADAWNY BÓG
 Od tej chwili ty i ostrze jesteście ze sobą nierozerwalnie związani. Grabieżca Dusz
 i ten, który dusze ograbia – złączeni wspólnym przeznaczeniem.
@@ -439,7 +439,7 @@ ugniesz się pod moją wolą.
 Wola... instynkt... odruch... dla umysłu insekta to niemal to samo.
 Ostrzegam cię, bracie – wraz z posturą urósł również mój apetyt.
 Podejdź bliżej, kąsku...
-*Gdy Raziel pokonuje Zephona i pochłania jego duszę —
+*Gdy Raziel pokonuje Zephona i pochłania jego duszę –
 #ZEPHON
 [(umierając w agonii)
 Nieeee!
@@ -448,7 +448,7 @@ Pochłaniając odstępczą duszę Zephona, zyskałeś nowy dar.
 Tak jak jego wampirzy rój, możesz teraz wspinać się na wcześniej niedostępne ściany –
 lecz wyłącznie w sferze materialnej.
 W świecie widmowym te pozbawione cech fizycznych obiekty cię nie utrzymają.
-*Gdy Raziel opuszcza komnatę Zephona —
+*Gdy Raziel opuszcza komnatę Zephona –
 #PRADAWNY BÓG
 W górach za Filarami kataklizmy Nosgothu odsłoniły pradawną zbrodnię.
 Obdarzony darem Zephona możesz teraz podążyć ścieżką,
@@ -544,7 +544,7 @@ Teraz nawiedzają te zatopione ruiny, pływając pośród ich mrocznych głębin
 *położonym w centrum dziedzińca.
 *Rahab jest ogromny i tak dalece zdegenerowany, że bardziej przypomina płaza niż
 *istotę, którą niegdyś był. Jego ludzkie rysy pozostają jeszcze mgliście rozpoznawalne,
-*a pewne szczątkowe pozostałości dawnej anatomii wciąż są widoczne — w potężnych ramionach
+*a pewne szczątkowe pozostałości dawnej anatomii wciąż są widoczne – w potężnych ramionach
 *oraz w skarlałych, szczątkowych nogach zwisających z jego torsu.
 #RAHAB
 [(wita Raziela, unosząc się do pełnej wysokości)
@@ -598,8 +598,8 @@ te skute lodem pustkowia skrywają tajemnice, które nie zostały jeszcze odkryt
 
 -ROZDZIAŁ 15 – MILCZĄCE MIASTO
 *Raziel wyrusza do Zrujnowanego Miasta Dumahimów, by stawić czoła Dumie, kolejnemu ze
-*swoich braci. Po przybyciu z przerażeniem odkrywa jednak, że cytadela Dumy — podobnie jak
-*jego własna — jest miastem duchów. Wszędzie leżą dawno martwe ciała wampirów, przebite
+*swoich braci. Po przybyciu z przerażeniem odkrywa jednak, że cytadela Dumy – podobnie jak
+*jego własna – jest miastem duchów. Wszędzie leżą dawno martwe ciała wampirów, przebite
 *palami i spalone, a mury miasta noszą ślady podpalenia. Choć Raziel jeszcze o tym nie wie,
 *Dumahimowie padli ofiarą najazdu łowców wampirów z pobliskiego ludzkiego miasta,
 *który miał miejsce przed wiekami.
@@ -623,7 +623,7 @@ zniżyli się do roli padlinożerców.
 Mój brat, Dumah – potężny wojownik, przynajmniej za życia. Spaliłby się ze wstydu,
 widząc mnie zastającego go nabitego niczym prosiak na ruszt.
 *Ironicznie, Raziel nie jest w stanie pokonać Dumy, dopóki najpierw nie przywróci go do
-*życia. Wyciąga więc włócznie wbite w jego ciało. Gdy usuwa ostatnią —
+*życia. Wyciąga więc włócznie wbite w jego ciało. Gdy usuwa ostatnią –
 #DUMAH
 [(groźnie)
 Nareszcie wolny... Dziękuję ci, bracie.
@@ -649,66 +649,65 @@ wstęgi duchowej energii.
 Energia ta objawia się zarówno w sferze materialnej, jak i widmowej, a w świecie fizycznym
 pozwala manipulować pozornie nieruchomymi obiektami.
 
--CHAPTER 17 – AN ANCIENT ENIGMA
-*North of the Dumahim City, Raziel discovers a trail leading into the mountains. It winds
-*around, opening onto the entrance of the Oracle's Cave.
-*Raziel discovers the long-hidden entrance to the Oracle's chamber.
+-ROZDZIAŁ 17 – STAROŻYTNA ZAGADKA
+*Na północ od Miasta Dumahimów Raziel odkrywa ścieżkę prowadzącą w góry. Wijąc się
+*pomiędzy skałami, doprowadza ona do wejścia do Jaskini Wyroczni.
+*Raziel odnajduje od dawna ukryte wejście do komnaty Wyroczni.
 #RAZIEL V.O.
-The Oracle's Cave, where Kain's first fateful meeting with Moebius occurred.
-Moebius played the role of a doddering soothsayer, stirring his pot of visions while
-dispensing enigmatic predictions to gullible visitors.
-Underneath the facade was Moebius the Time Streamer, sorcerer of the Circle of Nine – a
-ruthless manipulator with the power to bend time.
-Since his murder at Kain's hands centuries ago, these caves have stood vacant... though,
-like Moebius himself, they are rumored to be only a facade for a much larger, more
-elaborate complex...
+Jaskinia Wyroczni – miejsce pierwszego znamiennego spotkania Kaina z Moebiusem.
+Moebius udawał wówczas słabowitego wieszcza mieszającego w kotle wizji,
+oferując enigmatyczne przepowiednie łatwowiernym wędrowcom.
+Pod tą maską krył się jednak Szwacz Czasu – czarownik Kręgu Dziewięciu –
+bezwzględny intrygant zdolny manipulować samym czasem.
+Jaskinie te pozostawały opuszczone od chwili, gdy Kain zamordował go przed wiekami.
+Mówiono jednak, że – podobnie jak sam Moebius – skrywają coś znacznie większego...
+i bardziej złożonego...
 #RAZIEL V.O.
-[(continuing from above)
-I sensed that Kain was here... and at that moment, I would have plumbed the depths of hell
-to find him.
-*Once inside, Raziel comes upon a statue of Moebius, the Time Streamer – as he regards it,
-*he reflects:
+[(kontynuując)
+Wyczuwałem, że Kain tutaj był... i byłem gotów zstąpić nawet na dno piekieł, byle go odnaleźć.
+*Po wejściu do środka Raziel natrafia na posąg Moebiusa, Szwacza Czasu – przyglądając się
+*mu, rozmyśla:
 #RAZIEL V.O.
-[(slightly disdainful)
-This, I deduced, must be the man himself – the Time Streamer, Moebius.
-He seemed not at all the impressive figure I had imagined from Kain's boasted exploits.
-And yet, even this cold image radiated a certain undeniable power...
+[(z lekką pogardą)
+A oto – jak mniemałem – sam Szwacz Czasu, Moebius.
+Nie wyglądał tak imponująco, jak sugerowały opowieści Kaina.
+A jednak nawet jego martwy posąg emanował pewną aurą potęgi...
 
--CHAPTER 18 – BY DESTINY ENSNARED
-*In the depths of Moebius' time-streaming apparatus, Raziel discovers a series of portals
-*displaying scenes of past – and apparently future – events. As he descends, passing these
-*various scenes, he reflects on the images confronting him.
-*The images in the portals imply that the events he's experienced – and those still to come
-*– have all been predestined.
-*The first portal shows Raziel reviving in the Underworld, after being executed by Kain –
+-ROZDZIAŁ 18 – W SIDŁACH PRZEZNACZENIA
+*W głębinach aparatury Moebiusa manipulującej strumieniem czasu Raziel odkrywa szereg
+*portali ukazujących sceny z przeszłości – a najwyraźniej także z przyszłości.
+*Schodząc coraz niżej i mijając kolejne wizje, rozważa obrazy, które stają przed jego oczami.
+*Widoki ukazywane w portalach sugerują, że wydarzenia, których już doświadczył –
+*jak i te dopiero nadchodzące – zostały z góry przesądzone.
+*Pierwszy portal ukazuje Raziela odradzającego się w Podziemiu po egzekucji z rąk Kaina
 #RAZIEL
-[(amazed, horrified)
-My arrival in this miserable age...
-What trickery is this?
-#ELDER GOD
-It is no illusion, Raziel, but a glimpse into the currents of Time itself.
-*A second portal displays Raziel's discovery of the Tomb of Sarafan, and his origins –
+[(zdumiony, przerażony)
+Moje przybycie do tych przeklętych czasów...
+Cóż to za czarnoksięstwo?
+#PRADAWNY BÓG
+To nie iluzja, Razielu, lecz wgląd w sam strumień czasu.
+*Drugi portal ukazuje odkrycie Grobowca Sarafanów oraz jego pochodzenia
 #RAZIEL
-Impossible – this must be one of Kain's deceptions...
-*A third portal shows the Soul Reaver being shattered during the confrontation between Kain
-*and Raziel (as Kain prepares to destroy Raziel with the blade) –
+Niemożliwe – to musiał być jakiś podstęp Kaina...
+*Trzeci portal przedstawia moment zniszczenia Grabieżcy Dusz podczas starcia Kaina
+*i Raziela –
 #RAZIEL
-These apparitions torment me... has this all been foretold?
-*The next portal shows Raziel confronting Kain at some future time, in an unfamiliar
-*setting –
+Te wizje mnie prześladują... czy wszystko to zostało przepowiedziane?
+*Kolejny portal ukazuje Raziela konfrontującego Kaina w nieznanym miejscu,
+*w jakimś przyszłym czasie
 #RAZIEL
-My mind reels with conflict... does Kain await me moments from now, or in some century yet
-to come?
-*Another portal shows Raziel striking Ariel down with the Soul Reaver (an event which has
-*not yet occurred) –
+Mój umysł pogrąża się w sprzeczności... Czy Kain oczekuje mnie za chwilę,
+czy dopiero za kilka wieków?
+*Następny portal przedstawia Raziela przebijającego Ariel Grabieżcą Dusz
+*(wydarzenie, które jeszcze nie nastąpiło)
 #RAZIEL
-[(horrified)
-This cannot be! What madness does this scene portend?
-Kain must think me credulous, to suffer these lies...
-*A final portal shows Raziel armed with an enhanced Soul Reaver, its blade writhing with
-*intertwined black and red energies –
+[(przerażony)
+To niemożliwe! Jakie szaleństwo zwiastuje ta scena?
+Kain musi mieć mnie za naiwnego, bym miał uwierzyć w te kłamstwa...
+*Ostatni portal ukazuje Raziela dzierżącego wzmocnionego Grabieżcę Dusz,
+*którego ostrze wiję się splecionymi czarnymi i czerwonymi energiami
 #RAZIEL
-Is this phantasm a conjuration of my mind, or an echo of future events?
+Czy to widmo jest wytworem mojego umysłu, czy echem przyszłych wydarzeń?
 
 -CHAPTER 19 – THE TYRANNY OF THE STARS
 *Having worked his way down into the depths of Moebius' complex, Raziel comes across the
