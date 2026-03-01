@@ -103,7 +103,7 @@ W twoim przypadku właściwsze wydaje się raczej: "kiedy?".
 #RAZIEL
 Dobrze więc, podstępny gadzie – skoro wolisz, bym użył gołych rąk...
 *Raziel rzuca się na Moebiusa, chwyta go za wychudzoną szyję i ciska o ścianę.
-*Moebius przez chwilę udaje zaskoczenie i strach –
+*Moebius przez chwilę udaje zaskoczenie i strach.
 #MOEBIUS
 To doprawdy nieoczekiwane!
 Ta kula obezwładnia naszych wampirzych wrogów, czyniąc ich bezsilnymi i bezbronnymi.
@@ -236,162 +236,157 @@ Postaraj się ograniczyć ofiary do minimum, lecz... czyń to, co konieczne.
 Wielkie posunięcia wymagają kilku męczenników...
 *Moebius znika, pozostawiając Raziela samego w komnacie.
 
--CHAPTER 2 – THE REAVER CONVERGENCE
-*Raziel enters the choir area of the Sanctuary for the first time, and feels an
-*inexplicable distortion which intensifies as he approaches the central chapel.
+-ROZDZIAŁ 2 – KONWERGENCJA GRABIEŻCY
+*Raziel po raz pierwszy wkracza do strefy chóru sanktuarium Twierdzy i odczuwa
+*niewytłumaczalne zaburzenie, które nasila się, gdy zbliża się do centralnej kaplicy.
 #RAZIEL V.O.
-As I neared the Stronghold's inner sanctum, a strange sensation crept over me – an
-indescribable feeling of displacement, a sense of vertigo as reality itself appeared to
-warp and bend around me.
-The disturbance seemed to emanate from the Sanctuary's furthest chapel. As I cautiously
-approached, the sense of dislocation intensified with each step.
+Gdy dotarłem do wewnętrznego sanktuarium Twierdzy, ogarnęło mnie osobliwe doznanie –
+nieopisane wrażenie dryfowania, zawroty głowy, jakby rzeczywistość wypaczała się i zaginała.
+Zaburzenie zdawało się emanować z najdalszej kaplicy sanktuarium. W miarę jak ostrożnie
+się do niej zbliżałem, poczucie dezorientacji narastało z każdym krokiem.
 
-*As Raziel enters the chapel, he sees a stained-glass window memorializing William's murder
-*at Kain's hands. At the end of the chapel stands the sarcophagus of the martyred king.
+*Gdy Raziel wchodzi do kaplicy, dostrzega witraż upamiętniający zabójstwo Wilhelma
+*z rąk Kaina. Na jej krańcu spoczywa sarkofag zamordowanego króla.
 #RAZIEL V.O.
-So this was the tomb of the beloved King William the Just – beatified here as the martyr
-and catalyst of Moebius's crusade.
-I was reminded of Kain's journey as a fledgling vampire –
-How Moebius coerced him to travel back in history and assassinate William, thus igniting a
-genocidal hatred of vampires among the citizens of Nosgoth.
+A oto grobowiec umiłowanego króla Wilhelma Sprawiedliwego, uświęconego jako męczennika,
+którego śmierć stała się punktem zapalnym krucjaty Moebiusa.
+Przypomniałem sobie opowieści Kaina o czasach jego wampirzej młodości –
+o tym jak Moebius zwiódł go, by ten cofnął się w czasie i zamordował Wilhelma,
+wzniecając tym samym ludobójczą nienawiść wobec wampirów wśród mieszkańców Nosgothu.
 
-*Raziel proceeds into the chapel and stands before the sarcophagus, which he realizes now
-*serves also as an altar – for here, clutched loosely in the hands of William's effigy,
-*is the Soul Reaver, its blade broken in two.
+*Raziel podchodzi do sarkofagu i staje przed nim, uświadamiając sobie, że służy on również
+*jako ołtarz – albowiem w dłoniach kamiennego posągu Wilhelma spoczywa Grabieżca Dusz,
+*jego ostrze złamane na dwoje.
 #RAZIEL V.O.
-And here I discovered the source of the displacement – the Soul Reaver itself, laid out
-like a holy relic... And broken, apparently in the battle between William and Kain.
-I had not thought such a thing was possible...
-Until, of course, Kain shattered the blade against me when he tried to strike me down.
-*Raziel looks at his right hand contemplatively.
-Thus the captive spirit inhabiting the Reaver was released – and binding itself to me,
-became my symbiotic weapon.
+I oto odkryłem źródło zaburzeń przestrzeni –
+Grabieżcę Dusz, wyeksponowanego niczym świętą relikwię...
+i złamanego, zapewne podczas starcia Wilhelma z Kainem.
+Niegdyś uznałbym coś takiego za niemożliwe... lecz nie po tym,
+jak Kain roztrzaskał to samo ostrze na mnie, próbując zadać mi śmiertelny cios.
+*Raziel spogląda zamyślony na swoją prawą dłoń.
+Wówczas duch uwięziony w Grabieżcy został uwolniony
+i, wiążąc się ze mną, stał się moją symbiotyczną bronią.
 
-*Mesmerized by the Reaver's presence here, Raziel tentatively reaches out to touch the
-*sword. As if in sympathetic response, the wraith-blade begins to manifest of its own will.
+*Zahipnotyzowany obecnością ostrza, Raziel ostrożnie wyciąga dłoń, by go dotknąć.
+*Jakby w odpowiedzi, widmowe ostrze zaczyna objawiać się z własnej woli.
 #RAZIEL V.O.
-And so the Reaver met its former self, still imprisoned in this corporeal shell...
-I watched, mesmerized, as the wraith blade uncoiled itself, and snaked down the length of
-the physical blade...
-*As it passes over the hilt of the sword, Raziel's hand involuntarily lunges forward and
-*clamps down. The Reaver has taken control.
-Embracing its twin, its mirror self, the Reaver's long-dormant spirit was now fully
-aroused.
-And for the first time, I felt the true presence of this other entity – willful, ravenous,
-and deranged from thousands of years of imprisonment...
-The Reaver was now in command – and I, now merely its helpless host, felt my soul being
-leeched to restore the blade.
+I oto Grabieżca stanął wobec swego dawnego wcielenia,
+wciąż uwięzionego w cielesnej skorupie...
+Patrzyłem zahipnotyzowany, jak widmowe ostrze oplata
+i przenika swój fizyczny odpowiednik...
+*Gdy energia przesuwa się ponad rękojeścią miecza, dłoń Raziela gwałtownie
+*wysuwa się naprzód i zaciska na niej. Grabieżca przejmuje kontrolę.
+Obejmując swą bliźniaczą jaźń – własne lustrzane odbicie –
+uśpiony dotąd duch Grabieżcy został w pełni przebudzony.
+I po raz pierwszy poczułem prawdziwą obecność tego innego bytu –
+świadomego, wygłodniałego i obłąkanego po tysiącach lat uwięzienia...
+Grabieżca przejął dowodzenie, a ja – sprowadzony do roli bezsilnego nosiciela –
+czułem, jak moja własna dusza jest wysysana, by przywrócić ostrzu jego moc.
 
-*Raziel watches in helpless horror as the Reaver draws his soul-energy through his arm and
-*into the broken blade. The two halves of the Soul Reaver come together and are instantly
-*re-fused.
-*Just before he is drained completely, the Reaver relents, and Raziel recovers control.
+*Raziel z przerażeniem obserwuje, jak Grabieżca wysysa energię jego duszy przez ramię
+*i przekazuje ją do złamanego ostrza. Obie połowy Grabieżcy Dusz łączą się i natychmiast
+*zrastają w całość. Tuż przed całkowitym wyczerpaniem Raziela ostrze ustępuje,
+*a on odzyskuje kontrolę.
 #RAZIEL V.O.
-But the Reaver knew better than to destroy its host – and just as I neared the brink of
-oblivion, the blade released its hold on me.
-As I recovered, I realized we were now bound together in a fragile alliance – the Reaver no
-longer merely my symbiotic weapon, but a sentient parasite, competing for control.
+Grabieżca wiedział jednak, że nie warto zabijać swego żywiciela –
+i gdy znalazłem się już na skraju zatracenia, ostrze rozluźniło swój uścisk.
+A gdy doszedłem już do siebie, pojąłem, że odtąd łączy nas kruchy sojusz –
+Grabieżca przestał być jedynie symbiotyczną bronią,
+stając się świadomym pasożytem, rywalizującym ze mną o kontrolę.
 
-*As Raziel recovers, he realizes that Moebius is behind him, watching with intense
-*fascination. Enraged, Raziel wheels on Moebius and menaces him with the now-conjoined
-*Reaver blades.
+*Gdy Raziel odzyskuje panowanie nad sobą, uświadamia sobie, że za jego plecami stoi Moebius,
+*obserwując wszystko z niemal chorobliwą fascynacją. Rozwścieczony, Raziel odwraca się
+*ku niemu i grozi mu teraz scalonym ostrzem Grabieżcy.
 #RAZIEL
-What have you done to me, Moebius?!
-Is this your trap?!
+Co mi zrobiłeś, Moebiusie?!
+Czy to jakaś twoja pułapka?!
 #MOEBIUS
-[(apprehensive)
-How mine?!
-Don't forget it was Kain who led you here, not I!
-While you curse me – the only soul in Nosgoth ready to guide and assist you – Kain laughs
-at our folly and revels in your dismay.
-
-*Raziel raises the intertwined blades threateningly –
+[(zaniepokojony)
+Jak to moja?!
+Nie zapominaj, że to Kain cię tu przywiódł, nie ja!
+Podczas gdy obwiniasz mnie – jedyną duszę w Nosgothcie gotową służyć ci pomocą –
+Kain śmieje się z naszej głupoty i rozkoszuje twoim przerażeniem.
+*Raziel unosi splecione ostrza w groźnym geście.
 #RAZIEL
-These blades now coiled in sinister embrace have inspired terror in the hearts of creatures
-far more durable than you, old man.
-Bound together as they are, I can only imagine what they could do to your soul's fragile
-shell.
+Te ostrza, jeszcze zanim złowieszczo splotły się w jedno,
+budziły trwogę u istot znacznie potężniejszych od ciebie, starcze.
+Mogę sobie jedynie wyobrażać, co tak scalone uczyniłyby z lichą skorupą twojej duszy.
 #MOEBIUS
-Raziel, I beg you to stay your hand.
-This was none of my doing. I have sought only to aid you in your righteous quest.
+Razielu, błagam cię, byś powstrzymał swą rękę. Nie stoję za tym, co się wydarzyło.
+Moim celem jest jedynie wspierać cię w twej słusznej misji.
 #RAZIEL
-[(mocking)
-Why, you're trembling, Moebius. Has your confidence abandoned you?
-You seem to have made a fatal error by leaving your precious staff behind.
-Is that where all your courage comes from?
-
+[(szyderczo)
+Rety, ty drżysz, Moebiusie. Czyżby twoja pewność siebie gdzieś uleciała?
+Chyba fatalnie się pomyliłeś, zapominając swego cennego kostura.
+Czy to z niego czerpałeś całą swą odwagę?
 #MOEBIUS
-[(desperate)
-Listen to me, Raziel – you don't know what you're doing.
-I have taken an enormous risk by appearing here before you, so defenseless, yet eager to
-prove my good intentions.
-If there's anything left of the Sarafan in you, you won't do this.
-While you threaten me, your true enemy eludes you!
+[(zdesperowany)
+Posłuchaj mnie, Razielu – nie wiesz, co czynisz.
+Podjąłem ogromne ryzyko, stając przed tobą całkiem bezbronny,
+gotów dowieść swych dobrych intencji.
+Jeśli pozostało w tobie cokolwiek z Sarafana, nie uczynisz tego.
+Podczas gdy ty mi grozisz, twój prawdziwy wróg się wymyka!
 #RAZIEL
-Don't concern yourself with Kain, old man. He'll join you in hell soon enough.
-As you said, Death comes for us all...
-*Raziel raises the entwined blades, fully prepared to strike Moebius down.
+Nie martw się o Kaina, staruchu. Wkrótce dołączy do ciebie w piekle.
+W końcu – jak sam powiedziałeś – śmierć czeka nas wszystkich...
+*Raziel unosi splecione ostrza, gotów zadać śmiertelny cios.
 #MOEBIUS
-Yes... the Wheel of Fate demands it.
-
-*Moebius's statement stays Raziel's hand momentarily –
+Tak... Koło Przeznaczenia tego żąda.
+*Słowa Moebiusa na moment powstrzymują rękę Raziela.
 #RAZIEL
-What did you say?
+Co powiedziałeś?
 #MOEBIUS
-The Wheel of Fate – the inexorable cycle of death and rebirth to which all men are
-compelled.
-We serve the same God, Raziel.
-*Moebius grows more confident as he sees that this revelation is having some effect.
-To strike me down would be striking God's own attendant, and I don't believe even you would
-take that risk.
-
-*Raziel throws the Soul Reaver away in disgust. The wraith-blade untwines itself and
-*dissipates as it coils back into Raziel's hand.
+Koło Przeznaczenia – nieubłagany cykl śmierci i odrodzenia,
+któremu podlegają wszyscy ludzie.
+Służymy temu samemu Panu, Razielu.
+*Moebius nabiera pewności siebie, widząc, że jego słowa wywarły skutek.
+Zabicie mnie byłoby podniesieniem ręki na sługę samego Boga...
+Nie sądzę, byś nawet ty był gotów podjąć takie ryzyko.
+*Raziel z obrzydzeniem odrzuca Grabieżcę Dusz. Widmowe ostrze rozplata się
+*i zanika, zwijając się z powrotem w jego dłoni.
 #RAZIEL
-I tire of your games, Moebius.
-Now that I know you fear me, I needn't concern myself with you.
-Kain is waiting for me.
+Męczą mnie twoje gierki, Moebiusie.
+Skoro już wiem, że się mnie obawiasz, nie muszę dłużej tracić na ciebie czasu.
+Kain na mnie czeka.
 #MOEBIUS
-Go, then, Raziel. Seek Kain out and destroy him, in the name of the One God we both serve.
-You, who were once a Sarafan priest – murdered, profaned, destroyed and reborn again from
-His mercy...
-You are now most powerfully equipped to be His agent – His instrument of restoration and
-retribution.
+Idź zatem, Razielu. Odnajdź Kaina i zniszcz go, w imię Jedynego Boga, któremu służymy.
+Ty, który niegdyś byłeś kapłanem Sarafanów – zamordowany, sprofanowany, zniszczony –
+i ostatecznie odrodzony dzięki Jego miłosierdziu... Jesteś teraz w pełni wyposażony,
+by działać jako Jego wysłannik – jego narzędzie odnowienia i odkupienia.
 #RAZIEL
-My own vengeance is motivation enough.
-
-*Raziel turns his back on Moebius and exits the chapel.
-*Moebius closes the gate behind Raziel, and locks himself safely inside the chapel.
-*He breathes a sigh of relief, then turns and says quietly to himself –
+Zemsta jest dla mnie wystarczającą motywacją.
+*Raziel odwraca się plecami do Moebiusa i opuszcza kaplicę.
+*Moebius zamyka za nim wrota i bezpiecznie zatrzaskuje się wewnątrz.
+*Wzdycha z ulgą, po czym odwraca się i mówi cicho do siebie.
 #MOEBIUS
-By my soul, you almost had me, my little blue assassin.
-But that'll be the one and only chance you get, I assure you of that.
-*Alone now in the Sanctuary, Raziel stops to examine his newly-enhanced symbiotic weapon –
+Na mą duszę... omal mnie nie dopadłeś, mój ty mały, niebieski asasynie.
+Ale to była twoja jedyna szansa – zapewniam cię.
+*Pozostawszy samotnie w sanktuarium, Raziel zatrzymuje się,
+*by przyjrzeć się swej nowo wzmocnionej symbiotycznej broni.
 #RAZIEL V.O.
-I could now summon the blade at will, regardless of my strength.
-But once summoned, the blade's ravenous appetite could not be contained.
-It devoured the souls of its victims... And if I allowed it to become over-aroused, the
-Reaver would now turn its hunger on me.
-
--CHAPTER 3 – THE HEART OF DARKNESS
-*Raziel discovers a stained glass window in the Stronghold, depicting the murder of the
-*vampire Janos Audron at the hands of the Sarafan.
+Mogłem teraz przywołać ostrze, kiedy tylko zapragnąłem, niezależnie od własnej siły.
+Lecz raz przywołanego, wygłodniałego apetytu ostrza nie dało się już powstrzymać –
+natychmiast pożerało dusze swych ofiar...
+A gdybym pozwolił mu się nadmiernie pobudzić,
+Grabieżca zaspokoiłby swój głód mną.
+-ROZDZIAŁ 3 – SERCE CIEMNOŚCI
+*Raziel odkrywa w Twierdzy witraż przedstawiający
+*zabójstwo wampira Janosa Audrona z rąk Sarafanów.
 #RAZIEL V.O.
-So this was the legendary Janos Audron – reputed to have been the most ancient and
-diabolical vampire to have ever existed.
-According to folklore, he lived high in the cliffs of Nosgoth's northern mountains, and
-preyed mercilessly on the defenseless villagers below.
-His reign of terror ended when the Sarafan finally hunted him down and tore his throbbing
-heart from his still-living body.
-This relic came to be known as the 'Heart of Darkness,' and was supposedly imbued with the
-power to restore vampiric unlife. The Sarafan therefore guarded it carefully, lest the
-Heart fall into the hands of their enemies.
-
+A oto legendarny Janos Audron – uważany za najstarszego
+i najokrutniejszego wampira, jaki kiedykolwiek istniał.
+Według miejscowych podań zamieszkiwał wysoko pośród klifów północnych gór Nosgothu,
+bezlitośnie polując na bezbronnych mieszkańców wioski u ich podnóża.
+Jego rządy grozy dobiegły końca, gdy Sarafani wreszcie go dopadli i wyrwali z jego piersi
+bijące serce, gdy ten wciąż żył.
+Relikt ten stał się znany jako "Serce Ciemności" i rzekomo posiadał moc nadawania
+wampirzego "nieżycia". Dlatego Sarafani strzegli go z najwyższą pieczołowitością,
+aby Serce nie wpadło w ręce ich wrogów.
 #RAZIEL V.O.
-[(continued)
-But I wondered – could Janos Audron truly have been as monstrous as depicted here?
-Or was this merely artistic license by the Sarafan, who sought to lionize themselves by
-demonizing their darkest enemy?
+[(kontynuując)
+Zastanawiałem się jednak – czy Janos Audron rzeczywiście był tak okrutny,
+jak go przedstawiano? Czy też był to jedynie zabieg artystyczny Sarafanów
+gloryfikujących samych siebie przez demonizowanie swego najmroczniejszego wroga?
 
 -CHAPTER 4 – THE CORRUPTION OF THE PILLARS
 *Raziel reaches the Pillars clearing, where Moebius told him Kain would be waiting. Raziel
