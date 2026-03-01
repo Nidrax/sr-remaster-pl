@@ -1,5 +1,5 @@
-[0:00:000] To zupełnie nieoczekiwane!
-[0:03:300] Ta kula unieszkodliwia naszych wampirzych wrogów, czyniąc ich bezbronnymi i bezradnymi.
-[0:09:700] Z jakiegoś powodu wydaje się również działać na tę twoją osobliwą broń.
-[0:14:900] Musisz mi jednak zawierzyć – nie chcę twej krzywdy.
+[0:00:000] To doprawdy nieoczekiwane!
+[0:03:300] Ta kula obezwładnia naszych wampirzych wrogów, czyniąc ich bezsilnymi i bezbronnymi.
+[0:09:700] Zdaje się, że oddziałuje ona również na tę twoją osobliwą broń.
+[0:14:900] Musisz mi jednak zawierzyć – nie życzę ci krzywdy.
 [0:21:000]

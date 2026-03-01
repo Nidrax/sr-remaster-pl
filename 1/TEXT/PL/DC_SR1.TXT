@@ -763,8 +763,9 @@ chroniącymi Nosgoth przed zepsuciem, które reprezentujemy.
 Przejrzałem na oczy, Kainie – nie widzę żadnej szlachetności w nieżyciu,
 które siłą narzuciłeś memu ciału.
 #KAIN
-Mogłeś odkryć swoją przeszłość, lecz nic o niej nie wiesz. Myślisz, że Sarafani byli szlachetni,
-altruistyczni? Nie bądź naiwny. Ich działania niczym nie różniły się od naszych.
+Mogłeś odkryć swoją przeszłość, lecz nic o niej nie wiesz.
+Myślisz, że Sarafani byli szlachetni? Altruistyczni?
+Nie bądź naiwny. Ich działania niczym nie różniły się od naszych.
 #RAZIEL
 Pogubiłeś się w meandrach moralnego relatywizmu, Kainie.
 [(then, gesturing toward the chamber of visions)

@@ -5,8 +5,8 @@
 *jednak nie interesuje. Poszukuje Kaina.
 *Raziel słyszy głos, a Kain ujawnia swoją obecność, wychodząc z cienia górnego poziomu.
 #KAIN
-Nareszcie...
-Muszę przyznać, że jestem zawiedziony twoimi postępami. Myślałem, że zjawisz się tu wcześniej.
+Nareszcie... Muszę przyznać, że jestem zawiedziony twoimi postępami.
+Myślałem, że zjawisz się tu wcześniej.
 Powiedz – czy trudno było ci zabić swoich braci?
 *Raziel powoli schodzi po schodach, nie spuszczając wzroku z Kaina.
 #RAZIEL
@@ -16,19 +16,20 @@ Czy trudno było ci wtrącić mnie do otchłani?
 *konsolet, przygotowuje się do jej uruchomienia.
 #KAIN
 Wieczność jest nieubłagana, Razielu.
-Gdy po raz pierwszy zakradłem się do tej komnaty przed wiekami, nie pojmowałem
-prawdziwej potęgi wiedzy.
+Gdy po raz pierwszy zakradłem się do tej komnaty przed wiekami,
+nie pojmowałem prawdziwej potęgi wiedzy.
 *Kain przełącza mechanizm, a urządzenie Chronoplastu odpowiada na jego działanie.
 Znać przyszłość, Razielu – widzieć jej ścieżki i strumienie, ciągnące się w nieskończoność...
 Jako człowiek nie mogłem pojąć tak zakazanych prawd.
 Jednak teraz każdy z nas jest kimś więcej niż dawniej.
-Czy nie czujesz całą duszą, że staliśmy się niczym bogowie? I jako tacy – czyż nie jesteśmy
-niepodzielni? Tak długo, jak istnieje przynajmniej jeden z nas – jesteśmy legionem...
+Czy nie czujesz całą duszą, że staliśmy się niczym bogowie?
+I jako tacy – czyż nie jesteśmy niepodzielni?
+Tak długo, jak istnieje przynajmniej jeden z nas – jesteśmy legionem...
 
 *Kain schodzi głównymi schodami i kieruje się ku konsoletom drugiego poziomu.
 #KAIN
-Nasza przyszłość jest z góry przesądzona –
-Moebius przepowiedział moją wieki temu. Każdy z nas odgrywa rolę przydzieloną mu przez los.
+Nasza przyszłość jest z góry przesądzona – Moebius przepowiedział moją wieki temu.
+Każdy z nas odgrywa rolę przydzieloną mu przez los.
 Wolna wola jest jedynie iluzją.
 *Kain podkreśla swoje słowa, uruchamiając drugi mechanizm. Raziel spogląda na niego
 *z posadzki komnaty.
@@ -48,8 +49,8 @@ Któż mógłby służyć mi lepiej niż ci, których pasja przekracza wszelkie 
 *Raziel powoli podnosi się, wściekły i upokorzony, po czym odwraca się ku Kainowi.
 #RAZIEL
 Sarafani byli zbawcami chroniącymi Nosgoth przed zepsuciem, które reprezentujemy.
-Przejrzałem na oczy, Kainie – nie widzę żadnej szlachetności w nieżyciu,
-które siłą narzuciłeś memu ciału!
+Przejrzałem na oczy, Kainie – 
+nie widzę żadnej szlachetności w nieżyciu, które siłą narzuciłeś memu ciału!
 
 *Raziel ponownie atakuje. Kain unika ciosu, lecz Raziel naciera raz jeszcze i przyszpila
 *go do ściany, przyciskając przedramię do jego gardła.
@@ -57,7 +58,7 @@ które siłą narzuciłeś memu ciału!
 *utrzymać go przez chwilę i dalej go prowokuje, gdy ich twarze dzielą zaledwie centymetry.
 #KAIN
 Mogłeś odkryć swoją przeszłość, lecz nic o niej nie wiesz.
-Myślisz, że Sarafani byli szlachetni, altruistyczni?
+Myślisz, że Sarafani byli szlachetni? Altruistyczni?
 *Kain wyrywa się z uchwytu Raziela i odrzuca go falą telekinetycznej energii.
 *Raziel odlatuje w tył i z miażdżącą siłą uderza o przyporę.
 *Kain śmieje się i podchodzi do ostatniej konsolety.
@@ -81,161 +82,159 @@ Los przewiduje więcej zwrotów akcji, nim ten dramat dobiegnie końca.
 *wokół niego, z mgły wyłania się Moebius – Szwacz Czasu – by go powitać.
 #MOEBIUS
 Raziel...
-Odkupiciel i niszczyciel.
-Pionek i mesjasz.
-Witam, duszyczko zagubiona w strumieniach czasu. Witam... u progu twego przeznaczenia.
+Odkupiciel i niszczyciel. Pionek i mesjasz.
+Witam, duszyczko zagubiona w strumieniach czasu.
+Witam... u progu twego przeznaczenia.
 
--CHAPTER 1 – ARRIVAL
-*Raziel has just leapt through the Chronoplast portal in pursuit of Kain, fueled by blind
-*rage and a thirst for vengeance. As his surroundings coalesce, he finds himself in a domed
-*room – similar to the Chronoplast chamber, but smaller in scale.
-*Moebius, the Time Streamer, steps forward to greet him.
+-ROZDZIAŁ 1 – PRZYBYCIE
+*Raziel dopiero co skoczył w portal Chronoplastu, podążając za Kainem, napędzany ślepą
+*wściekłością i pragnieniem zemsty. Gdy otoczenie nabiera kształtów, odkrywa, że znalazł
+*się w kopulastej komnacie – przypominającej salę Chronoplastu, lecz znacznie mniejszej.
+*Moebius, Władca Strumienia Czasu, występuje naprzód, by go powitać.
 #MOEBIUS
-'Where am I?' is the usual question.
-In your case, 'when?' might be more apt.
-*Raziel recognizes Moebius, and knows how dangerous he is. As he raises the Reaver in
-*defense, the orb on Moebius's staff flares brightly. The wraith-blade sputters out and
-*retracts, its wisps of energy dissipating completely.
-*Alarmed, and now even more suspicious of the sorcerer's motives, Raziel advances on
-*Moebius.
-
-#RAZIEL
-Very well, you old snake – if you'd prefer I use my bare hands...
-*Raziel lunges at Moebius and grabs him by his scrawny neck, throwing him up against the
-*wall. Moebius feigns surprise and fear for a moment –
-#MOEBIUS
-This is completely unexpected!
-This orb disables our vampire enemies, leaving them helpless and incapacitated.
-Strangely, it seems to have the same effect on that peculiar weapon of yours.
-But you must believe me – I mean you no harm.
-#RAZIEL
-You can drop the benevolent façade, Moebius.
-I know who – and what – you are.
-I should kill you where you stand...
-
-*As Raziel speaks, Moebius's demeanor changes. He no longer appears to be an addled old
-*magician – this Moebius is composed, confident, and completely in control.
-#MOEBIUS
-[(laughing)
-Perhaps you should, my boy. But you don't.
-*Raziel tightens his grip a bit on Moebius's throat.
-#RAZIEL
-Are you so certain of that, Moebius?
-*Moebius appears completely unfazed by Raziel's threats.
-#MOEBIUS
-My role as Time Guardian affords me a certain level of omniscience, Raziel.
-No, you don't kill me. That honor belongs to your maker, Kain, some thirty years from now.
-
-*Raziel releases him roughly, with disgust.
-#RAZIEL
-Hmph. You two are a pair – you're just as fatalistic as he is.
-#MOEBIUS
-[(laughing softly)
-Death comes for us all, Raziel.
-It's just a matter of time.
-*Completely composed, Moebius turns his back on Raziel and exits the chamber.
-#RAZIEL
-How is it that you know my name? We have never met.
-#MOEBIUS
-On the contrary, Raziel – I know you very well...
-And it grieves me to see how cruelly Kain has used you.
-I knew you when you were one of the Sarafan brotherhood, Raziel.
-We were even close.
+"Gdzie jestem?" – to pytanie pada najczęściej.
+W twoim przypadku właściwsze wydaje się raczej: "kiedy?".
+*Raziel rozpoznaje Moebiusa i doskonale wie, jak bardzo jest on niebezpieczny. Gdy unosi
+*Reavera w obronnym geście, kula osadzona na kosturze Moebiusa rozbłyskuje oślepiającym
+*światłem. Widmowe ostrze gaśnie i cofa się, a jego smugi energii całkowicie się rozwiewają.
+*Zaniepokojony – i jeszcze bardziej podejrzliwy wobec intencji czarownika – Raziel rusza
+*w stronę Moebiusa.
 
 #RAZIEL
-[(with revulsion)
-Oh, please.
+Dobrze więc, podstępny gadzie – skoro wolisz, bym użył gołych rąk...
+*Raziel rzuca się na Moebiusa, chwyta go za wychudzoną szyję i ciska o ścianę.
+*Moebius przez chwilę udaje zaskoczenie i strach –
 #MOEBIUS
-Fortunately, you need not love me now to be my ally...
-*Raziel follows Moebius into the adjacent room – the walls of this octagonal chamber are
-*decorated with murals memorializing the six martyred Circle guardians, slaughtered here
-*many centuries ago.
-*The slain guardians are depicted in beatific imagery, while their murderer – the vampire
-*Vorador – is demonized.
-*In the center of the room stands a distinctive basin engraved with arcane symbols.
+To doprawdy nieoczekiwane!
+Ta kula obezwładnia naszych wampirzych wrogów, czyniąc ich bezsilnymi i bezbronnymi.
+Zdaje się, że oddziałuje ona również na tę twoją osobliwą broń.
+Musisz mi jednak zawierzyć – nie życzę ci krzywdy.
 #RAZIEL
-Are we within the Stronghold of the Sarafan priesthood?
+Oszczędź mi tych pozorów dobroduszności, Moebiusie.
+Doskonale wiem, kim – i czym – jesteś.
+Powinienem cię zabić tu i teraz...
+
+*W trakcie jego słów zachowanie Moebiusa ulega zmianie. Nie przypomina już
+*zdziecinniałego starca – stoi przed nim ktoś opanowany, pewny siebie i całkowicie
+*panujący nad sytuacją.
+#MOEBIUS
+[(śmiejąc się)
+Być może powinieneś, chłopcze. Ale tego nie zrobisz.
+*Raziel zaciska mocniej dłoń na jego gardle.
+#RAZIEL
+Takiś tego pewny, Moebiusie?
+*Moebius pozostaje zupełnie niewzruszony groźbami Raziela.
+#MOEBIUS
+Moja rola Strażnika Czasu zapewnia mi pewien zakres wszechwiedzy, Razielu.
+Nie – nie zabijesz mnie. Ten przywilej przypadnie twemu stwórcy, Kainowi –
+za jakieś trzydzieści lat.
+
+*Raziel z odrazą odpycha go od siebie.
+#RAZIEL
+Dobrana z was para – jesteś równie wielkim fatalistą jak on.
+#MOEBIUS
+[(cicho się śmieje)
+Śmierć czeka nas wszystkich, Razielu.
+To jedynie kwestia czasu.
+*Z całkowitym spokojem Moebius odwraca się plecami do Raziela i opuszcza komnatę.
+#RAZIEL
+Skąd znasz moje imię? Nigdy się nie spotkaliśmy.
+#MOEBIUS
+Wręcz przeciwnie, Razielu – znam cię bardzo dobrze...
+I ubolewam, widząc, jak okrutnie Kain cię wykorzystał.
+Znałem cię jeszcze wtedy, gdy należałeś do bractwa Sarafanów, Razielu.
+Byliśmy sobie nawet bliscy.
+
+#RAZIEL
+[(z odrazą)
+Och, błagam...
+#MOEBIUS
+Na szczęście nie musisz mnie darzyć sympatią, by zostać moim sprzymierzeńcem...
+*Raziel podąża za Moebiusem do sąsiedniej sali – ściany tej ośmiokątnej komnaty
+*zdobią malowidła upamiętniające sześciu męczeńskich Strażników Kręgu,
+*zamordowanych w tym miejscu przed wieloma stuleciami.
+*Polegli Strażnicy ukazani są w niemal świętej, idealizowanej wizji,
+*podczas gdy ich zabójca – wampir Vorador – przedstawiony został jako demon.
+*Pośrodku komnaty znajduje się charakterystyczna misa pokryta tajemnymi symbolami.
+#RAZIEL
+Czyżbyśmy znajdowali się w Twierdzy bractwa Sarafanów?
 
 #MOEBIUS
-Yes, but the glorious days of the Sarafan have long since passed, I'm afraid.
-This is a more... cynical and indecorous age.
-My mercenary army now inhabits this stronghold – we strive to honor the memory of the
-Sarafan with our own humble crusade.
-*Raziel studies the surrounding murals, intrigued.
+Tak – choć obawiam się, że dni ich chwały dawno przeminęły.
+Nastały znacznie bardziej... cyniczne i bezlitosne czasy.
+Obecnie twierdzę zajmuje moja najemna armia –
+staramy się uczcić pamięć Sarafanów własną, skromną krucjatą.
+*Raziel z zainteresowaniem przygląda się malowidłom.
 #RAZIEL
-Is this the vampire Vorador?
+To wampir Vorador?
 #MOEBIUS
-Yes, the scourge of the Circle. The most depraved and decadent example of his whole
-degenerate race.
-He slaughtered six of my fellow Guardians as they cowered, defenseless, in this room.
+Tak. Pomór Kręgu. Najbardziej zepsuty i bezwzględny przedstawiciel swej zgniłej rasy.
+Wymordował sześciu moich towarzyszy, gdy bezbronni ukrywali się w tej komnacie.
 
 #RAZIEL
-[(incredulous)
-And you somehow survived this massacre?
+[(niedowierzająco)
+A ty jakimś cudem ocalałeś z tej rzezi?
 #MOEBIUS
-I, and two others. The Circle was devastated; only we three were spared.
+Ja i dwóch innych. Krąg został spustoszony.
+Ocalała jedynie nasza trójka.
 #RAZIEL
-[(disdainful)
-How convenient.
-You'll forgive me if I don't naively devour every scrap of information you toss me.
-You have a reputation for deceit.
+[(z pogardą)
+Cóż za dogodny zbieg okoliczności...
+Wybacz, że nie pochwycę naiwnie każdego rzuconego mi ochłapu informacji.
+Wsławiłeś się skłonnością do oszustw.
 #MOEBIUS
-And who has slandered me so?
-Your malefactor Kain? The one who betrayed and destroyed you? Our common enemy?
-Consider the source, before you judge me too harshly.
+A któż mnie tak oczernił? Ten zbrodniarz, Kain?
+Ten, który cię zdradził i zniszczył? Nasz wspólny wróg?
+Zastanów się nad źródłem, nim wydasz zbyt surowy osąd.
 
 #MOEBIUS
-We'll forget about rekindling our old friendship, then. But consider an alliance based
-on our common ground –
-We both want Kain dead.
-I can help you do it.
+Zapomnijmy zatem o odnawianiu starych znajomości.
+Rozważ raczej sojusz oparty na wspólnym celu –
+obaj przecież pragniemy śmierci Kaina.
+Mogę ci w tym pomóc.
 #RAZIEL
-You don't want to meddle in this, old man.
-I know all about your sordid little schemes, but you're simply out of your depth on this
-one.
+Nie mieszaj się w to, starcze.
+Znam twoją wprawę w nędznych intrygach, lecz ta sprawa akurat cię przerasta.
 #MOEBIUS
-You underestimate me, Raziel.
-Let me show you...
-*Moebius ignites the four candles that stand on the basin's edge, and an image slowly
-*materializes in the mystical waters of the bowl.
+Nie doceniasz mnie, Razielu.
+Pozwól, że coś ci pokażę...
+*Moebius zapala cztery świece ustawione na krawędzi misy, a w jej mistycznych wodach
+*powoli zaczyna materializować się obraz.
 
-*The image in the basin coalesces, and Kain is revealed. Raziel leans over the basin and
-*peers in, mesmerized.
+*Widzenie nabiera ostrości – ukazuje się Kain. Raziel pochyla się nad misą,
+*wpatrując się w nią jak zahipnotyzowany.
 #MOEBIUS
-Even now, Kain is lying in wait for you, unaware that I've snatched you out of the
-time-stream and brought you here, to me.
-*The image wavers, and we see that Kain is standing in a clearing, beneath the Pillars of
-*Nosgoth, apparently waiting...
-See how he lingers at the very Pillars he is destined to destroy, foolishly confident that
-he has eluded your grasp.
+Kain – właśnie teraz – oczekuje twego przybycia,
+nieświadomy, że wyrwałem cię ze strumienia czasu i sprowadziłem tutaj.
+*Obraz faluje – Kain stoi na polanie u stóp Filarów Nosgothu, jakby czekał...
+Spójrz, jak szuka schronienia pośród Filarów, które jest mu pisane zniszczyć...
+naiwnie wierząc, że wymknął się z twoich rąk.
 #RAZIEL
-[(fascinated)
-The Pillars are still standing in this time?
+[(zafascynowany)
+Filary w tej epoce wciąż stoją?
 
 #MOEBIUS
-Yes, Raziel – they are the embodiment of the divine force which preserves the life of our
-world.
-We who serve the Pillars maintain their delicate balance – and Kain is destined to be the
-fulcrum upon which that balance turns.
-I believe you have already endured the wasteland wrought by his terrible, selfish decision.
-Kain's very existence is a cancer upon this world. As long as he lives, all of Nosgoth is
-in peril.
-*The image in the basin wavers and fades out completely.
+Tak, Razielu – są ucieleśnieniem boskiej mocy utrzymującej ten świat przy życiu.
+My – słudzy Filarów – strzeżemy ich kruchej równowagi,
+a przeznaczeniem Kaina jest być osią, na której ta równowaga spoczywa.
+Domyślam się, że widziałeś już pustkowie będące skutkiem jego samolubnej decyzji.
+Istota Kaina jest niczym rak toczący ten świat –
+dopóki żyje, Nosgoth skazany jest na zagładę.
+*Obraz w misie drży i całkowicie zanika.
 #MOEBIUS
-You may never again be human, Raziel...
-But you can re-embrace the essence of your humanity, and the nobility of your Sarafan
-heritage.
-Go to him, Raziel, and end this.
+Nie odzyskasz już ludzkiej postaci, Razielu...
+Lecz możesz odzyskać istotę człowieczeństwa
+i szlachetność swego dziedzictwa jako Sarafana.
+Udaj się do niego, Razielu – i zakończ to.
 
 #MOEBIUS
-But first you will need to find your way out of the Stronghold – and in this, I'm afraid, I
-cannot help you.
-My soldiers will not understand your appearance here; they will try to kill you.
-You needn't fear them, of course. They're no match for you.
-Try to keep the casualties to a minimum, but do what you have to do.
-[(ominously)
-All great movements require a few martyrs...
-*Moebius vanishes, leaving Raziel alone in the chamber.
+Najpierw jednak musisz opuścić Twierdzę, a w tym niestety nie mogę ci pomóc.
+Moi żołnierze nie zrozumieją twojej obecności. Będą próbowali cię zabić.
+Nie musisz się ich obawiać, rzecz jasna. Nie są dla ciebie żadnym wyzwaniem.
+Postaraj się ograniczyć ofiary do minimum, lecz... czyń to, co konieczne.
+[(złowieszczo)
+Wielkie posunięcia wymagają kilku męczenników...
+*Moebius znika, pozostawiając Raziela samego w komnacie.
 
 -CHAPTER 2 – THE REAVER CONVERGENCE
 *Raziel enters the choir area of the Sanctuary for the first time, and feels an
