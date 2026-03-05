@@ -745,199 +745,218 @@ Nawet teraz jestem poza twoim zasięgiem.
 Mój zasięg jest dłuższy, niż ci się wydaje.
 Pogrywasz w bardzo niebezpieczną grę, Razielu...
 
--CHAPTER 8 – HISTORY AND DESTINY COLLIDE
-*As Raziel enters the Relic Hall within the Sanctuary, he discovers the fresh corpse of one
-*of Moebius's guards. Raziel kneels to examine the body – the soldier's neck appears to
-*have been snapped, his throat is torn open, and the pallor of his skin suggests that the
-*victim has been drained of blood.
-*Suspecting Kain, Raziel glances up and begins to rise. He addresses the seemingly-empty
-*hall –
+-ROZDZIAŁ 8 – ZDERZENIE HISTORII I PRZEZNACZENIA
+*Gdy Raziel wchodzi do Sali Relikwii w Sanktuarium, odkrywa świeże ciało jednego
+*ze strażników Moebiusa. Raziel klęka, by zbadać zwłoki – kark żołnierza zdaje się
+*złamany, gardło ma rozszarpane, a bladość skóry sugeruje, że ofiara została
+*pozbawiona krwi.
+*Podejrzewając Kaina, Raziel unosi wzrok i zaczyna się podnosić. Zwraca się do
+*pozornie pustej sali...
 #RAZIEL
-Show yourself, Kain.
-*Kain's voice emerges from the depths of William's chapel –
+Pokaż się, Kain.
+
+*Z głębi kaplicy Wilhelma rozlega się głos Kaina...
 #ΚΑΙΝ
-Here, Raziel.
-*Raziel crosses the threshold of the chapel – just as in his previous visit, he feels the
-*distortion caused by the nearness of the Reaver. As he enters, he discovers Kain inside,
-*standing before William's sarcophagus.
+Tutaj, Razielu.
 
+*Raziel przekracza próg kaplicy... tak jak podczas poprzedniej wizyty czuje
+*zniekształcenie spowodowane bliskością Grabieżcy. Gdy wchodzi do środka,
+*dostrzega Kaina stojącego przed sarkofagiem Wilhelma.
 #ΚΑΙΝ
-Everything is decided here...
-You cannot comprehend the magnitude – the rapture and the tragedy – of this moment...
-And yet you must if Nosgoth is to be dragged from the wreckage of its damnation.
-*Whatever game Kain is playing, Raziel is tired of it. He responds irritably –
+Wszystko rozstrzyga się właśnie tutaj...
+Nie jesteś w stanie pojąć ogromu... ekstazy i tragedii tej chwili...
+A jednak musisz to zrozumieć, jeśli Nosgoth ma zostać uratowany
+z wraku spadającego na dno potępienia.
+
+*Niezależnie od tego, w jaką grę gra Kain, Raziel ma już jej dość. Odpowiada z irytacją...
 #RAZIEL
-I understand only this, Kain –
-That you and Moebius have impelled me to this moment simply means I can trust neither of
-you.
-I don't know who's pulling the strings, but it no longer matters – because I'm cutting
-them.
-I set my own course from here.
-*Raziel turns to leave. Kain watches him go for a moment, then replies.
+Rozumiem tylko tyle, Kainie –
+Ty i Moebius doprowadziliście mnie do tej chwili, więc nie mogę ufać żadnemu z was.
+Nie wiem, kto pociąga za sznurki, jednak nie ma to już znaczenia... bo właśnie je odcinam.
+Od tej chwili sam wyznaczam swój kurs.
+
+*Raziel odwraca się, by odejść. Kain przez chwilę patrzy, jak się oddala, po czym odpowiada.
+#KAIN
+Gdyby tylko to było takie proste.
+
+*Raziel zatrzymuje się i odpowiada z irytacją.
+#RAZIEL
+Twój fatalizm jest męczący, Kainie.
 
 #KAIN
-If it were only that simple.
-*Raziel stops and responds, exasperated.
-#RAZIEL
-Your fatalism is tiresome, Kain.
-#KAIN
-...and profoundly ingrained, Raziel.
-You must understand, our presence here doesn't alter history. You and I meet here because
-we are compelled to – we have always met here.
-History is irredeemable.
-Drop a stone into a rushing river – the current simply courses around it and flows on as if
-the obstruction were never there. You and I are pebbles, Raziel, and have even less hope of
-disrupting the time-stream.
-The continuum of history is simply too strong, too resilient.
+...i głęboko zakorzeniony, Razielu.
+Musisz zrozumieć – nasza obecność tutaj nie zmienia historii.
+Spotykamy się tutaj, ponieważ jesteśmy do tego zmuszeni... od zawsze mieliśmy się tu spotkać.
+Nie da się zmienić biegu historii.
+Wrzuć kamień do wartkiej rzeki, a nurt po prostu go ominie i popłynie dalej,
+jak gdyby przeszkody nigdy nie było. Ty i ja jesteśmy zaledwie żwirkiem, Razielu,
+i mamy jeszcze mniejsze szanse na zakłócenie strumienia czasu.
+Kontinuum historii jest po prostu zbyt silne... zbyt oporne.
+A jednak... jak wyjaśnimy, co stało się z Wilhelmem?
+*Kain wskazuje na nagrobną podobiznę Wilhelma i odwraca się ku sarkofagowi.
+Ukochany młody król, który stał się tyranem.
+*Podnosi Grabieżcę Dusz z trumny i odwraca się z powrotem do Raziela, prezentując miecz.
+W młodości byłem świadkiem dojścia Wilhelma do władzy
+i jego przemiany w "Nemezisa", który pustoszył Nosgoth.
 
-#KAIN
-Except... then how do we explain William, here?
-*Kain gestures toward William's funereal effigy, and turns to face the sarcophagus.
-The beloved boy-king turned tyrant.
-*He lifts the Soul Reaver from the casket, and turns back to Raziel, flourishing the sword.
-In my youth, I witnessed William's rise to power, and his transformation into the 'Nemesis'
-who laid waste to Nosgoth.
 #RAZIEL
 [(steely)
-Keep your distance, Kain.
-*Kain walks slowly forward, Reaver in hand, as he speaks.
+Nie zbliżaj się, Kainie.
 
+*Kain idzie powoli naprzód, trzymając Grabieżcę, i mówi dalej.
 #ΚΑΙΝ
-Years later, I stumble upon a chance to journey back in history, unaware that the entire
-affair has been carefully orchestrated by Moebius.
-In my wisdom, I seize this opportunity to murder the young king before he can ravage
-Nosgoth...
-...and thereby provide the catalyst Moebius needs to ignite a genocidal war against our
-race.
-*Raziel grows more agitated as Kain advances.
+Lata później natrafiłem na możliwość cofnięcia się w czasie,
+nieświadom, że całe wydarzenie zostało starannie zaaranżowane przez Moebiusa.
+W swej naiwności skorzystałem z tej okazji, by zamordować młodego króla,
+zanim ten spustoszy Nosgoth... tym samym dostarczając Moebiusowi pretekstu
+do rozpętania ludobójczej wojny przeciwko naszej rasie.
+
+*Wraz z kolejnymi krokami Kaina Raziel staje się coraz bardziej niespokojny.
 #RAZIEL
-I warn you – no further!
-*Kain continues, his voice taking on a greater sense of urgency.
+Ostrzegam – ani kroku dalej!
+
+*Kain mówi dalej, a w jego głosie słychać coraz większą nagłość.
+#ΚΑΙΝ
+Ten jeden lekkomyślny czyn rozplątuje kłębek historii.
+Nemezis nigdy nie staje się Nemezisem. Wilhelm ginie jako uświęcony męczennik.
+Ja – wampirzy zabójca – staję się sprawcą zagłady własnego gatunku.
+A Moebius na tym wszystkim zyskuje. Zniszczyłem tyrana tylko po to,
+by powołać do życia jeszcze gorszego.
+*Kain wskazuje na witraż przedstawiający wyidealizowanego Wilhelma i
+*zdemonizowanego Kaina w walce, obu uzbrojonych w Grabieżcę Dusz.
+Ale jak to możliwe, skoro historia jest niezmienna?
+*Kain powoli zbliża się do Raziela, ściskając Grabieżcę. Wraz z jego podejściem
+*uczucie zniekształcenia staje się coraz silniejsze.
+Odpowiedź znajduje się w tej komnacie, Razielu.
+Moebius skłonił mnie i Wilhelma do starcia, lecz wcześniej dopilnował,
+abyśmy obaj dzierżyli Grabieżcę Dusz.
 
 #ΚΑΙΝ
-This one reckless act unravels the skein of history.
-The Nemesis never becomes the Nemesis; William dies a martyred saint.
-I, the vampire assassin, become the author of my own species' extinction.
-And Moebius profits from it all. I destroyed a tyrant only to create one far worse.
-*Kain gestures toward the stained glass window, which depicts a lionized William and a
-*demonized Kain in combat, both armed with the Soul Reaver.
-But how can it be so? How, if history is immutable?
-*Kain advances slowly on Raziel, gripping the Soul Reaver. As he approaches, the feeling of
-*displacement intensifies.
-The answer is here in this room, Raziel.
-Moebius propelled William and me together – but ensured first that we were both armed with
-the Soul Reaver.
+Grabieżca jest kluczem.
+Dwa wcielenia ostrza spotykają się w czasie i przestrzeni –
+powstaje paradoks – wyrwa w czasie dość potężna, by wykoleić bieg historii.
 
-#ΚΑΙΝ
-The Reaver is the key.
-Two incarnations of the blade meet in time and space... a paradox is created, a temporal
-distortion powerful enough to derail history.
-*As Kain takes a final step toward Raziel, the surrounding distortion reaches its peak, and
-*the wraith-blade begins to manifest of its own will. Raziel reacts in alarm –
+*Gdy Kain stawia ostatni krok w stronę Raziela, zniekształcenie osiąga szczyt,
+*a widmowe ostrze zaczyna materializować się z własnej woli. Raziel reaguje z niepokojem.
 #RAZIEL
-Is this your sorcery?
-#ΚΑΙΝ
-Not mine, Raziel – yours.
-You have nothing to fear from me, Raziel.
-You hold all the cards.
-
-*Kain turns the blade and extends it to Raziel, hilt first. Raziel reaches out tentatively
-*and takes the Reaver – Kain releases the blade willingly, and extends his hands to show
-*that there's no deception. As Raziel grips the hilt, the displacement intensifies around
-*them.
-*Raziel addresses Kain icily. As he speaks, the wraith energy of the Reaver manifests and
-*begins to twine itself around the physical blade.
-#RAZIEL
-Then perhaps I should test your sincerity.
-*Swiftly, Raziel brings the point of the blade up to Kain's throat. Kain steps back, and
-*Raziel advances with him, keeping the sword at his throat.
-If what you say is true, you should be terrified. I could kill you here and now.
-*Kain responds, clearly apprehensive, but also strangely resigned –
-#ΚΑΙΝ
-And so you do, Raziel.
-
-*The blade begins to tremble slightly, as if possessed of its own will. Raziel is confused
-*and alarmed –
-#RAZIEL
-What's happening?
-*The trembling intensifies as Raziel struggles against the pull of the Reaver.
-#ΚΑΙΝ
-We are hurtling toward our destinies, Raziel. What you feel is the pull of history rushing
-to meet us.
-This is where history and destiny collide.
-*The Reaver lunges at Kain – he stumbles against William's sarcophagus, and falls to the
-*ground. As Raziel fights to resist the pull of the blade, Kain urges him with earnest
-*intensity.
+Czy to jakieś twoje czary?
 
 #ΚΑΙΝ
-If you truly believe in free will, Raziel, now is the time to prove it.
-Kill me now, and we both become pawns of history, dragged down the path of an artificial
-destiny.
-I was ordained to assume the role of Balance Guardian in Nosgoth, while you were destined
-to be its savior. But the map of my fate was redrawn by Moebius, and so in turn was
-yours...
-*Raziel struggles to maintain control.
-#RAZIEL
-This is madness!
-#ΚΑΙΝ
-Fight it, Raziel... This moment does not have to be an ending – it can become a prelude.
+Nie moje, Razielu – twoje.
+Nie musisz się mnie obawiać, Razielu.
+To ty rozdajesz karty.
 
-*The pull of the Reaver is too powerful; Raziel is losing strength.
+*Kain odwraca ostrze i wyciąga je ku Razielowi, rękojeścią naprzód. Raziel niepewnie
+*wyciąga rękę i bierze Grabieżcę... Kain dobrowolnie puszcza klingę i rozkłada dłonie,
+*by pokazać, że nie ma w tym żadnego podstępu. Gdy Raziel zaciska dłoń na rękojeści,
+*zniekształcenie wokół nich przybiera na sile.
+*Raziel zwraca się do Kaina lodowatym tonem. W trakcie jego słów widmowa energia
+*Grabieżcy zaczyna się manifestować i oplatać materialne ostrze.
 #RAZIEL
-I can't...
-#ΚΑΙΝ
-You can, Raziel – look inside and see that it is so. You have the power to reshape our
-inevitable futures.
-*Raziel raises the Soul Reaver and brings it down violently. Kain turns his head and tenses
-*for the impact. The sword crashes downward in a blinding flash of light, and Raziel
-*staggers back, his hand now free of the blade.
-*Raziel has diverted the Reaver's course, avoiding Kain by mere inches – the blade stands
-*embedded in William's sarcophagus, the impact having fractured the stone.
-*Rising unsteadily, Kain regards the impaled, fractured coffin, and makes a weak attempt at
-*a joke –
-#ΚΑΙΝ
-...poor William.
+Więc może sprawdzę twoją szczerość.
+*Szybkim ruchem Raziel unosi czubek ostrza do gardła Kaina. Kain cofa się,
+*Raziel napiera na niego, nie odsuwając miecza od jego szyi.
+Skoro mówisz prawdę, powinieneś być przerażony. Mógłbym cię zabić tu i teraz.
 
-*At once, the room is overwhelmed by an indescribable disturbance – their surroundings warp
-*and blur, and a colossal groaning fills the air as history labors to admit this
-*alteration.
-*Raziel looks around the room in confusion and alarm.
+*Kain odpowiada – wyraźnie zaniepokojony, lecz zarazem w dziwny sposób pogodzony z losem.
+#ΚΑΙΝ
+I tak właśnie jest, Razielu.
+
+*Ostrze zaczyna lekko drżeć, jakby kierowane własną wolą.
+*Raziel jest zdezorientowany i zaniepokojony.
 #RAZIEL
-What is this?
+Co się dzieje?
+
+*Drżenie nasila się, gdy Raziel walczy z przyciąganiem Grabieżcy.
+#ΚΑΙΝ
+Pędzimy ku naszym przeznaczeniom, Razielu.
+To, co czujesz, to przyciąganie historii śpieszącej nam na spotkanie.
+Tu właśnie historia zderza się z przeznaczeniem.
+
+*Grabieżca rzuca się ku Kainowi. Ten potyka się o sarkofag Wilhelma i pada na ziemię.
+*Gdy Raziel usiłuje oprzeć się przyciąganiu ostrza, Kain nawołuje go z gorącą intensywnością.
+#ΚΑΙΝ
+Jeśli naprawdę wierzysz w wolną wolę, Razielu, teraz jest chwila, by to udowodnić.
+Zabij mnie teraz, a obaj staniemy się pionkami historii,
+wciągniętymi na ścieżkę sztucznego przeznaczenia.
+Powołano mnie na Strażnika Równowagi Nosgothu,
+a ciebie – na jego zbawcę.
+Lecz mapa mojego losu została przerysowana przez Moebiusa,
+a wraz z nią – twoja.
+
+*Raziel z trudem utrzymuje kontrolę.
+#RAZIEL
+To szaleństwo!
+
+#ΚΑΙΝ
+Walcz z tym, Razielu... Ta chwila wcale nie musi być końcem –
+a zaledwie preludium.
+
+*Przyciąganie Grabieżcy jest zbyt silne; Raziel słabnie.
+#RAZIEL
+Nie mogę...
+
+#ΚΑΙΝ
+Oczywiście, że możesz, Razielu – zajrzyj wgłąb siebie, by się o tym przekonać.
+Masz moc przepisania naszej nieuniknionej przyszłości.
+
+*Raziel unosi Grabieżcę Dusz i z furią opuszcza ostrze. Kain odwraca głowę
+*i napina się, oczekując uderzenia.
+*Miecz spada w dół w oślepiającym błysku światła, a Raziel zatacza się w tył,
+*mając już pustą dłoń.
+*Raziel zdołał odchylić tor Grabieżcy, mijając Kaina o włos – ostrze tkwi teraz
+*wbite w sarkofag Wilhelma, a siła uderzenia spękała kamień.
+*Kain podnosi się niepewnie, patrzy na przebitą, pękniętą trumnę
+i zdobywa się na słabą próbę żartu.
+#ΚΑΙΝ
+...biedny Wilhelm.
+
+*Nagle komnatę ogarnia niewyobrażalne zaburzenie – otoczenie wygina się i rozmywa,
+*a powietrze wypełnia potężny jęk, jak gdyby sama historia z wysiłkiem
+*przyjmowała tę zmianę.
+*Raziel rozgląda się po sali zdezorientowany i zaniepokojony.
+#RAZIEL
+Co to ma być?
+
 #KAIN
-History abhors a paradox, Raziel.
-Even now, the time-stream strains to divert itself, finding its old course blocked by your
-refusal to destroy me.
-The future is reshuffling itself to accommodate your monumental decision.
-*As Kain continues, the distortion begins to subside.
+Historia nie znosi paradoksów, Razielu.
+Nawet teraz strumień czasu usiłuje zmienić swój bieg,
+napotykając przeszkodę w postaci twojej odmowy zabicia mnie.
+Przyszłość przetasowuje się, by dostosować się do twojej monumentalnej decyzji.
+
+*Gdy Kain mówi dalej, zniekształcenie zaczyna ustępować.
+#ΚΑΙΝ
+Właśnie w tej chwili się odradzamy, Razielu,
+i odzyskujemy nasze właściwe przeznaczenia.
+Być może jeszcze zdołam objąć swoją rolę Strażnika Równowagi
+i zwrócić Filary ich prawowitym właścicielom...
+
+*Raziel przerywa z pogardą.
+#RAZIEL
+...wampirom.
+I to jest przeznaczenie, które chciałeś, bym odkrył?
+Nie wiem, w co ty i Moebius pogrywacie, Kainie, ale odmawiam bycia waszym pionkiem.
+W przeciwieństwie do ciebie wciąż szanuję resztki człowieczeństwa, które zachowałem.
+Nie zostanę narzędziem spełnienia twoich mesjańskich złudzeń.
+
+*Raziel odwraca się plecami do Kaina i wychodzi z kaplicy zdecydowanym krokiem.
+#ΚΑΙΝ
+Dobrze więc, Razielu. Nie proszę, żebyś mi zaufał –
+swoje prawdy musisz odkryć sam.
+
+*Raziel zatrzymuje się na chwilę i odpowiada, nie odwracając się.
+#RAZIEL
+Skromne słowa jak na kogoś, kto na każdym kroku próbuje mnie czegoś nauczyć.
 
 #ΚΑΙΝ
-This is where we restore ourselves, Raziel, and reclaim our intended destinies.
-It may yet be possible for me to assume my role as Balance Guardian and return the Pillars
-to their rightful inheritors –
-*Raziel interrupts disdainfully –
-#RAZIEL
-– to the vampires.
-And this is the destiny you have urged me to discover?
-I don't know what game you and Moebius are playing, Kain – but I refuse to be your pawn.
-Unlike you, I still revere whatever shred of humanity I've managed to preserve.
-You will not use me as the instrument of your messianic delusions.
-*Raziel turns his back on Kain and strides out of the chapel.
+Zatem kontynuuj swoją podróż i ucz z własnych lekcji.
+Ale pamiętaj – Moebius cię tu sprowadził, lecz odchodzisz stąd nieskrępowany.
+Jako orędownik wolnej woli i pogromca fałszywych historii.
 
-#ΚΑΙΝ
-Very well, Raziel. I'll not ask you to trust me – your truths are for you to discover
-alone.
-*Raziel pauses briefly, and replies without turning –
-#RAZIEL
-Humble words for one who presumes to teach me a lesson at every turn.
-#ΚΑΙΝ
-Then continue your journey and learn your own lessons, Raziel.
-Remember – Moebius led you here, but you walk away unfettered. A champion of free will, and
-conqueror of false histories.
-*Raziel stalks away without looking back.
+*Raziel odchodzi bez oglądania się za siebie.
 #KAIN
-There is much more for you to unearth, if you have the heart for the truth and the will to
-see it...
+Jest jeszcze wiele do odkrycia, o ile masz serce do prawdy
+i wolę, by ją dostrzec...
 
 -CHAPTER 9 – TIME STREAMING
 *Following his history-altering encounter with Kain in the chapel, Raziel returns to the
