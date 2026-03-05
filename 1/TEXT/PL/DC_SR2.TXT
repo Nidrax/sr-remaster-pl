@@ -710,37 +710,40 @@ skradzionego pięćset lat temu przez Sarafanów.
 Obawiam się, przyjacielu, że ty i my wszyscy nie mamy szczęścia.
 *Vorador znika, pozostawiając Raziela samego na tarasie.
 
--CHAPTER 7 – THE ELDER'S WARNING
-*After having met the vampire Vorador, unearthed the secrets of the Dark Forge, and
-*discovered more about the ancient architects of the Pillars, Raziel revisits the Elder God
-*in the subterranean Pillars chamber.
-#ELDER GOD
-Ah, my wayward child returns...
-#RAZIEL
-Having unearthed more than you'd like, I suspect.
-What am I to make of these ruins that litter the land, and these images here in this
-chamber?
-#ELDER GOD
-Merely the deceits of a failed civilization.
-You are being misled, Raziel.
-This ancient race hoped to manipulate the future with these scrawled misdirections.
+-ROZDZIAŁ 7 – OSTRZEŻENIE PRADAWNEGO
+*Po spotkaniu z wampirem Voradorem, odkryciu sekretów Mrocznej Kuźni
+*i poznaniu kolejnych faktów o pradawnych architektach Filarów,
+*Raziel ponownie odwiedza Pradawnego Boga w podziemnej komnacie Filarów.
+#PRADAWNY BÓG
+Ach, mój syn marnotrawny powraca...
 
-#ELDER GOD
-You must tread carefully.
-There are dark forces at work in this world, bent on subverting your true destiny.
 #RAZIEL
-I have no doubt of that.
-The question is: am I in their presence right now?
-#ELDER GOD
-Your arrogance will spell your demise, Raziel.
-Deny my will, and the arc of your destiny will reach a sudden conclusion.
+Odkrywszy więcej, niż byś sobie tego życzył, jak mniemam.
+Co mam sądzić o ruinach, którymi usiana jest ta kraina, oraz o malowidłach w tej komnacie?
+
+#PRADAWNY BÓG
+To jedynie kłamstwa upadłej cywilizacji.
+Dajesz się zwodzić, Razielu.
+Ta starożytna rasa łudziła się, że ich zwodnicze bazgroły odmienią przyszłość.
+Musisz postępować ostrożnie.
+Na tym świecie działają mroczne siły, chcące odwieść cię od twojego przeznaczenia.
+
 #RAZIEL
-Your threats are unmoving.
-Even now I'm beyond your reach.
-#ELDER GOD
-[(ominous)
-My reach is longer than you realize.
-This is a very dangerous game you're playing, Raziel...
+Nie mam co do tego wątpliwości.
+Pytanie brzmi: czy nie stoję teraz właśnie w ich obecności?
+
+#PRADAWNY BÓG
+Twoja arogancja cię zgubi, Razielu.
+Odrzuć moją wolę, a wątek twojego losu się niechybnie zakończy.
+
+#RAZIEL
+Twoje groźby nie robią na mnie wrażenia.
+Nawet teraz jestem poza twoim zasięgiem.
+
+#PRADAWNY BÓG
+[(złowieszczo)
+Mój zasięg jest dłuższy, niż ci się wydaje.
+Pogrywasz w bardzo niebezpieczną grę, Razielu...
 
 -CHAPTER 8 – HISTORY AND DESTINY COLLIDE
 *As Raziel enters the Relic Hall within the Sanctuary, he discovers the fresh corpse of one
