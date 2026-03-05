@@ -584,12 +584,12 @@ Zapomniałeś, że to ty zmusiłeś mnie do zamieszkiwania tego ohydnego truchł
 #PRADAWNY BÓG
 Przywróciłem ci twoją jaźń, Razielu. To Kain ciebie zniszczył.
 Wróg, któremu właśnie pozwoliłeś wymknąć ci się z rąk.
-[(threatening)
+[(grożąc)
 Nie zawódź mnie tak, mój sługo...
 #RAZIEL
 Nie służę nikomu – nie tobie, nie Kainowi... ani twemu sługusowi, Moebiusowi.
 #PRADAWNY BÓG
-[(ominously)
+[(złowrogo)
 Moebius jest moim dobrym sługą.
 Mam ich wielu.
 
@@ -627,96 +627,88 @@ Wyrwał duszę z twego szlachetnego ciała, a po tysiącu lat wiernej służby
 wrzucił cię do Otchłani w przypływie zazdrosnego kaprysu.
 Pamiętaj swój gniew, Razielu – niech prowadzi twą rękę.
 
--CHAPTER 6 – THE VAMPIRE VORADOR
-As Raziel exits the Dark Forge, he comes face to face with Vorador – the ancient vampire
-leans casually against a column at the Forge's entrance, apparently waiting for Raziel
-to emerge.
+-ROZDZIAŁ 6 – WAMPIR VORADOR
+*Gdy Raziel opuszcza Mroczną Kuźnię, staje twarzą w twarz z Voradorem,
+*starożytnym wampirem, który niedbale opiera się o kolumnę przy wejściu do Kuźni,
+*najwyraźniej czekając, aż Raziel się pojawi.
 #VORADOR
-You're a ragged excuse for a savior.
+Jak na zbawiciela wyglądasz dość nędznie.
 #RAZIEL
 Vorador.
 #VORADOR
-I see my reputation precedes me.
+Widzę, że moja reputacja mnie wyprzedza.
 #RAZIEL
-It does.
+W rzeczy samej.
 #VORADOR
-[(ironic)
-All good, I hope.
+[(ironicznie)
+Mam nadzieję, że w dobrym znaczeniu.
 
-*Vorador begins to walk slowly around Raziel as he speaks, examining him. He studies
-*Raziel's cloven hands – so like his own – his blue skin, his ragged wings. Raziel stands
-*still and allows Vorador to look him over.
+*Vorador zaczyna powoli krążyć wokół Raziela, przyglądając mu się uważnie.
+*Bada jego rozdwojone dłonie, tak podobne do własnych, jego niebieską skórę
+*i postrzępione skrzydła. Raziel stoi nieruchomo i pozwala mu się oglądać.
 #VORADOR
-I've been watching you since you emerged from that accursed stronghold.
-Strange that your arrival coincides with the corruption of the Pillars.
-But I'm wondering – are you the catalyst of these events, or the answer to them?
+Obserwuję cię od chwili, gdy wynurzyłeś się z tamtej przeklętej twierdzy.
+Dziwne, że twoje przybycie zbiega się ze skażeniem Filarów.
+Zastanawiam się jednak – czy jesteś katalizatorem tych wydarzeń, czy odpowiedzią na nie?
 #RAZIEL
-[(steely)
-I don't know what you mean.
-
+[(twardo)
+Nie wiem, co masz na myśli.
 #VORADOR
-I will speak plainly, then.
-I distrust your origins, stranger. Seeing you crawl from the putrid depths of Moebius's
-Keep makes me question your purpose here.
-And what should I make of your appearance? Not human, clearly – and more demon than
-vampire.
-And the Pillars – it is no mere coincidence that your arrival in that clearing heralded the
-Pillars' decay.
-And so I ask you plainly: are you the instrument of the Pillars' destruction, or their
-salvation?
+W takim razie powiem wprost.
+Nie ufam twemu pochodzeniu, nieznajomy. Widok ciebie wypełzającego
+z gnijących trzewi warowni Moebiusa wzbudza we mnie sporo wątpliwości.
+I co mam sądzić o twoim wyglądzie?
+Zdecydowanie nie jest ludzki – i bardziej demoniczny niż wampirzy.
+A Filary? To nie przypadek, że twoje przybycie na tamtą polanę zwiastowało ich rozkład.
+Dlatego pytam wprost: czy jesteś narzędziem zagłady Filarów, czy ich zbawienia?
 #RAZIEL
-Neither.
-
+Żadnym z nich.
 #VORADOR
-[(slightly annoyed)
-Very well, let us look at the other side of the coin –
-I have followed your journey, and watched as you blithely unlocked secrets that have been
-sealed and forbidden for thousands of years.
-The path you have been treading is open to only one being...
-*Vorador trails off, as he realizes –
-You don't know what you are, do you?
+[(lekko poirytowany)
+Dobrze więc. Spójrzmy na to z drugiej strony.
+Podążałem za tobą i patrzyłem, jak beztrosko otwierasz sekrety
+zapieczętowane i strzeżone od tysięcy lat.
+Ścieżka, którą kroczysz, rozpościera się tylko przed jedną istotą...
+*Vorador urywa, uświadamiając sobie coś.
+Nie masz pojęcia, czym jesteś, prawda?
 #RAZIEL
-I have been many things...
-If you find me ignorant, enlighten me.
-*Vorador simply laughs, and turns away in disgust.
-
+Byłem wieloma rzeczami...
+Jeśli uważasz mnie za nieświadomego, oświeć mnie.
+*Vorador tylko się śmieje i odwraca z niesmakiem.
 #VORADOR
-What's the point – this world is beyond redemption.
-Let the human cattle have it.
+Jaki w tym sens? Tego świata nie da się już odkupić.
+Niech ludzkie bydło go sobie weźmie.
 #RAZIEL
-I would expect better than meek capitulation from you.
+Oczekiwałbym po tobie czegoś więcej niż pokornej kapitulacji.
 #VORADOR
-Centuries of persecution have taught me well.
-500 years ago, our race was nearly exterminated by the fanatical crusades of the Sarafan.
-And now the same sick drama unfolds again. In merely a decade, Moebius's cutthroat citizen
-army has nearly accomplished what the Sarafan could not.
-[(then, to himself)
-Vampires meddling in the affairs of men...
-Look where it has brought us.
-
-*Raziel considers for a moment, then asks –
+Wieki prześladowań wiele mnie nauczyły.
+Pięćset lat temu nasza rasa została niemal zgładzona przez fanatyczne krucjaty Sarafanów.
+A teraz ta sama chora tragedia rozgrywa się ponownie. Żądna krwi armia wieśniaków Moebiusa
+w ledwie dekadę dokonała tego, czego nie zdołali Sarafanie.
+[(po chwili, do siebie)
+Wampiry mieszające się w sprawy ludzi...
+Spójrz, dokąd nas to doprowadziło.
+*Raziel przez chwilę się zastanawia, po czym pyta.
 #RAZIEL
-What am I to make of these secrets I've uncovered, then? The depictions of the winged race,
-the Pillars, and the Reaver?
-*Vorador turns back to Raziel as he responds –
+Co zatem mam sądzić o tych tajemnicach, które odkryłem?
+O przedstawieniach skrzydlatej rasy, Filarów i Grabieżcy?
+*Vorador odwraca się do Raziela, odpowiadając.
 #VORADOR
-Fairy tales, boy.
-The delusions of an ancient culture, clinging to hope long after the world had discarded
-them.
-Their bloodline trickled away, until only one of the Ancients remained – sustained solely
-by obligation and his unfaltering faith in the old prophesies.
-
-*Vorador strides closer to Raziel as he speaks, until they are face to face.
+Bajki, chłopcze.
+Urojenia starożytnej kultury, kurczowo trzymającej się nadziei długo po tym,
+jak świat ją odrzucił. Ich linia krwi stopniowo wygasła, aż pozostał tylko jeden z Pradawnych,
+podtrzymywany wyłącznie przez poczucie obowiązku i niezachwianą wiarę w dawne proroctwa.
+*Vorador podchodzi bliżej Raziela, aż stają twarzą w twarz.
 #VORADOR
-But you see, even if you are who you appear to be, it no longer matters...
-You're simply too late.
-Janos Audron – the Reaver Guardian, the last of the Ancients, and my maker – was murdered
-by the Sarafan nearly five centuries ago.
-He alone would have the answers you seek, but his secrets died with him.
-I don't know how you've come even this far without his guidance – or without the Reaver,
-stolen these 500 years ago by the Sarafan.
-I am afraid, my friend, that you – and all of us – are out of luck.
-*Vorador vanishes, leaving Raziel alone on the terrace.
+Lecz widzisz, nawet jeśli jesteś tym, na kogo wyglądasz, nie ma to już znaczenia...
+Po prostu się spóźniłeś.
+Janos Audron, Strażnik Grabieżcy, ostatni z Pradawnych i mój twórca,
+został zamordowany przez Sarafanów niemal pięć wieków temu.
+Tylko on znał odpowiedzi, których szukasz, lecz jego tajemnice umarły wraz z nim.
+Nie wiem, jak zdołałeś zajść tak daleko bez jego wskazówek ani bez Grabieżcy,
+skradzionego pięćset lat temu przez Sarafanów.
+Obawiam się, przyjacielu, że ty i my wszyscy nie mamy szczęścia.
+*Vorador znika, pozostawiając Raziela samego na tarasie.
 
 -CHAPTER 7 – THE ELDER'S WARNING
 *After having met the vampire Vorador, unearthed the secrets of the Dark Forge, and
