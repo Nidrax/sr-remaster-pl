@@ -1043,107 +1043,101 @@ Jest jeszcze wiele do odkrycia, o ile masz serce do prawdy
 i wolę, by ją dostrzec...
 
 
--CHAPTER 9 – TIME STREAMING
-*Following his history-altering encounter with Kain in the chapel, Raziel returns to the
-*Circle's gathering-room. Armed with the Light Reaver, he is now able to unlock the second
-*Time Streaming chamber.
-*Just as the chamber's door slides open, Moebius rushes into the room, shaken and alarmed.
-*He knows that Kain has survived what was supposed to have been a fatal encounter with
-*Raziel in the chapel, and that the course of history has therefore been changed.
-*Raziel greets Moebius smugly, realizing that he has the upper hand, and relishing it.
+-ROZDZIAŁ 9 – STRUMIENIOWANIE CZASU
+*Po spotkaniu z Kainem w kaplicy, które odmieniło bieg historii, Raziel powraca do
+*sali zgromadzeń Kręgu. Uzbrojony w Grabieżcę Światła, może teraz odblokować drugą
+*Komnatę Strumieniowania Czasu. Ledwie drzwi komnaty rozsuwają się,
+*do pomieszczenia wpada Moebius, wstrząśnięty i zaniepokojony.
+*Wie już, że Kain przeżył starcie z Razielem w kaplicy, które miało zakończyć się jego śmiercią,
+*i że bieg historii został tym samym zmieniony. Raziel wita Moebiusa z drwiącą satysfakcją,
+*świadomy swojej przewagi i wyraźnie się nią delektując.
 #RAZIEL
-Ah, yes – I like that look on your face, Moebius. You really don't know what to do now,
-do you, old man?
-Here you are – caught without your damned staff – and I suspect things aren't progressing
-quite as you'd hoped.
-You're not used to the fly turning to confront you in your web, are you?
+Ach, tak – podoba mi się twój wyraz twarzy, Moebiusie.
+Naprawdę nie wiesz, co robić... prawda, starcze?
+Oto jesteś – bez swojego przeklętego kostura –
+i mam wrażenie, że sprawy nie idą tak, jakbyś sobie życzył.
+Nie przywykłeś do tego, by mucha złapana w sieć ci się przeciwstawiła?
 
-*Genuinely shocked and distressed, Moebius struggles to regain control of the situation.
-*He admonishes Raziel.
+*Głęboko wstrząśnięty i zaniepokojony, Moebius próbuje odzyskać kontrolę nad sytuacją.
+*Upomina Raziela.
 #MOEBIUS
-Kain's devious influence has poisoned your mind, Raziel.
-Now you see betrayal everywhere, even in your closest allies.
+Przewrotne wpływy Kaina zatruły twój umysł, Razielu.
+Dostrzegasz zdradę wszędzie, nawet wśród najbliższych sojuszników.
 
 #RAZIEL
-We were never allies, Moebius.
-Conspirators, perhaps. Briefly.
-
-#MOEBIUS
-Why did you not kill Kain when you had the chance? He was at your mercy!
-
-#RAZIEL
-Precisely. I had a choice, and I chose mercy.
-And now I know your sordid little secret – the significance of that displacement I felt
-when the two Reavers came together.
-Strangely enough, I was enlightened by the 'devious' Kain, not by you.
-In fact, I've learned much more than you counted on – I understand now how you've tried to
-manipulate all of history for your own personal gain.
-But now all your little schemes are whirling in ruin around you, aren't they?
-All because I chose to exert my will for once, rather than obey the demands of sorcerers
-and spirits and demons all singing the same tiresome refrain: 'kill Kain!'
-I'm setting my own path from here, Moebius.
-I intend to discover the truth behind all of this.
+Nigdy nie byliśmy sojusznikami, Moebiusie.
+Co najwyżej spiskowcami. Przez chwilę.
 
 #MOEBIUS
-But you condemn us all with this impetuous act!
+Dlaczego nie zabiłeś Kaina, gdy miałeś ku temu okazję? Był na twojej łasce!
 
 #RAZIEL
-Hardly impetuous; it took all the will I could muster.
-Has my refusal to kill Kain reshuffled your carefully stacked deck of cards?
-
-*Moebius responds angrily.
-#MOEBIUS
-You really think that you're exercising your free will, Raziel?
-You're simply Kain's servant –
-
-#RAZIEL
-[(steely)
-I do not serve Kain. I merely did not kill him.
-
-*Desperate, Moebius implores Raziel.
-#MOEBIUS
-Raziel, do not forget your purpose here – you are destined to be the savior of Nosgoth!
-
-*Raziel replies disdainfully.
-#RAZIEL
-Oh, I'm sick of hearing that particular phrase.
-As for saving Nosgoth, so far I see precious little reason to bother.
-And I'll choose my own 'purpose' from here on out, Time-Streamer.
-Right now, I choose to manipulate you, for a change.
-Go – in there.
-
-*Raziel summons the wraith-blade and flourishes it at Moebius threateningly. Gesturing with
-*the Reaver, Raziel directs Moebius toward the Time Streaming chamber.
-*Moebius refuses to move.
-#MOEBIUS
-What are you doing?
-
-#RAZIEL
-Come now, Moebius – you're a cunning serpent... you'll piece it together, I imagine.
-
-*Raziel shoves Moebius and brandishes the Reaver to usher him into the chamber.
-#RAZIEL
-This era is of no further use to me. You will operate this device to provide me passage.
-I want to see the world in a simpler time – before the Sarafan began their crusade.
-
-*Moebius obediently adjusts the device's arcane switches, but continues to entreat Raziel.
-#MOEBIUS
-And what about Kain? You're leaving your quarry behind!
-
-#RAZIEL
-You kill him, if it's so damned important.
+W rzeczy samej. Miałem wybór i wybrałem łaskę.
+Teraz znam twój mały, plugawy sekret – znaczenie tego... dryfowania,
+które czułem, gdy Grabieżcy się połączyli.
+Co ciekawe – to właśnie ten "przewrotny" Kain mnie oświecił, nie ty.
+W rzeczywistości dowiedziałem się więcej, niż zakładałeś –
+Wiem o tym, jak próbowałeś manipulować historią dla własnych korzyści.
+Ale teraz wszystkie twoje intrygi legły w gruzach, prawda?
+Dlatego, że tym razem postanowiłem działać wedle własnej woli, zamiast słuchać żądań
+czarodziejów, duchów i demonów, powtarzających tę samą, nużącą mantrę: "zabij Kaina!".
+Od teraz sam wyznaczam sobie drogę, Moebiusie.
+Zamierzam odkryć prawdę, która stoi za tym wszystkim.
 
 #MOEBIUS
-You need only touch the two poles of the switch, and the device will transport you.
-But I urge you to reconsider –
+Tym porywczym czynem sprowadziłeś zgubę na nas wszystkich!
 
-*Raziel places his hands on the poles of the time-streaming device.
 #RAZIEL
-You've lost your powers of persuasion, old man.
-Rot here and forget me.
+Niezbyt porywczym; wymagał całej woli, jaką mogłem wykrzesać.
+Czy odmowa zabicia Kaina zburzyła twój misternie ustawiony domek z kart?
+*Moebius odpowiada gniewnie.
+#MOEBIUS
+Naprawdę myślisz, że korzystasz ze swojej wolnej woli, Razielu?
+Zwyczajnie przysługujesz się Kainowi...
 
-*Moebius turns away dejectedly, but once his face is averted he breaks into a cunning grin.
-*Raziel throws the switch, and the chamber blurs around him as he is swept to another time.
+#RAZIEL
+[(zimno)
+Nie służę Kainowi. Z ledwością go nie zabiłem.
+
+*Zdesperowany Moebius błaga Raziela.
+#MOEBIUS
+Razielu, nie zapominaj, w jakim celu tu jesteś – twoim przeznaczeniem jest zbawić Nosgoth!
+*Raziel odpowiada z pogardą.
+#RAZIEL
+Mam już dość słuchania tego zdania.
+Póki co nie widzę najmniejszego powodu, by ratować Nosgoth.
+Sam będę wybierał sobie "cel", Szwaczu Czasu.
+A teraz – dla odmiany – to ja pomanipuluję tobą.
+Do środka, migiem.
+*Raziel przywołuje Widmowe Ostrze i groźnie wymachuje nim przed Moebiusem. Gestem
+*Grabieżcy nakazuje mu podejść do Komnaty Strumieniowania Czasu.
+
+*Moebius odmawia ruszenia się z miejsca.
+#MOEBIUS
+Co czynisz?
+
+#RAZIEL
+No dalej, Moebiusie – jesteś szczwanym lisem... wierzę, że się domyślasz.
+*Raziel popycha Moebiusa i wymachując Grabieżcą zagania go do komnaty.
+#RAZIEL
+Ta era nie ma mi już nic do zaoferowania. Uruchomisz to urządzenie i umożliwisz mi podróż.
+Chcę ujrzeć świat za prostszych czasów, zanim Sarafani rozpoczęli swoją krucjatę.
+*Moebius posłusznie przestawia tajemne przełączniki urządzenia, lecz nadal próbuje
+*przemówić Razielowi do rozsądku.
+#MOEBIUS
+A co z Kainem? Porzucasz swą zdobycz!
+
+#RAZIEL
+Sam go sobie zabij, skoro to takie ważne.
+
+#MOEBIUS
+Wystarczy, że dotkniesz dwóch biegunów przełącznika, a urządzenie cię przeniesie.
+Lecz błagam, przemyśl to jeszcze...
+*Raziel kładzie dłonie na biegunach urządzenia do strumieniowania czasu.
+#RAZIEL
+Straciłeś dar przekonywania, starcze. Zgnij tu i zapomnij o mnie.
+*Moebius odwraca się przygnębiony, lecz gdy tylko odwraca twarz, na jego ustach pojawia się chytry uśmiech.
+*Raziel przełącza dźwignię, a komnata rozmywa się wokół niego, gdy zostaje porwany do innego czasu.
 
 
 -CHAPTER 10 – MOEBIUS'S MARTYRED SPIRIT
