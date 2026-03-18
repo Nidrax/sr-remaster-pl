@@ -1,96 +1,94 @@
 -PROLOG
 *Minęło tysiąc lat, odkąd Kain ustanowił swą stolicę pośród ruin Filarów Nosgothu
 *i rozpoczął podbój świata.
-*Kain, arogancki "mroczny bóg", spoczywa niedbale na swym tronie. Dzierży Grabieżcę Dusz –
-*dłoń opiera na jelcu, a ostrze kieruje ku dołowi.
+*Kain – arogancki "mroczny bóg", spoczywa niedbale na swym tronie.
+*Dzierży Grabieżcę Dusz, dłoń opiera na jelcu, a ostrze kieruje ku dołowi.
 *Filary uległy przeobrażeniu – wokół ich zrujnowanych trzonów wzniesiono ogromną,
-*misterną świątynię, a one same zajmują przestrzeń pod potężną centralną kopułą.
-*kopułą budowli.
-*Kain umieścił swój tron pośrodku piedestału, u podstawy Filaru
-*Równowagi (ironicznego symbolu nowego porządku).
-*Przestrzeń zdobią bogate insygnia klanów, zawieszone wokół obrzeży
-*centralnej kopuły. Na obrzeżach Filarów stoją przedstawiciele wampirzych klanów,
-*obserwując rozwijający się dramat.
+*misterną świątynię, a one same zajmują przestrzeń pod potężną centralną kopułą budowli.
+*Kain umieścił swój tron pośrodku piedestału, u podstawy Filaru Równowagi (ironicznego
+*symbolu nowego porządku).
+*Przestrzeń zdobią bogate insygnia klanów, zawieszone wokół obrzeży centralnej kopuły.
+*Na obrzeżach stoją przedstawiciele wampirzych klanów, obserwując rozwijający się dramat.
+
 #RAZIEL V.O.
 [(zaczyna powoli, z ironią)
 Kain jest ubóstwiany. Klany opowiadają o nim legendy... niewielu zna prawdę.
-Był kiedyś śmiertelnikiem – jak my wszyscy.
-Jednakże, jego pogarda wobec ludzi popchnęła go do stworzenia mnie i moich braci.
-*Wtedy Raziel wchodzi w kadr, krocząc ku tronowi Kaina –
-Jestem Raziel – pierworodny spośród jego poruczników.
-Stałem przy boku Kaina i moich braci u świtu imperium.
-Służyłem mu całe tysiąclecie.
-*Oczy Kaina zwężają się, gdy spogląda na Raziela. Pochyla się na tronie,
-*wysuwając się naprzód i przyglądając mu się uważnie.
+Był kiedyś śmiertelnikiem – jak my wszyscy. Jednakże, jego pogarda wobec ludzi
+popchnęła go do stworzenia mnie i moich braci.
+*Wtedy Raziel wchodzi w kadr, krocząc ku tronowi Kaina.
+Jestem Raziel – pierworodny spośród jego poruczników. Stałem przy boku Kaina i moich braci
+u świtu imperium. Służyłem mu całe tysiąclecie.
+*Oczy Kaina zwężają się, gdy spogląda na Raziela. Pochyla się na tronie, wysuwając się
+*naprzód i przyglądając mu się uważnie.
+
 #RAZIEL V.O.
 Z czasem stawaliśmy się coraz mniej ludzcy, a bardziej...
 [(szukając właściwego słowa)
 ...boscy. Kain wkraczał w stan przemiany i tak otrzymywał nowy dar.
-*Raziel staje pośrodku piedestału Filarów, przed tronem Kaina,
-*i odwzajemnia jego spojrzenie z jawnym buntem.
-#RAZIEL V.O.
+*Raziel staje pośrodku piedestału Filarów, przed tronem Kaina, i odwzajemnia jego spojrzenie
+*z jawnym buntem.
 Kilka lat po nim następowała także nasza ewolucja.
 *Raziel powoli skłania się w ukłonie, odsłaniając skrzydła, które leniwie się rozwijają.
 *Unosi pochyloną głowę, by wybadać reakcję Kaina.
+
 #RAZIEL V.O.
 [(z ironią)
 Aż pewnego dnia dostąpiłem zaszczytu przewyższenia mego pana.
-*Wyraz twarzy Kaina zmienia się, gdy skrzydła Raziela wychodzą na jaw. Dziwne oblicze,
-*zdradzające różne emocje, lecz – osobliwie – nie zaskoczenie.
+*Wyraz twarzy Kaina zmienia się, gdy skrzydła Raziela wychodzą na jaw. Pojawia się na
+*niej dziwny grymas, zdradzający różne emocje, lecz – osobliwie – nie zaskoczenie.
 *Kain podchodzi do Raziela, okrąża go i mierzy wzrokiem od stóp do głów. Nagle, brutalnie,
-*chwyta jego skrzydła i wyrywa je z pleców. Raziel ugina się w agonii.
-#RAZIEL V.O.
-Za to wykroczenie zostałem nagrodzony w zupełnie nowy sposób... agonią.
+*chwyta jego skrzydła i wyrywa je z pleców. Raziel upada agonii.
+Za to wykroczenie zostałem nagrodzony w zupełnie nowy sposób – agonią.
+
 *Na urwiskach Jeziora Umarłych – nad jego gwałtownie wirującą czeluścią – Kain zasiada
-*na krańcu pomostu ofiarnego, wpatrzony we wzburzone głębiny poniżej. Dwaj
-*porucznicy wloką skrępowanego Raziela naprzód, a jego połamane skrzydła zwisają bezwładnie
-*z pleców. Pozostałych trzech poruczników podąża za nimi.
+*na krańcu pomostu ofiarnego, wpatrzony we wzburzone głębiny poniżej. Dwaj porucznicy
+*wloką skrępowanego Raziela naprzód, a jego połamane skrzydła zwisają bezwładnie z pleców.
+*Pozostałych trzech poruczników podąża za nimi.
 #RAZIEL V.O.
 Mógł mnie spotkać tylko jeden los – wieczne potępienie.
 *Kain stoi przy samym skraju, spoglądając w dół, ku wirującej otchłani. Mimo potworności
 *swego zamiaru wygląda heroicznie, niemal monumentalnie. Jego wyraz twarzy jest
 *głęboki, nieprzenikniony. Wstaje, wciąż patrząc w otchłań, otrzepuje dłonie i odwraca
 *się, by zejść z pomostu.
-#RAZIEL V.O.
 Ja – Raziel – miałem podzielić los zdrajców i słabeuszy, płonąc całą wieczność w
 odmętach Jeziora Śmierci.
-*Mija poruczników długim krokiem i, nawet nie spojrzawszy na Raziela, rozkazuje im
+
+*Kain mija poruczników długim krokiem i, nawet nie spojrzawszy na Raziela, rozkazuje im
 *wrzucić go do wiru.
 #KAIN
 Wrzucić go!
+
 #RAZIEL
 [(szamocze się, po czym krzyczy, gdy zostaje wrzucony w wir)
+
 *Raziel koziołkuje w powietrzu, spadając ku czeluści, a jego połamane skrzydła trzepoczą
 *bezużytecznie. Pędzi ku wirującej topieli.
-*Raziel wpada w wodę; opada i jest miotany przez wir, płonąc i wijąc się z bólu.
-*Z jego ciała unoszą się pęcherze, gdy woda trawi je niczym kwas –
-*staje w białym jak magnez ogniu. Gdy jego ciało rozpływa się w nicość,
-*dolna szczęka zostaje wyrwana, a skrzydła i płaszcz zamieniają się w strzępy.
+*Raziel wpada w wodę; tonie i jest miotany przez wir, płonąc i wijąc się z bólu.
+*Z jego ciała unoszą się pęcherze, gdy woda trawi je niczym kwas – staje w białym
+*jak magnez ogniu. Gdy jego ciało rozpływa się w nicość, dolna szczęka zostaje wyrwana,
+*a skrzydła i płaszcz zamieniają się w strzępy.
 #RAZIEL V.O.
 Spadając i płonąc białym ogniem, pogrążałem się w czeluściach otchłani.
 Niewymowny ból... nieustępliwa agonia... czas przestał istnieć...
-pozostało jedynie cierpienie... i pogłębiająca się nienawiść dla hipokryzji, która skazała
-mnie na to piekło.
-*Po wieczności spadania Raziel wreszcie nieruchomieje. Jego ciało jest spalone, zniszczone,
-*sprowadzone do kości i ścięgien – na pierwszy rzut oka martwe. Leży na tajemniczej,
-*kamiennej posadzce pokrytej rytymi spiralami. W głębi tego pradawnego miejsca panuje
-*nienaturalna cisza i bezruch.
-#RAZIEL V.O.
+pozostało jedynie cierpienie... i pogłębiająca się nienawiść dla hipokryzji,
+która skazała mnie na to piekło.
+*Po wieczności spadania Raziel wreszcie nieruchomieje. Jego ciało jest spalone, zniszczone –
+*zredukowane do kości i ścięgien, na pierwszy rzut oka martwe.
+*Leży na tajemniczej, kamiennej posadzce pokrytej rytymi spiralami.
+*W głębi tego pradawnego miejsca panuje nienaturalna cisza i bezruch.
 Wieczność minęła, a ma udręka ustąpiła, sprowadzając mnie z powrotem znad skraju szaleństwa.
 *Świat wokół niego zaczyna się widocznie przeobrażać, a Raziel powoli przybiera swą ostateczną
 *postać. Jego ciemne oczodoły płoną nadnaturalnym, białym żarem, skóra nabiera sinawych tonów,
 *a wokół oczu pojawiają się czarne smugi. Włosy i skrzydła opadają bezwładnie, jakby
 *nie spoczywał już pod wodą. Raziel unosi się najpierw na dłoniach, potem na kolanach. Wstając,
-*bada swoje nowe ciało – ogląda dłonie i wyczuwa pustkę tam, gdzie powinna być dolna
-*szczęka.
-#RAZIEL V.O.
-Upadek mnie zniszczył... a mimo to... żyłem.
-*Gdy wyprostowuje się na pełną wysokość, otula ramiona strzępami płaszcza i
-*ukrywa twarz, pozostawiając widoczne jedynie swe upiorne oczy. Odsłania się
-*komnata przypominająca pradawną pieczarę; ściany i posadzka pokryte są tysiącami rzeźbionych,
-*przenikających się spiral. To miejsce jest nierealne, o niemożliwych liniach perspektywy,
-*a architektura załamuje się w skrajnie ekspresjonistyczne kształty. Raziel ginie w ogromie
-*tej przestrzeni.
+*bada swoje nowe ciało – ogląda dłonie i wyczuwa pustkę tam, gdzie powinna być dolna szczęka.
+Upadek mnie zniszczył, a mimo to... żyłem.
+*Gdy wyprostowuje się na pełną wysokość, otula ramiona strzępami płaszcza i ukrywa twarz,
+*pozostawiając widoczne jedynie swe upiorne oczy. Odsłania się komnata przypominająca
+*pradawną pieczarę; ściany i posadzka pokryte są tysiącami rzeźbionych, przenikających się
+*spiral. To miejsce jest nierealne, o niemożliwych liniach perspektywy, a architektura
+*załamuje się w skrajnie ekspresjonistyczne kształty. Raziel ginie w ogromie tej przestrzeni.
+
 *Z mroku wyłania się bulgoczący, obcy głos.
 #PRADAWNY BÓG
 [(powoli)
@@ -98,88 +96,86 @@ Razielu...
 *Raziel obraca się gwałtownie, zaskoczony, i spogląda w mrok ku tajemniczemu, zmiennemu
 *kształtowi – źródłu tego głosu. Bóstwo oraz otaczające je ściany pokrywają niezliczone,
 *wpatrzone oczy.
-*Głos boga brzmi obco, wodniście i szorstko, niosąc wyraźne wrażenie,
-*że przemawia istota starsza niż pamięć świata.
+*Głos boga brzmi obco, wodniście i szorstko, niosąc wyraźne wrażenie, iż należy do istoty
+*starszej niż pamięć świata.
 #PRADAWNY BÓG
 [(powoli, przeciągle)
 Jesteś godzien.
 
+
 -ROZDZIAŁ 1 – MROCZNE PRZYMIERZE
 *Raziel został uratowany przed całkowitym zapomnieniem przez tajemniczego dobroczyńcę –
-*Pradawnego Boga zamieszkującego głębiny otchłani.
-*Pradawny oferuje Razielowi układ: ma zostać jego "żniwiarzem",
-*aniołem śmierci, zgładzić odstępcze dusze wampirów – w zamian będzie mógł powrócić
-*do Nosgothu i dokonać zemsty.
+*Pradawnego Boga zamieszkującego głębiny otchłani. Pradawny oferuje Razielowi układ:
+*ma zostać jego "żniwiarzem", aniołem śmierci, zgładzić odstępcze dusze wampirów –
+*w zamian będzie mógł powrócić do Nosgothu i dokonać zemsty.
 #PRADAWNY BÓG
 Znam cię, Razielu. Jesteś godzien.
+
 #RAZIEL
 [(rozglądając się, oszołomiony)
 Co to za szaleństwo? Cóż to za żałosna forma, ktorą teraz zamieszkuję? Smierć byłaby
 wyzwoleniem w porównaniu do tej kpiny.
+
 #PRADAWNY BÓG
 [(poprawiając go)
 Nie przetrwałeś otchłani, Razielu. Oszczędziłem cię jedynie przed całkowitym rozpadem.
+
 #RAZIEL
 [(rozwścieczony)
 Wolę zapomnienie od tego bytu!
+
 #PRADAWNY BÓG
 Nie tobie o tym decydować.
+
 #RAZIEL
 [(cierpiący, opuszczony)
 Jestem zniszczony!
+
 #PRADAWNY BÓG
 [(asertywnie, powoli)
 Jesteś ODRODZONY.
-#PRADAWNY BÓG
-Narodziny każdej z plugawości Kaina usidlają istotę życia. To ta dusza napędza ciało,
-w którym niegdyś przyszło ci "żyć".
-A to, Razielu, jest zagładą dla Nosgothu. Brakuje równowagi, dusze zmarłych pozostają
-uwięzione. Nie mogę nimi obracać w Kole Przeznaczenia – nie są w stanie wypełnić
-swojego losu.
+Narodziny każdej z plugawości Kaina usidlają istotę życia.
+To ta dusza napędza ciało, w którym niegdyś przyszło ci "żyć". A to, Razielu,
+jest zagładą dla Nosgothu. Brakuje równowagi, dusze zmarłych pozostają uwięzione.
+Nie mogę nimi obracać w Kole Przeznaczenia – nie są w stanie wypełnić swojego losu.
 Odkup swe winy lub – jeśli wolisz – zemścij się.
-Rozstrzygnij swój zatarg z Kainem –
-zniszcz jego i swoich braci. Uwolnij ich dusze, pozwalając Kołu Przeznaczenia znów
-się obracać.
-Użyj swej nienawiści, aby ograbić ich z dusz...
-Mogę ci to umożliwić.
+Rozstrzygnij swój zatarg z Kainem – zniszcz jego i swoich braci.
+Uwolnij ich dusze, pozwalając Kołu Przeznaczenia znów się obracać.
+Użyj swej nienawiści, aby ograbić ich z dusz... Mogę ci to umożliwić.
 Zostań moim grabieżcą dusz, mym aniołem śmierci...
+
 
 -ROZDZIAŁ 2 – RUINY IMPERIUM
 *Raziel, teraz ledwie opierzony anioł śmierci Pradawnego Boga, wynurza się na powierzchnię
-*i natychmiast zostaje zaatakowany przez zdegenerowane potomstwo swych dawnych braci, które
-*przez wieki zstąpiło do postaci potwornych kreatur.
-*Raziel wychodzi z tunelu na dziedziniec. Idąc powoli naprzód, spogląda w lewo,
-oszołomiony tym, co widzi.
+*i natychmiast zostaje zaatakowany przez zdegenerowane potomstwo swych dawnych braci,
+*które przez wieki zstąpiło do postaci potwornych kreatur. Następnie wychodzi z tunelu
+*na dziedziniec. Idąc powoli naprzód, spogląda w lewo, oszołomiony tym, co widzi.
 #RAZIEL
 [(z zachwytem przerażenia)
 Mój Boże!
-*Otaczająca go architektura jest dla Raziela pierwszą wyraźną wskazówką, ile czasu upłynęło
-*między jego egzekucją a wskrzeszeniem.
-#RAZIEL V.O.
+*Otaczająca go architektura jest dla Raziela pierwszą wyraźną wskazówką,
+*ile czasu upłynęło między jego egzekucją a wskrzeszeniem.
 Sanktuarium klanów obrócone w ruinę...
-Za tymi murami znajdowały się Filary Nosgothu, siedziba imperium Kaina.
-Jakże skromnie teraz wyglądały, pozostając jedynie cieniem swej dawnej świetności.
-Dopiero co się pojawiłem...
+Za tymi murami znajdowały się Filary Nosgothu, siedziba imperium Kaina. Jakże skromnie
+teraz wyglądały, pozostając jedynie cieniem swej dawnej świetności. Dopiero co się pojawiłem...
 Od momentu mojej egzekucji aż do wskrzeszenia najwidoczniej minęły wieki...
+
 *Ziemia zaczyna gwałtownie drżeć; Raziel omal nie traci równowagi.
 #PRADAWNY BÓG
 Ten świat nękają kataklizmy – ziemia próbuje strząsnąć z siebie zarazę pasożytniczego
-imperium Kaina.
-#PRADAWNY BÓG
-Los świata został przypieczętowany decyzją jednego człowieka.
-Odmawiając poświęcenia się w celu przywrócenia równowagi, Kain skazał Nosgoth na
-samoistne gnicie, które teraz widzisz.
-Zapoczątkował wtedy reakcję, która teraz chyli się ku końcowi.
+imperium Kaina. Los świata został przypieczętowany decyzją jednego człowieka.
+Odmawiając poświęcenia się w celu przywrócenia równowagi, Kain skazał Nosgoth na samoistne
+gnicie, które teraz widzisz. Zapoczątkował wtedy reakcję, która teraz chyli się ku końcowi.
 Nosgoth znajduje się na skraju zagłady – jego kruchej równowagi nie da się już utrzymać.
+
 
 -ROZDZIAŁ 3 – PUSTKOWIE
 *Powracając na ofiarne klify nad Jeziorem Umarłych, Raziel wchodzi na główną platformę
 *i podchodzi do jej krawędzi, spoglądając w wirującą otchłań poniżej.
 #RAZIEL V.O.
-Przynajmniej jedno się nie zmieniło. Wiecznie obracający się wir otchłani. Mój grób,
-a jednocześnie łono w którym się odrodziłem.
+Przynajmniej jedno się nie zmieniło. Wiecznie obracający się wir otchłani –
+mój grób, a jednocześnie łono, w którym się odrodziłem.
 *Podnosi się i rozgląda po okolicy.
-#RAZIEL V.O.
 Choć krajobraz Nosgothu w znacznym stopniu się zmienił, te klify zdradzały moje położenie.
 Terytorium mojego klanu znajdowało się na zachodzie – zastanawiało mnie, jak moi potomkowie
 dawali sobie radę przez wieki mojej nieobecności.
@@ -191,10 +187,11 @@ dawali sobie radę przez wieki mojej nieobecności.
 Zupełne spustoszenie. Moi niegdyś dumni potomkowie zmieceni jak odchody spod buta.
 Wiedziałem, czyje było to dzieło...
 
+
 -ROZDZIAŁ 5 – OGRODY ŚMIERCI
 *Po starciu z rozkładającymi się, upiornymi monstrami oraz rozpoznaniu symboli klanu
-*Melchii, nabazgranych na murach Nekropolii, Raziel uświadamia sobie, że te
-*istoty przypominające zombie są w istocie potomstwem jego dawnego brata, Melchii.
+*Melchii, nabazgranych na murach Nekropolii, Raziel uświadamia sobie, że te istoty
+*przypominające zombie są w istocie potomstwem jego dawnego brata, Melchii.
 *Widząc splądrowane groby i krypty, Raziel pojmuje, że Melchaimowie ograbili Nekropolię
 *z ciał, by w ten sposób pozyskiwać nowych wampirów.
 #RAZIEL V.O.
@@ -202,14 +199,13 @@ Ten grobowiec niewątpliwie nosi ślady klanu Melchii. Jak nisko upadł nasz ró
 ghule są potomkami mego wysoko urodzonego brata?
 Czyżby zniżyli się do wykorzystywania pochowanych tutaj wysuszonych zwłok?
 *Raziel natrafia na płaskorzeźbę przedstawiającą Melchię w jego niemal ludzkiej postaci.
-*To monumentalne, heroiczne wyobrażenie – w ostrym kontraście do pełzających,
+*Jest to monumentalne, heroiczne wyobrażenie – stojące w ostrym kontraście do pełzających,
 *zdegenerowanych Melchaimów czających się tuż za kolejną bramą.
-#RAZIEL V.O.
 Mój brat Melchiah został stworzony jako ostatni i dlatego otrzymał najmniejszą część daru
 Kaina. Jego dusza, choć nieśmiertelna, nie mogła utrzymać ciała, które zachowało wiele ze
-swojej ludzkiej delikatności.
-Najwidoczniej ta słabość została przekazana jego potomstwu. Ich rozpadająca się skóra ledwie
-wytrzymywała wewnętrzne gnicie.
+swojej ludzkiej delikatności. Najwidoczniej ta słabość została przekazana jego potomstwu.
+Ich rozpadająca się skóra ledwie wytrzymywała wewnętrzne gnicie.
+
 
 -ROZDZIAŁ 6 – ROZDŹWIĘK POMIĘDZY BRAĆMI
 *Gdy Raziel dociera do najgłębszych partii Nekropolii i zbliża się do pogrążonego w cieniu
@@ -217,58 +213,69 @@ wytrzymywała wewnętrzne gnicie.
 *dobiegają osobliwe odgłosy – przytłumione jęki i skrzypienie jakiegoś ciężkiego ciała.
 #DZIWNE DŹWIĘKI
 [(przytłumione jęki, stęknięcia i westchnienia)
+
 #RAZIEL
 [(zwracając się ku pogrążonemu w cieniu podestowi)
 Pokaż się, stworze!
+
 #MELCHIAH
 [(z sarkazmem)
 Nie poznajesz mnie, bracie?
 [(wychodzi w światło, w pełni ukazując swoje potworne oblicze)
 Czyżbym aż tak się zmienił?
+
 *Zanim Raziel wkracza do komnaty, widział już, jak dalece zdegradowali się Melchahim.
 *Mimo to konfrontacja z bratem okazuje się wstrząsem – nawet po wszystkim, czego był
-*świadkiem, nie jest przygotowany na jego potworny wygląd. To dobitny znak, że ewolucja
-*wampirów przybrała przerażający obrót po jego egzekucji.
+*świadkiem, nie jest przygotowany na jego potworny wygląd.
+*To dobitny znak, że ewolucja wampirów przybrała przerażający obrót po jego egzekucji.
 #RAZIEL
 [(z odrazą po rozpoznaniu)
 Melchiah?
+
 #MELCHIAH
 Tak, bracie.
-Powinieneś był pozostać tam, gdzie posłał cię pan, Razielu. Przekonasz się, że Nosgoth nie
-jest tak przyjazny, jak kiedyś.
+Powinieneś był pozostać tam, gdzie posłał cię pan, Razielu.
+Przekonasz się, że Nosgoth nie jest tak przyjazny, jak kiedyś.
+
 #RAZIEL
-Co się stało z moim klanem? Odpowiedz, braciszku, albo siłą wyrwę odpowiedź
-z twych parszywych ust.
+Co się stało z moim klanem?
+Odpowiedz, braciszku, albo siłą wyrwę odpowiedź z twych parszywych ust.
+
 #MELCHIAH
 Każdy się czegoś boi, bracie. Zbudziłeś się w świecie terroru.
 Te odmienione czasy są wyjątkowo... niepokojące.
 Uważasz, że nie odczuwam wstrętu do tej postaci? Naprawdę myślałeś,
 że nasz pan zaryzykowałby bezpieczeństwo imperium dla dziedzica parweniusza?
+
 #RAZIEL
 Dość zagadek. Co masz na myśli?
+
 #MELCHIAH
 Jesteś ostatnim... który musi zginąć...
+
 *Raziel więzi Melchię w centralnej klatce i sięga po dźwignię.
 #RAZIEL
 [(groźnie)
 Powiedz mi, Melchio – gdzie znajdę Kaina?
+
 #MELCHIAH
 Pan jest poza twoim zasięgiem, Razielu.
 [(pauza)
 Daje o sobie znać, gdy sam uzna to za słuszne, a nie z rozkazu.
-#MELCHIAH
 [(umierając w agonii)
 *I wreszcie:
-#MELCHIAH
 [(ostatnim tchem)
 Jestem wolny...
-*Wstrząs po pożarciu duszy Melchii rzuca Raziela na kolana. Jest wyczerpany; iskry energii
-*przebiegają po jego ciele.
+
+*Wstrząs po pożarciu duszy Melchii rzuca Raziela na kolana.
+*Jest wyczerpany; iskry energii przebiegają po jego ciele.
 #PRADAWNY BÓG
 Dobrze się spisałeś, Razielu.
+
 #RAZIEL
 [(wyczerpany, wściekły)
 Aż tak nisko upadłem? Do bycia ghulem? Bratobójcą?
+
 #PRADAWNY BÓG
 [(poprawiając go)
 Wzniosłeś Razielu, nie upadłeś.
@@ -278,9 +285,9 @@ Pochłonięcie duszy Melchii obdarzyło cię nowym darem.
 Kraty, które nie stanowią litego muru, nie stawią ci już oporu w sferze widmowej.
 Będziesz mógł przez nie przeniknąć, gdy tylko zechcesz.
 *Gdy Raziel opuszcza Nekropolię, Pradawny Bóg udziela mu następującej wskazówki:
-#PRADAWNY BÓG
 Dzięki darowi Melchii możesz kontynuować swoją podróż. Powróć do siedziby przeklętego imperium
 Kaina – w sterylnej ciszy skrywa tajemnice, które dopiero czekają na ujawnienie.
+
 
 -ROZDZIAŁ 7 – PROROCZA KONFRONTACJA
 *Raziel po raz pierwszy staje twarzą w twarz z Kainem wewnątrz zniszczonych i opuszczonych
@@ -290,35 +297,43 @@ Kaina – w sterylnej ciszy skrywa tajemnice, które dopiero czekają na ujawnie
 #KAIN
 [(bez emocji; jego intencji nie sposób odczytać)
 Raziel.
+
 #RAZIEL
 [(zaskoczony, wściekły)
 Kain!
+
 #KAIN
 [(sarkastycznie, komentując wygląd Raziela)
 Odchłań okazała się niezbyt życzliwa.
 *Kain podnosi się i zaczyna zbliżać do Raziela – swobodnym, lecz groźnym krokiem.
+
 #RAZIEL
 [(lodowato)
 Jestem twoim dziełem, Kainie – tak teraz, jak i wcześniej. Krytykujesz pracę własnych rąk.
 Co zrobiłeś z moim klanem, zwyrodnialcu? Nie masz prawa...
+
 #KAIN
 [(głośno, przerywając)
 Cóżem stworzył, mogę i zniszczyć, smarkaczu.
+
 #RAZIEL
 [(kipiąc gniewem)
-Niech cię diabli, Kain! Nie jesteś Bogiem! Jak mogłeś z czystym sumieniem dopuścić się
-takiego ludobójstwa?!
+Niech cię diabli, Kain! Nie jesteś Bogiem!
+Jak mogłeś z czystym sumieniem dopuścić się takiego ludobójstwa?!
+
 #KAIN
 [(tracąc cierpliwość)
-Sumienie...? Masz czelność mówić mi o sumieniu? Dopiero gdy odczujesz konsekwencje swych
-wyborów, będziesz miał prawo kwestionować mój osąd!
+Sumienie...? Masz czelność mówić mi o sumieniu? Dopiero gdy odczujesz konsekwencje
+swych wyborów, będziesz miał prawo kwestionować mój osąd!
 Długość twojego życia to zaledwie mrugnięcie okiem wobec ogromu wątpliwości i
 ubolewania, które dźwigam, odkąd Mortanius zawrócił mnie znad progu śmierci...
 Przytłaczająca świadomość, że losy świata zależą od każdego mojego czynu –
 czy jesteś w ogóle w stanie wyobrazić sobie, co uczyniłbyś na moim miejscu?
+
 #RAZIEL
 [(twardo)
 Wybrałbym to, co słuszne, Kainie.
+
 #KAIN
 [(na moment łagodniejąc, gestem obejmuje salę)
 Rozejrzyj się, Razielu – zobacz, co pozostało po naszym imperium.
@@ -327,31 +342,35 @@ Bądź świadkiem końca epoki. Klanów rozproszonych po najdalszych zakątkach 
 To miejsce już dawno przestało być użyteczne –
 [(odwracając się ku Razielowi, lodowatym głosem)
 tak samo jak ty.
-*Wypowiadając te słowa, Kain dobywa Grabieżcy Dusz; energia ostrza natychmiast budzi się
-*do życia.
+*Wypowiadając te słowa, Kain dobywa Grabieżcy Dusz;
+*energia ostrza natychmiast budzi się do życia.
+
 #RAZIEL V.O.
 Grabieżca Dusz – starożytne ostrze Kaina – starsze niż którykolwiek z nas i
 po tysiąckroć bardziej zabójcze.
 Legendy głosiły, że miecz jest opętany i rośnie w siłę, pożerając dusze swych ofiar.
 Mimo całej naszej brawury wiedzieliśmy, co oznaczało, gdy Kain sięgał po niego w gniewie –
 że twój koniec był przesądzony.
+
 *Raziel i Kain stają do walki.
 *Kain unosi Grabieżcę Dusz przeciw Razielowi. Starożytne ostrze, uznawane za
 *niezniszczalne, rozpada się, gdy Kain próbuje zadać ostateczny cios.
-*Starcie dobiega końca wraz ze zniszczeniem Grabieżcy Dusz –
+*Starcie dobiega końca wraz ze zniszczeniem Grabieżcy Dusz.
 #KAIN
-Ostrze zostało zniszczone. A zatem – zaczęło się... a my jesteśmy o krok bliżej naszych
-przeznaczeń.
+Ostrze zostało zniszczone. A zatem – zaczęło się...
+a my jesteśmy o krok bliżej naszych przeznaczeń.
 [(śmiech cichnie echem, gdy Kain znika)
-*Gdy Raziel opada ponownie do sfery widmowej, odkrywa, że Grabieżca Dusz –
-*teraz już widmowe ostrze – unosi się przed nim. Raziel wyciąga rękę
-*(niemal niepewnie) i chwyta miecz. Ostrze rozbłyska, a jego energia splata się z Razielem.
+
+*Gdy Raziel opada ponownie do sfery widmowej, odkrywa, że Grabieżca Dusz – teraz już
+*widmowe ostrze – unosi się przed nim. Raziel wyciąga rękę (niemal niepewnie) i chwyta miecz.
+*Ostrze rozbłyska, a jego energia splata się z Razielem.
 #RAZIEL V.O.
 Przysiągłbym, że dostrzegłem błysk zachwytu w oku Kaina, gdy Grabieżca Dusz został
 zniszczony.
 Nie rozumiałem gry, w którą mnie wciągał...
 [(przyglądając się ostrzu, teraz należącemu do niego, wyczuwając jego ciężar)
 lecz znałem ruch kończący tę partię.
+
 *Gdy Raziel obejmuje ostrze, Pradawny Bóg ponownie przemawia –
 #PRADAWNY BÓG
 Od tej chwili ty i ostrze jesteście ze sobą nierozerwalnie związani. Grabieżca Dusz
@@ -360,41 +379,47 @@ Niszcząc miecz, uwolniłeś go z jego cielesnego więzienia, przywracając mu p
 widmowego ostrza o nieograniczonej mocy.
 Nie będąc już fizyczną bronią, może istnieć w sferze materialnej jedynie wtedy,
 gdy jesteś w pełni sił. A po przywołaniu będzie cię przy tych siłach utrzymywać.
-*Po tym, jak Raziel chwyta ostrze, zza Filarów wyłania się duch i powoli ku niemu
-*przepływa. To Ariel – duch Filarów, uwięziony tu od tysiącleci.
+
+*Po tym, jak Raziel chwyta ostrze, zza Filarów wyłania się duch
+*i powoli ku niemu dryfuje. To Ariel – duch Filarów, uwięziony tu od tysiącleci.
 #ARIEL
 [(życzliwie, lecz zdystansowana)
 Czymże jesteś, niepozorna duszyczko? Kolejnym stworzeniem Kaina, które przybyło dręczyć
 uwiązanego tu ducha?
+
 #RAZIEL
 [(lekko zbity z tropu, ostrożnie)
 Nie miałem zamiaru zakłócać twego spoczynku.
+
 #ARIEL
 [(z ironią i dystansem)
 Spoczynku? By zasnąć, potrzeba ciała... skóry i kości, by móc się położyć.
 Nie, dziecko – mogę jedynie obserwować i wspominać, nieustannie świadoma
 przemijania tego nieszczęsnego świata.
-Upiorna przeszłość, nieznośna przyszłość – czy są jednym i tym samym?
-Czy zawsze tu byłam?
+Upiorna przeszłość, nieznośna przyszłość – czy są jednym i tym samym? Czy zawsze tu byłam?
+
 #RAZIEL
 Jak doszło do tego, że nawiedzasz te Filary?
+
 #ARIEL
 [(wspominając, z narastającym gniewem)
 Kain odmówił poświęcenia. Filar Równowagi, skażony do cna, stał się pomnikiem jego
-ślepych ambicji.
-Teraz Filary służą jedynie temu, by więzić mnie tutaj – w moim wiecznym
-więzieniu. Wszystko przez chciwość twego pana, Kaina...
+ślepych ambicji. Teraz Filary służą jedynie temu, by więzić mnie tutaj –
+w moim wiecznym więzieniu. Wszystko przez chciwość twego pana, Kaina...
+
 #RAZIEL
 Ten drań nie ma prawa żądać ode mnie posłuszeństwa.
+
 #ARIEL
 Zatem mamy wspólnego wroga, Razielu. Wróć tu, gdy będziesz potrzebował.
 Ariel pamięta to, co inni zapomnieli...
+
 *Gdy Raziel opuszcza Sanktuarium Klanów, Pradawny udziela mu kolejnych wskazówek:
 #PRADAWNY BÓG
 Twierdza twojego brata Zephona leży daleko na wschodzie, za ruinami, które minąłeś,
-opuszczając Podziemie.
-On i jego potomstwo zamknęli się w opuszczonej katedrze po tym, jak wymordowali
-strzegących jej ludzi.
+opuszczając Podziemie. On i jego potomstwo zamknęli się w opuszczonej katedrze po tym,
+jak wymordowali strzegących jej ludzi.
+
 
 -ROZDZIAŁ 8 – ZDŁAWIONY TYTAN
 *Raziel po raz pierwszy wkracza do Niemej Katedry.
@@ -402,75 +427,76 @@ strzegących jej ludzi.
 Niegdyś świadectwo buntu ludzkości przeciw Imperium Kaina, ta górująca nad miastem
 katedra stoi teraz opuszczona, a wierni, którzy niegdyś odprawiali tu swe obrzędy,
 od stuleci spoczywają w grobach.
-Jej architekci wznieśli ją jako broń przeciw wampirzej pladze – monumentalny instrument
-z mosiądzu i kamienia.
+Jej architekci wznieśli ją jako broń przeciw wampirzej pladze –
+monumentalny instrument z mosiądzu i kamienia.
 Piszczałki, niegdyś nastrojone, by rozbrzmiewać zabójczym hymnem, teraz milczały,
 a opustoszałe wnętrza jedynie niosły echo ich bezsilności.
 
+
 -ROZDZIAŁ 9 – PASOŻYTNICZY ŻYWICIEL
-*Przedzierając się na sam szczyt Niemej Katedry, Raziel wreszcie dociera do leża
-*Zephona – kolejnego ze swych dawnych braci i współtowarzyszy w randze porucznika.
-*Zephon jest odrażającą karykaturą dawnego siebie; niewiele pozostało w nim z
-*ludzkiej postaci – jego ciało jest nienaturalnie wychudzone i owadzie, skórę pokrywa
-*chitynowy pancerz, a ramiona przeobraziły się w przypominające odnóża modliszki
-*szpony zdolne do zadawania śmiertelnych ciosów. Jego ciało przytwierdzone jest do
-*sufitu i okolicznych ścian gęstymi masami pajęczyny. Jedynie twarz zdradza ślady
-*jego dawnego człowieczeństwa.
+*Przedzierając się na sam szczyt Niemej Katedry, Raziel wreszcie dociera do leża Zephona –
+*kolejnego ze swych dawnych braci i współtowarzyszy w randze porucznika. Zephon jest
+*odrażającą karykaturą dawnego siebie; niewiele pozostało w nim z ludzkiej postaci –
+*jego ciało jest nienaturalnie wychudzone i owadzie, skórę pokrywa chitynowy pancerz,
+*a ramiona przeobraziły się w przypominające odnóża modliszki szpony zdolne do zadawania
+*śmiertelnych ciosów. Jego ciało przytwierdzone jest do sufitu i okolicznych ścian gęstymi
+*masami pajęczyny. Jedynie twarz zdradza ślady jego dawnego człowieczeństwa.
+
 *Głos Zephona – syczący i szeleszczący – doskonale współgra z jego pajęczą naturą.
 *Na powitanie Raziela wysuwa swe ciało i opuszcza się z sufitu, gdy ten wchodzi do komnaty.
 #ZEPHON
-Ach, syn marnotrawny...
-Dla ciebie nie ma powrotu, Razielu.
+Ach, syn marnotrawny... Dla ciebie nie ma powrotu, Razielu.
+
 #RAZIEL
 Zephon, twój wygląd cię zdradza – wiernie odzwierciedla stan twej duszy...
+
 #ZEPHON
-...a ty nie jesteś już jego pięknym Razielem. Umiłowanym pierworodnym,
-który okazał się zdrajcą.
-Przegapiłeś tak wiele przemian, mały Razielu. Rozejrzyj się. Spójrz,
-jak ludzkie narzędzie zagłady stało się moim domem... niemal moim ciałem.
+...a ty nie jesteś już jego pięknym Razielem – umiłowanym pierworodnym, 
+tóry okazał się zdrajcą. Przegapiłeś tak wiele przemian, mały Razielu. Rozejrzyj się – 
+zobacz, jak ludzkie narzędzie zagłady stało się moim domem... niemal moim ciałem.
 Kokonem z cegły i granitu, z którego obserwuję przepoczwarzający się świat...
+
 #RAZIEL
 [(poprawiając Zephona, z obrzydzeniem)
 Kryjówka, w której można tchórzliwie czaić się w mroku, by potem znienacka rzucić się
-na ofiarę uwięzioną w pułapce.
-Popełniłeś jednak błąd, pozostawiając mnie przy życiu, i teraz to ty
-ugniesz się pod moją wolą.
+na ofiarę uwięzioną w pułapce. Popełniłeś jednak błąd, pozostawiając mnie przy życiu,
+i teraz to ty ugniesz się pod moją wolą.
+
 #ZEPHON
 Wola... instynkt... odruch... dla umysłu insekta to niemal to samo.
-Ostrzegam cię, bracie – wraz z posturą urósł również mój apetyt.
-Podejdź bliżej, kąsku...
-*Gdy Raziel pokonuje Zephona i pochłania jego duszę –
+Ostrzegam cię, bracie – wraz z posturą urósł również mój apetyt. Podejdź bliżej, kąsku...
+*Raziel pokonuje Zephona i pochłania jego duszę.
 #ZEPHON
 [(umierając w agonii)
 Nieeee!
+
 #PRADAWNY BÓG
-Pochłaniając odstępczą duszę Zephona, zyskałeś nowy dar.
-Tak jak jego wampirzy rój, możesz teraz wspinać się na wcześniej niedostępne ściany –
-lecz wyłącznie w sferze materialnej.
+Pochłaniając odstępczą duszę Zephona, zyskałeś nowy dar. Tak jak jego wampirzy rój, możesz
+teraz wspinać się na wcześniej niedostępne ściany – lecz wyłącznie w sferze materialnej.
 W świecie widmowym te pozbawione cech fizycznych obiekty cię nie utrzymają.
-*Gdy Raziel opuszcza komnatę Zephona –
-#PRADAWNY BÓG
+*Gdy Raziel opuszcza komnatę Zephona:
 W górach za Filarami kataklizmy Nosgothu odsłoniły pradawną zbrodnię.
-Obdarzony darem Zephona możesz teraz podążyć ścieżką,
-która dotąd pozostawała zamknięta.
+Obdarzony darem Zephona możesz teraz podążyć ścieżką, która dotąd pozostawała zamknięta.
+
 
 -ROZDZIAŁ 10 – PŁYTKI GRÓB
-*Po opuszczeniu Filarów Raziel natrafia na wąskie, kręte przejście. Podążając ścieżką,
-*wychodzi na polanę. Ponad nim wznosi się pradawna fasada architektoniczna – święte miejsce,
-*dziś w połowie obrócone w ruinę.
+*Po opuszczeniu Filarów Raziel natrafia na wąskie, kręte przejście.
+*Podążając ścieżką, wychodzi na polanę. Ponad nim wznosi się pradawna fasada architektoniczna –
+*święte miejsce, dziś w połowie obrócone w ruinę.
 #RAZIEL V.O.
 Starożytny grobowiec Sarafanów – niegdyś niemożliwy do spenetrowania... Teraz, spustoszony
-kataklizmami, odsłonił swe tajemnice.
-W czasach Voradora, na wieki przed stworzeniem Kaina, wojowniczy kapłani zakonu Sarafanów
-prowadzili bezlitosną wojnę przeciw wampirzym plemionom Nosgothu. Pod pozorem
-sprawiedliwości dopuszczali się nieograniczonych aktów przemocy – masakrując zarówno
-młodzików, jak i starożytne wampiry, zdziesiątkowali całe rody w zaledwie kilka dziesięcioleci.
-Teraz spoczywają tu ich szczątki – ciała uświęconych morderców.
-*Gdy Raziel wkracza do pradawnego korytarza prowadzącego do grobowca Sarafanów, Pradawny
-*ostrzega:
+kataklizmami, odsłonił swe tajemnice. W czasach Voradora, na wieki przed stworzeniem Kaina,
+wojowniczy kapłani zakonu Sarafanów prowadzili bezlitosną wojnę przeciw wampirzym plemionom
+Nosgothu. Pod pozorem sprawiedliwości dopuszczali się nieograniczonych aktów przemocy –
+masakrując zarówno młodzików, jak i starożytne wampiry, zdziesiątkowali całe rody w zaledwie
+kilka dziesięcioleci. Teraz spoczywają tu ich szczątki – ciała uświęconych morderców.
+
+*Gdy Raziel wkracza do pradawnego korytarza prowadzącego do grobowca Sarafanów,
+*Pradawny ostrzega:
 #PRADAWNY BÓG
 Strzeż się, Razielu. Wewnątrz spoczywa zapomniana historia.
 Poznaj samego siebie – choć może cię to zniszczyć...
+
 
 -ROZDZIAŁ 11 – STRASZLIWE OBJAWIENIE
 *Po odkryciu krętego przejścia Raziel zagłębia się w czeluści grobowca. Korytarz zdaje się
@@ -487,51 +513,54 @@ Nie byłem gotów na to, co czekało mnie za progiem...
 *roztrzaskanych trumnach. Mija miejsca spoczynku powoli, wstrząśnięty odkryciem;
 *ciężar objawienia stopniowo do niego dociera. Zatrzymuje się przy własnej krypcie,
 *odczytując wyryte tam imię.
-#RAZIEL V.O.
-Te krypty... Zbezczeszczone trumny świętych Sarafanów... Opatrzone imionami moich braci...
-I mym własnym...
-#RAZIEL V.O.
+Te krypty... Zbezczeszczone trumny świętych Sarafanów...
+Opatrzone imionami moich braci... I mym własnym...
 Ironia bluźnierczego czynu Kaina spadła na mnie z miażdżącą siłą objawienia...
 [(pauza)
-Czy moje ręce nie były równie splamione krwią jak ich? Gorzej. Przelałem krew swych własnych
-braci – towarzyszy broni, których spustoszone groby leżały przede mną.
+Czy moje ręce nie były równie splamione krwią jak ich? Gorzej – przelałem krew
+swych własnych braci – towarzyszy broni, których spustoszone groby leżały przede mną.
+
 #PRADAWNY BÓG
 [(potwierdzając jego odkrycie)
 Tak, Razielu – byłeś Sarafanem... zrodzonym z tej samej siły, która zniszczyła twoją rasę.
-#PRADAWNY BÓG
 [(kontynuuje, z wyraźną ironią)
 Byliście wybrani jeszcze przed zaraniem imperium.
 Kain – samozwańczy władca Nosgothu – ograbił te groby i uprowadził was z tej krypty.
 Tchnąc swój wampirzy dar w wasze zbezczeszczone ciała, wskrzesił was jako umiłowanych synów.
 
+
 -ROZDZIAŁ 12 – STRAŻNK TAJEMNIC
-*Strażnik progu wewnątrz Grobowca Sarafanów strzeże relikwii, która po jego
-*zniszczeniu obdarza Raziela zdolnością projekcji Mocy.
+*Strażnik progu wewnątrz Grobowca Sarafanów strzeże relikwii,
+*która po jego zniszczeniu obdarza Raziela zdolnością projekcji Mocy.
 *Strażnik Grobowca jest ogromnym, pradawnym wampirem z klanu Turelimów.
 *Jego głos jest głęboki i donośny, odzwierciedlając jego rozmiar i potęgę.
 #STRAŻNIK GROBOWCA
-[(warcząca groźba)
+[(groźnie warcząc)
 Heretyku! Nie przejdziesz dalej...
+
 #RAZIEL
 [(sarkastycznie, z pogardą)
 Cóż za lojalność... i to względem tego, który kazał ci tu warować jak uwiązanemu psu.
 Czy jesteś zadowolony z ochłapów, które ci rzuca?
+
 #STRAŻNIK GROBOWCA
 [(rozgniewany)
 Twoje obelgi nie uśmierzą ci cierpień zagłady.
+
 #RAZIEL
-Kain już raz mnie zabił – oto efekt.
-Nie mam powodu, by się ciebie obawiać.
-*Po pokonaniu Strażnika Grobowca Raziel otrzymuje zdolność projekcji Mocy:
+Kain już raz mnie zabił – oto efekt. Nie mam powodu, by się ciebie obawiać.
+*Po pokonaniu Strażnika Grobowca Raziel otrzymuje zdolność projekcji Mocy.
+
 #PRADAWNY BÓG
-Ta relikwia umożliwia ci sprężanie i manipulację przestrzenią. Jako twoja symbiotyczna broń
-Grabieżca również został wzmocniony.
-Możesz skupiać i wystrzeliwać ładunki energii kinetycznej, aby uderzać obiekty
-znajdujące się poza twoim zasięgiem.
+Ta relikwia umożliwia ci sprężanie i manipulację przestrzenią.
+Jako twoja symbiotyczna broń Grabieżca również został wzmocniony.
+Możesz skupiać i wystrzeliwać ładunki energii kinetycznej,
+aby uderzać obiekty znajdujące się poza twoim zasięgiem.
+
 
 -ROZDZIAŁ 13 – ZBESCZESZCZONE OPACTWO
-*Gdy Raziel odkrywa dziedziniec Zatopionego Opactwa, Pradawny Bóg przekazuje
-*następujące informacje:
+*Gdy Raziel odkrywa dziedziniec Zatopionego Opactwa,
+*Pradawny Bóg przekazuje następujące informacje:
 #PRADAWNY BÓG
 Będące niegdyś sanktuarium przeciw wampirzemu zagrożeniu, to opactwo zostało zalane wodą
 wypływającą z tej zniszczonej krainy.
@@ -539,62 +568,73 @@ Twój brat Rahab wraz z potomstwem śmiertelnie ranionym najsłabszymi promienia
 przezwyciężyli swą wrażliwość na wodę i uciekli z powierzchni.
 Teraz nawiedzają te zatopione ruiny, pływając pośród ich mrocznych głębin.
 
+
 -ROZDZIAŁ 14 – NIEBO PIEKIEŁ
-*Raziel odnajduje Rahaba w samym sercu Zatopionego Opactwa, ukrytego w kapitularzu
-*położonym w centrum dziedzińca.
-*Rahab jest ogromny i tak dalece zdegenerowany, że bardziej przypomina płaza niż
-*istotę, którą niegdyś był. Jego ludzkie rysy pozostają jeszcze mgliście rozpoznawalne,
-*a pewne szczątkowe pozostałości dawnej anatomii wciąż są widoczne – w potężnych ramionach
-*oraz w skarlałych, szczątkowych nogach zwisających z jego torsu.
+*Raziel odnajduje Rahaba w samym sercu Zatopionego Opactwa, ukrytego w kapitularzu położonym
+*w centrum dziedzińca. Rahab jest ogromny i tak dalece zdegenerowany, że bardziej przypomina
+*płaza niż istotę, którą niegdyś był. Jego ludzkie rysy pozostają jeszcze mgliście
+*rozpoznawalne, a pewne szczątkowe pozostałości dawnej anatomii wciąż są widoczne –
+*w potężnych ramionach oraz w skarlałych, szczątkowych nogach zwisających z jego torsu.
 #RAHAB
 [(wita Raziela, unosząc się do pełnej wysokości)
 Raziel...
+
 #RAZIEL
 Rahab... Nieźle dostosowałeś się do swego otoczenia, jak na kogoś tak niedopasowanego...
+
 #RAHAB
-Nie kpij ze mnie, Razielu. Z nas wszystkich powinieneś najbardziej cenić potęgę płynącą
-z przezwyciężania słabości.
-[(pause)
-#RAHAB
+Nie kpij ze mnie, Razielu.
+Z nas wszystkich powinieneś najbardziej cenić potęgę płynącą z przezwyciężania słabości.
+[(pauza)
 Kain ostrzegał, że przybędziesz.
+
 #RAZIEL
 Rozmawiasz z tym mordercą?
+
 #RAHAB
 Powściągnij lepiej swój bluźnierczy język.
+
 #RAZIEL
 I cóż jeszcze ci powiedział?
+
 #RAHAB
 Że mnie zniszczysz.
+
 #RAZIEL
 W rzeczy samej. Zanim jednak wyrwę twą duszę z jej okowów, powiedz mi, czy wiesz,
 kim byliśmy, zanim Kain nas ściągnął z powrotem?
+
 #RAHAB
 [(jakby wypowiadał coś plugwego)
 Ludźmi...
+
 #RAZIEL
 Sarafanami, Rahabie. Przeciwieństwem tego, w co zawsze wierzyliśmy.
+
 #RAHAB
 Czy to ważne? Byliśmy zgubieni – ocalił nas.
+
 #RAZIEL
 [(z niedowierzaniem)
 Ocalił? Niby przed czym?
+
 #RAHAB
 Przed nami samymi.
 [(rozpoczynają walkę)
 *Gdy Rahab umiera:
-#RAHAB
 [(w agonii)
 To mój koniec!
+
 *Wskazówki Pradawnego Boga po pokonaniu Rahaba:
 #PRADAWNY BÓG
 Pożarcie duszy Rahaba pozwoliło ci przezwyciężyć wrażliwość na dotyk wody.
 Zanurzenie nie rozpuści już twojego fizycznego ciała, pozwalając ci dopłynąć
 do miejsc wcześniej pozostających poza twoim zasięgiem.
 *Gdy Raziel opuszcza kapitularz Rahaba, Pradawny Bóg przekazuje następujące informacje:
-#PRADAWNY BÓG
 Wieki temu twój brat Dumah uciekł wraz ze swoim klanem na północne pustkowia Nosgothu.
 Dzięki darowi duszy Rahaba odnajdź jego górską twierdzę. Lecz bądź ostrożny –
 te skute lodem pustkowia skrywają tajemnice, które nie zostały jeszcze odkryte.
+
 
 -ROZDZIAŁ 15 – MILCZĄCE MIASTO
 *Raziel wyrusza do Zrujnowanego Miasta Dumahimów, by stawić czoła Dumie, kolejnemu ze
@@ -604,16 +644,17 @@ te skute lodem pustkowia skrywają tajemnice, które nie zostały jeszcze odkryt
 *Dumahimowie padli ofiarą najazdu łowców wampirów z pobliskiego ludzkiego miasta,
 *który miał miejsce przed wiekami.
 #RAZIEL V.O.
-To miasto kiedyś tętniło życiem moich krewniaków. Czyżby pozostałe klany spotkał
-ten sam los, co mój?
+To miasto kiedyś tętniło życiem moich krewniaków.
+Czyżby pozostałe klany spotkał ten sam los, co mój?
 Czy w swoim szale Kain nie oszczędził żadnego ze swych rodów?
+
 #PRADAWNY BÓG
 To nie Kain, lecz własna arogancja Dumy sprowadziła zagładę na jego klan.
 Te bronie są ludzkie, Razielu. Ufni w swoją potęgę Dumah i jego potomstwo nie dostrzegli
 ataku najmniej oczekiwanych napastników...
-Zaślepieni pychą dali się zaskoczyć i zostali zdziesiątkowani przez ludzkich
-łowców wampirów niemal bez oporu. Nieliczni, którym udało się ujść z życiem,
-zniżyli się do roli padlinożerców.
+Zaślepieni pychą dali się zaskoczyć i zostali zdziesiątkowani przez ludzkich łowców wampirów
+niemal bez oporu. Nieliczni, którym udało się ujść z życiem, zniżyli się do roli padlinożerców.
+
 
 -ROZDZIAŁ 16 – UWIĘZIONY W WIECZNYM LIMBO
 *Po przedarciu się przez miasto Raziel wkracza wreszcie do sali tronowej Dumy. W głębi
@@ -622,36 +663,46 @@ zniżyli się do roli padlinożerców.
 #RAZIEL V.O.
 Mój brat, Dumah – potężny wojownik, przynajmniej za życia. Spaliłby się ze wstydu,
 widząc mnie zastającego go nabitego niczym prosiak na ruszt.
-*Ironicznie, Raziel nie jest w stanie pokonać Dumy, dopóki najpierw nie przywróci go do
-*życia. Wyciąga więc włócznie wbite w jego ciało. Gdy usuwa ostatnią –
+*Ironicznie, Raziel nie jest w stanie pokonać Dumy, dopóki najpierw nie przywróci go do życia.
+*Wyciąga więc włócznie wbite w jego ciało.
+
+*Gdy usuwa ostatnią:
 #DUMAH
 [(groźnie)
 Nareszcie wolny... Dziękuję ci, bracie.
+
 #RAZIEL
 Nie śpiesz się z podziękowaniami, Dumo.
 Nie zapomniałem, czyje ręce zaciągnęły mnie przed otchłań.
+
 #DUMAH
-Przez wszystkie te stulecia w limbo urosłem w siłę. Nawet Kain nie może się ze mną równać.
+Przez wszystkie te stulecia w limbo urosłem w siłę.
+Nawet Kain nie może się ze mną równać.
+
 #RAZIEL
 Nawet najpotężniejszy wampir ma swoją słabość.
+
 #DUMAH
 Powinniśmy przetestować twoją tezę, Razielu.
+
 #RAZIEL
-Moje pragnienie krwi zastąpił o wiele mroczniejszy głód. Pożrę twoją duszę
-jeszcze przed zmrokiem.
-*Gdy Raziel skutecznie spala Dumę w komnacie pieca:
+Moje pragnienie krwi zastąpił o wiele mroczniejszy głód.
+Pożrę twoją duszę jeszcze przed zmrokiem.
+
+*Raziel postępem zaciągą Dumę do wnętrza ogromnego pieca, który następnie rozpala:
 #DUMAH
 [(umiera w agonii, trawiony płomieniami)
+
 *Po pokonaniu Dumy i pochłonięciu jego duszy:
 #PRADAWNY BÓG
-Pożerając duszę Dumy, zyskałeś zdolność krępowania wrogów przy użyciu
-wstęgi duchowej energii.
+Pożerając duszę Dumy, zyskałeś zdolność krępowania wrogów przy użyciu wstęgi duchowej energii.
 Energia ta objawia się zarówno w sferze materialnej, jak i widmowej, a w świecie fizycznym
 pozwala manipulować pozornie nieruchomymi obiektami.
 
+
 -ROZDZIAŁ 17 – STAROŻYTNA ZAGADKA
-*Na północ od Miasta Dumahimów Raziel odkrywa ścieżkę prowadzącą w góry. Wijąc się
-*pomiędzy skałami, doprowadza ona do wejścia do Jaskini Wyroczni.
+*Na północ od Miasta Dumahimów Raziel odkrywa ścieżkę prowadzącą w góry.
+*Wijąc się pomiędzy skałami, doprowadza ona do wejścia do Jaskini Wyroczni.
 *Raziel odnajduje od dawna ukryte wejście do komnaty Wyroczni.
 #RAZIEL V.O.
 Jaskinia Wyroczni – miejsce pierwszego znamiennego spotkania Kaina z Moebiusem.
@@ -662,16 +713,17 @@ bezwzględny intrygant zdolny manipulować samym czasem.
 Jaskinie te pozostawały opuszczone od chwili, gdy Kain zamordował go przed wiekami.
 Mówiono jednak, że – podobnie jak sam Moebius – skrywają coś znacznie większego...
 i bardziej złożonego...
-#RAZIEL V.O.
+
 [(kontynuując)
-Wyczuwałem, że Kain tutaj był... i byłem gotów zstąpić nawet na dno piekieł, byle go odnaleźć.
-*Po wejściu do środka Raziel natrafia na posąg Moebiusa, Szwacza Czasu – przyglądając się
-*mu, rozmyśla:
-#RAZIEL V.O.
+Wyczuwałem, że Kain tutaj był...
+i byłem gotów zstąpić nawet na dno piekieł, byle go odnaleźć.
+*Po wejściu do środka Raziel natrafia na posąg Moebiusa – Szwacza Czasu.
+*Przygląda mu się, rozmyślając.
 [(z lekką pogardą)
 A oto – jak mniemałem – sam Szwacz Czasu, Moebius.
 Nie wyglądał tak imponująco, jak sugerowały opowieści Kaina.
 A jednak nawet jego martwy posąg emanował pewną aurą potęgi...
+
 
 -ROZDZIAŁ 18 – W SIDŁACH PRZEZNACZENIA
 *W głębinach aparatury Moebiusa manipulującej strumieniem czasu Raziel odkrywa szereg
@@ -684,116 +736,131 @@ A jednak nawet jego martwy posąg emanował pewną aurą potęgi...
 [(zdumiony, przerażony)
 Moje przybycie do tych przeklętych czasów...
 Cóż to za czarnoksięstwo?
+
 #PRADAWNY BÓG
 To nie iluzja, Razielu, lecz wgląd w sam strumień czasu.
+
 *Drugi portal ukazuje odkrycie Grobowca Sarafanów oraz jego pochodzenia
 #RAZIEL
 Niemożliwe – to musiał być jakiś podstęp Kaina...
-*Trzeci portal przedstawia moment zniszczenia Grabieżcy Dusz podczas starcia Kaina
-*i Raziela –
-#RAZIEL
+
+*Trzeci portal przedstawia moment zniszczenia Grabieżcy Dusz podczas starcia Kaina i Raziela.
 Te wizje mnie prześladują... czy wszystko to zostało przepowiedziane?
+
 *Kolejny portal ukazuje Raziela konfrontującego Kaina w nieznanym miejscu,
-*w jakimś przyszłym czasie
-#RAZIEL
-Mój umysł pogrąża się w sprzeczności... Czy Kain oczekuje mnie za chwilę,
-czy dopiero za kilka wieków?
+*w jakimś przyszłym czasie.
+Mój umysł pogrąża się w sprzeczności...
+Czy Kain oczekuje mnie za chwilę, czy dopiero za kilka wieków?
+
 *Następny portal przedstawia Raziela przebijającego Ariel Grabieżcą Dusz
 *(wydarzenie, które jeszcze nie nastąpiło)
-#RAZIEL
 [(przerażony)
 To niemożliwe! Jakie szaleństwo zwiastuje ta scena?
 Kain musi mieć mnie za naiwnego, bym miał uwierzyć w te kłamstwa...
+
 *Ostatni portal ukazuje Raziela dzierżącego wzmocnionego Grabieżcę Dusz,
 *którego ostrze wiję się splecionymi czarnymi i czerwonymi energiami
-#RAZIEL
 Czy to widmo jest wytworem mojego umysłu, czy echem przyszłych wydarzeń?
 
+
 -ROZDZIAŁ 19 – TYRANIA GWIAZD
-*Przedzierając się w głąb kompleksu Moebiusa, Raziel dociera do
-*„serca” jego urządzenia manipulującego strumieniem czasu – komnaty Chronoplastu.
+*Przedzierając się w głąb kompleksu Moebiusa, Raziel dociera do „serca” jego urządzenia
+*manipulującego strumieniem czasu – komnaty Chronoplastu.
 *Kain ujawnia swoją obecność, wychodząc z cienia pomieszczenia.
 #KAIN
-[(revealing himself to Raziel)
-Nareszcie. Muszę przyznać, że jestem zawiedziony twoimi postępami. Myślałem, że zjawisz się
-tu wcześniej. Powiedz – czy trudno było ci zabić swoich braci?
+[(ujawniając się Razielowi)
+Nareszcie. Muszę przyznać, że jestem zawiedziony twoimi postępami.
+Myślałem, że zjawisz się tu wcześniej. Powiedz – czy trudno było ci zabić swoich braci?
+
 #RAZIEL
 Czy trudno było ci wtrącić mnie do otchłani?
+
 #KAIN
 Nie – wierzyłem w ciebie. W twoją zdolność do nienawiści.
 W pewność nieomylności twego oburzenia.
+
 #RAZIEL
 Kłamstwa. Nie mogłeś przewidzieć tego wszystkiego.
+
 #KAIN
 Wieczność jest nieubłagana, Razielu.
-[(pause)
+[(pauza)
 Gdy po raz pierwszy zakradłem się do tej komnaty przed wiekami, nie pojmowałem
-prawdziwej potęgi wiedzy.
-Znać przyszłość, Razielu... widzieć jej ścieżki i strumienie, ciągnące się w nieskończoność...
-Jako człowiek nie mogłem pojąć tak zakazanych prawd... Jednak teraz każdy z nas jest
-kimś więcej niż dawniej...
+prawdziwej potęgi wiedzy. Znać przyszłość, Razielu... widzieć jej ścieżki i strumienie,
+ciągnące się w nieskończoność... Jako człowiek nie mogłem pojąć tak zakazanych prawd...
+Jednak teraz każdy z nas jest kimś więcej niż dawniej...
 Czy spoglądając na płaszczyzny możliwości, nie czujesz całą duszą,
-że staliśmy się niczym bogowie?
-I jako tacy – czyż nie jesteśmy niepodzielni? Tak długo, jak istnieje przynajmniej
-jeden z nas – jesteśmy legionem...
+że staliśmy się niczym bogowie? I jako tacy – czyż nie jesteśmy niepodzielni?
+Tak długo, jak istnieje przynajmniej jeden z nas – jesteśmy legionem...
 Dlatego, gdy muszę poświęcić swe dziecko pustce, czynię to ze spokojem w sercu...
+
 #RAZIEL
-Jakże poetycko, Kainie, lecz ostatecznie nie oferujesz nic poza wygodną wymówką dla
-swych zbrodni.
+Jakże poetycko, Kainie, lecz ostatecznie nie oferujesz nic
+poza wygodną wymówką dla swych zbrodni.
+
 #KAIN
 Te komnaty oferują wgląd w przyszłość wystarczająco cierpliwym, by obserwować –
 najwyraźniej w pośpiechu, by mnie dopaść, nie zajrzałeś wystarczająco głęboko.
 Nasza przyszłość jest z góry przesądzona – Moebius przepowiedział moją tysiąclecie temu.
-Każdy z nas odgrywa rolę przydzieloną mu przez los. Nieuchronnie podążamy
-uprzednio wyznaczonymi ścieżkami.
-Wolna wola jest jedynie iluzją.
+Każdy z nas odgrywa rolę przydzieloną mu przez los.
+Nieuchronnie podążamy uprzednio wyznaczonymi ścieżkami. Wolna wola jest jedynie iluzją.
+
 *Raziel odpowiada, zmieniając temat.
 #RAZIEL
 Dotarłem do Grobowca Sarafanów, Kainie. Twoja brudna tajemnica została ujawniona.
 Jak mogłeś przemienić kapłana Sarafanów w wampira?
+
 #KAIN
 Jak mógłbym tego nie uczynić? Przyjaciół należy trzymać blisko, a wrogów – jeszcze bliżej.
-Czy nie dostrzegasz absurdalnego piękna paradoksu? Jesteśmy tacy sami –
-Sarafani i wampiry.
+Czy nie dostrzegasz absurdalnego piękna paradoksu? Jesteśmy tacy sami – Sarafani i wampiry.
 Z naszymi świętymi wojnami... naszą obsesją panowania nad Nosgothem...
 Któż mógłby służyć mi lepiej niż ci, których pasja przekracza wszelkie granice dobra i zła?
+
 #RAZIEL
-Pozwolę sobie nie przyklasnąć bluźnierstwu, którego się dopuściłeś. Sarafani byli zbawcami
-chroniącymi Nosgoth przed zepsuciem, które my reprezentujemy.
+Pozwolę sobie nie przyklasnąć bluźnierstwu, którego się dopuściłeś.
+Sarafani byli zbawcami chroniącymi Nosgoth przed zepsuciem, które my reprezentujemy.
 Przejrzałem na oczy, Kainie – nie widzę żadnej szlachetności w nieżyciu,
 które siłą narzuciłeś memu ciału.
+
 #KAIN
-Mogłeś odkryć swoją przeszłość, lecz nic o niej nie wiesz. Myślisz, że Sarafani byli szlachetni,
-altruistyczni? Nie bądź naiwny. Ich działania niczym nie różniły się od naszych.
+Mogłeś odkryć swoją przeszłość, lecz nic o niej nie wiesz.
+Myślisz, że Sarafani byli szlachetni, altruistyczni?
+Nie bądź naiwny. Ich działania niczym nie różniły się od naszych.
+
 #RAZIEL
 Pogubiłeś się w meandrach moralnego relatywizmu, Kainie.
-[(then, gesturing toward the chamber of visions)
+[(wskazując gestem na komantę z wizjami)
 Te objawienia i przepowiednie... W co ty właściwie pogrywasz?
+
 #KAIN
 Przeznaczenie jest jedną wielką grą, czyż nie? A teraz kolej na mój ruch...
 *Kain dematerializuje się i rozpoczyna się walka.
 
+
 -ROZDZIAŁ 20 – DUSZYCZKA ZAGUBIONA W STRUMIENIACH CZASU
 *Po uruchomieniu ostatniego przełącznika Kain materializuje się przed gwiezdnym portalem
-*na górnym poziomie Chronoplastu. Wyraźnie wyczerpany, zwraca się do Raziela –
+*na górnym poziomie Chronoplastu. Wyraźnie wyczerpany, zwraca się do Raziela.
 #KAIN
 Omal mnie nie dopadłeś, Razielu...
 Ale to nie tutaj – ani nie w taki sposób – ma się to zakończyć.
 Los przewiduje więcej zwrotów akcji, nim ten dramat dobiegnie końca.
 *Kończąc mówić, odwraca się i przebiega przez gwiezdny portal.
+
 *Gdy Raziel przygotowuje się, by podążyć za Kainem w nieznaną otchłań,
 *bezcielesny głos Pradawnego Boga napomina go:
 #PRADAWNY BÓG
-[(warning, vaguely threatening)
-Miej się na baczności, Razielu – przekraczając ten próg, znajdziesz się poza moimi wpływami...
-*Raziel przechodzi przez portal i trafia do tajemniczej komnaty z symbolem nieskończoności
-*na posadzce – wkracza w świetlistą sadzawkę pośrodku pomieszczenia. Chwilę później
-*Moebius wychodzi z mroku, zwracając się do Raziela po imieniu.
+[(ostrzega, z nutą groźby)
+Miej się na baczności, Razielu – przekraczając ten próg,
+znajdziesz się poza moimi wpływami...
+
+*Raziel przechodzi przez portal i trafia do tajemniczej komnaty z symbolem
+*nieskończoności na posadzce – wkracza w świetlistą sadzawkę pośrodku pomieszczenia.
+*Chwilę później Moebius wychodzi z mroku, zwracając się do Raziela po imieniu.
 #MOEBIUS
-Raziel...
-Odkupiciel i niszczyciel... Pionek i mesjasz.
+Raziel... Odkupiciel i niszczyciel... Pionek i mesjasz.
 Witam, duszyczko zagubiona w strumieniach czasu...
 Witam... u progu twego przeznaczenia...
+
 #MOEBIUS V.O.
 Tam, gdzie czas jest jedynie pętelką,
 luźnym szwem w tkaninie wszechświata,
